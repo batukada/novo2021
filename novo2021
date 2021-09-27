@@ -1,665 +1,495 @@
-#EXTM3U url-tvg=""
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="? ex-Yu Countries [ex-Yu] ?" tvg-logo="https://picon-13398.kxcdn.com/ex-Yucountries.jpg" group-title="EX-YU TELEKOM",? ex-Yu Countries [ex-Yu] ?
-http://cloudcdn.tk:80/9ezd4YwalJnE639/2MHUyCg8tMdm549/16534
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="HRT 1 HR" tvg-logo="https://picon-13398.kxcdn.com/hrttv1.jpg" group-title="EX-YU TELEKOM",HRT 1 HR
-http://cloudcdn.tk:80/9ezd4YwalJnE639/2MHUyCg8tMdm549/1455
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="HRT 2 HR" tvg-logo="https://picon-13398.kxcdn.com/hrttv2.jpg" group-title="EX-YU TELEKOM",HRT 2 HR
-http://cloudcdn.tk:80/9ezd4YwalJnE639/2MHUyCg8tMdm549/1456
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="HRT 3 HR" tvg-logo="https://picon-13398.kxcdn.com/hrttv3.jpg" group-title="EX-YU TELEKOM",HRT 3 HR
-http://cloudcdn.tk:80/9ezd4YwalJnE639/2MHUyCg8tMdm549/2027
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="HRT 4 HR" tvg-logo="https://picon-13398.kxcdn.com/hrttv4.jpg" group-title="EX-YU TELEKOM",HRT 4 HR
-http://cloudcdn.tk:80/9ezd4YwalJnE639/2MHUyCg8tMdm549/13795
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Nova TV HR" tvg-logo="https://picon-13398.kxcdn.com/novatvexyu.jpg" group-title="EX-YU TELEKOM",Nova TV HR
-http://cloudcdn.tk:80/9ezd4YwalJnE639/2MHUyCg8tMdm549/1457
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RTL HR" tvg-logo="https://picon-13398.kxcdn.com/rtlhrexyu.jpg" group-title="EX-YU TELEKOM",RTL HR
-http://cloudcdn.tk:80/9ezd4YwalJnE639/2MHUyCg8tMdm549/1461
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RTL 2 HR" tvg-logo="https://picon-13398.kxcdn.com/rtl2hrexyu.jpg" group-title="EX-YU TELEKOM",RTL 2 HR
-http://cloudcdn.tk:80/9ezd4YwalJnE639/2MHUyCg8tMdm549/3166
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RTL Crime HR" tvg-logo="https://picon-13398.kxcdn.com/rtlcrimehrexyu.jpg" group-title="EX-YU TELEKOM",RTL Crime HR
-http://cloudcdn.tk:80/9ezd4YwalJnE639/2MHUyCg8tMdm549/13815
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RTL Passion HR" tvg-logo="https://picon-13398.kxcdn.com/rtlpassionhrexyu.jpg" group-title="EX-YU TELEKOM",RTL Passion HR
-http://cloudcdn.tk:80/9ezd4YwalJnE639/2MHUyCg8tMdm549/11274
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="24 Kitchen HR" tvg-logo="https://picon-13398.kxcdn.com/24kitchen.jpg" group-title="EX-YU TELEKOM",24 Kitchen HR
-http://cloudcdn.tk:80/9ezd4YwalJnE639/2MHUyCg8tMdm549/1476
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Doma TV HR" tvg-logo="https://picon-13398.kxcdn.com/domahrexyu.jpg" group-title="EX-YU TELEKOM",Doma TV HR
-http://cloudcdn.tk:80/9ezd4YwalJnE639/2MHUyCg8tMdm549/1446
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Z1 HR" tvg-logo="https://picon-13398.kxcdn.com/z1hrexyu.jpg" group-title="EX-YU TELEKOM",Z1 HR
-http://cloudcdn.tk:80/9ezd4YwalJnE639/2MHUyCg8tMdm549/13823
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DocuBox HD RS" tvg-logo="https://picon-13398.kxcdn.com/docuboxhd.jpg" group-title="EX-YU TELEKOM",DocuBox HD RS
-http://cloudcdn.tk:80/9ezd4YwalJnE639/2MHUyCg8tMdm549/20143
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AMC HD RS" tvg-logo="https://picon-13398.kxcdn.com/amchd.jpg" group-title="EX-YU TELEKOM",AMC HD RS
-http://cloudcdn.tk:80/9ezd4YwalJnE639/2MHUyCg8tMdm549/17276
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CBS Reality HR" tvg-logo="https://picon-13398.kxcdn.com/cbsreality.jpg" group-title="EX-YU TELEKOM",CBS Reality HR
-http://cloudcdn.tk:80/9ezd4YwalJnE639/2MHUyCg8tMdm549/17269
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Da Vinci Learning HR" tvg-logo="https://picon-13398.kxcdn.com/davincilearning.jpg" group-title="EX-YU TELEKOM",Da Vinci Learning HR
-http://cloudcdn.tk:80/9ezd4YwalJnE639/2MHUyCg8tMdm549/17272
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Food Network HR" tvg-logo="https://picon-13398.kxcdn.com/foodnetwork.jpg" group-title="EX-YU TELEKOM",Food Network HR
-http://cloudcdn.tk:80/9ezd4YwalJnE639/2MHUyCg8tMdm549/17267
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Nova TV HD HR" tvg-logo="https://picon-13398.kxcdn.com/novatvexyu.jpg" group-title="EX-YU TELEKOM",Nova TV HD HR
-http://cloudcdn.tk:80/9ezd4YwalJnE639/2MHUyCg8tMdm549/17273
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Glas Drine BA" tvg-logo="https://picon-13398.kxcdn.com/gfba.jpg" group-title="EX-YU TELEKOM",Glas Drine BA
-http://cloudcdn.tk:80/9ezd4YwalJnE639/2MHUyCg8tMdm549/20142
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RTL Living HR" tvg-logo="https://picon-13398.kxcdn.com/rtlliving.jpg" group-title="EX-YU TELEKOM",RTL Living HR
-http://cloudcdn.tk:80/9ezd4YwalJnE639/2MHUyCg8tMdm549/17264
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sport Klub 1 HD HR" tvg-logo="https://picon-13398.kxcdn.com/sportklub1hdexyu.jpg" group-title="EX-YU TELEKOM",Sport Klub 1 HD HR
-http://cloudcdn.tk:80/9ezd4YwalJnE639/2MHUyCg8tMdm549/17252
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sport Klub 2 FHD HR" tvg-logo="https://picon-13398.kxcdn.com/sportklub2hdexyu.jpg" group-title="EX-YU TELEKOM",Sport Klub 2 FHD HR
-http://cloudcdn.tk:80/9ezd4YwalJnE639/2MHUyCg8tMdm549/17254
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sport Klub 4 HR" tvg-logo="https://picon-13398.kxcdn.com/sportklub4exyu.jpg" group-title="EX-YU TELEKOM",Sport Klub 4 HR
-http://cloudcdn.tk:80/9ezd4YwalJnE639/2MHUyCg8tMdm549/17249
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sport Klub 5 HR" tvg-logo="https://picon-13398.kxcdn.com/sportklub5exyu.jpg" group-title="EX-YU TELEKOM",Sport Klub 5 HR
-http://cloudcdn.tk:80/9ezd4YwalJnE639/2MHUyCg8tMdm549/17250
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sport Klub 6 HR" tvg-logo="https://picon-13398.kxcdn.com/sportklub6exyu.jpg" group-title="EX-YU TELEKOM",Sport Klub 6 HR
-http://cloudcdn.tk:80/9ezd4YwalJnE639/2MHUyCg8tMdm549/17251
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RTV TK BA" tvg-logo="https://picon-13398.kxcdn.com/rtvtkexyu.jpg" group-title="EX-YU TELEKOM",RTV TK BA
-http://cloudcdn.tk:80/9ezd4YwalJnE639/2MHUyCg8tMdm549/3164
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Face TV BA" tvg-logo="https://picon-13398.kxcdn.com/facetvbhexyu.jpg" group-title="EX-YU TELEKOM",Face TV BA
-http://cloudcdn.tk:80/9ezd4YwalJnE639/2MHUyCg8tMdm549/3165
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="OBN BA" tvg-logo="https://picon-13398.kxcdn.com/obnbhexyu.jpg" group-title="EX-YU TELEKOM",OBN BA
-http://cloudcdn.tk:80/9ezd4YwalJnE639/2MHUyCg8tMdm549/1458
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Al Jazeera Balkans FHD BA" tvg-logo="https://picon-13398.kxcdn.com/aljazeerabalkanexyu.jpg" group-title="EX-YU TELEKOM",Al Jazeera Balkans FHD BA
-http://cloudcdn.tk:80/9ezd4YwalJnE639/2MHUyCg8tMdm549/3189
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Alternativna TV BA" tvg-logo="https://picon-13398.kxcdn.com/atvexyu.jpg" group-title="EX-YU TELEKOM",Alternativna TV BA
-http://cloudcdn.tk:80/9ezd4YwalJnE639/2MHUyCg8tMdm549/13797
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RTRS RS" tvg-logo="https://picon-13398.kxcdn.com/rtrsexyu.jpg" group-title="EX-YU TELEKOM",RTRS RS
-http://cloudcdn.tk:80/9ezd4YwalJnE639/2MHUyCg8tMdm549/6566
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RTRS Plus RS" tvg-logo="https://picon-13398.kxcdn.com/rtrsplusexyu.jpg" group-title="EX-YU TELEKOM",RTRS Plus RS
-http://cloudcdn.tk:80/9ezd4YwalJnE639/2MHUyCg8tMdm549/13790
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Cinemania RS" tvg-logo="https://picon-13398.kxcdn.com/cinemaniars.jpg" group-title="EX-YU TELEKOM",Cinemania RS
-http://cloudcdn.tk:80/9ezd4YwalJnE639/2MHUyCg8tMdm549/17270
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FightBox FHD RS" tvg-logo="https://picon-13398.kxcdn.com/fightboxhd.jpg" group-title="EX-YU TELEKOM",FightBox FHD RS
-http://cloudcdn.tk:80/9ezd4YwalJnE639/2MHUyCg8tMdm549/17259
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="B92 RS" tvg-logo="https://picon-13398.kxcdn.com/b92rs.jpg" group-title="EX-YU TELEKOM",B92 RS
-http://cloudcdn.tk:80/9ezd4YwalJnE639/2MHUyCg8tMdm549/17262
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Prva Max RS" tvg-logo="https://picon-13398.kxcdn.com/prvamaxrs.jpg" group-title="EX-YU TELEKOM",Prva Max RS
-http://cloudcdn.tk:80/9ezd4YwalJnE639/2MHUyCg8tMdm549/17260
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RTS Svet RS" tvg-logo="https://picon-13398.kxcdn.com/rtssvetrs.jpg" group-title="EX-YU TELEKOM",RTS Svet RS
-http://cloudcdn.tk:80/9ezd4YwalJnE639/2MHUyCg8tMdm549/19812
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sport Klub 2 FHD RS" tvg-logo="https://picon-13398.kxcdn.com/sportklub2hdexyu.jpg" group-title="EX-YU TELEKOM",Sport Klub 2 FHD RS
-http://cloudcdn.tk:80/9ezd4YwalJnE639/2MHUyCg8tMdm549/17257
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sport Klub 3 FHD RS" tvg-logo="https://picon-13398.kxcdn.com/sportklub3hdexyu.jpg" group-title="EX-YU TELEKOM",Sport Klub 3 FHD RS
-http://cloudcdn.tk:80/9ezd4YwalJnE639/2MHUyCg8tMdm549/17258
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TV Zenica BA" tvg-logo="https://picon-13398.kxcdn.com/tvzenicaexyu.jpg" group-title="EX-YU TELEKOM",TV Zenica BA
-http://cloudcdn.tk:80/9ezd4YwalJnE639/2MHUyCg8tMdm549/13817
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MTV Igman BA" tvg-logo="https://picon-13398.kxcdn.com/mtvigmanexyu.jpg" group-title="EX-YU TELEKOM",MTV Igman BA
-http://cloudcdn.tk:80/9ezd4YwalJnE639/2MHUyCg8tMdm549/3195
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="N1 HD RS" tvg-logo="https://picon-13398.kxcdn.com/n1rsexyu.jpg" group-title="EX-YU TELEKOM",N1 HD RS
-http://cloudcdn.tk:80/9ezd4YwalJnE639/2MHUyCg8tMdm549/3197
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TV Sarajevo BA" tvg-logo="https://picon-13398.kxcdn.com/tvsarajevoexyu.jpg" group-title="EX-YU TELEKOM",TV Sarajevo BA
-http://cloudcdn.tk:80/9ezd4YwalJnE639/2MHUyCg8tMdm549/11282
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RTS 1 HD RS" tvg-logo="https://picon-13398.kxcdn.com/rts1exyu.jpg" group-title="EX-YU TELEKOM",RTS 1 HD RS
-http://cloudcdn.tk:80/9ezd4YwalJnE639/2MHUyCg8tMdm549/2026
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RTS 1 RS" tvg-logo="https://picon-13398.kxcdn.com/rts1exyu.jpg" group-title="EX-YU TELEKOM",RTS 1 RS
-http://cloudcdn.tk:80/9ezd4YwalJnE639/2MHUyCg8tMdm549/1463
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RTS 2 HD RS" tvg-logo="https://picon-13398.kxcdn.com/rts2exyu.jpg" group-title="EX-YU TELEKOM",RTS 2 HD RS
-http://cloudcdn.tk:80/9ezd4YwalJnE639/2MHUyCg8tMdm549/1464
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RTS 3 RS" tvg-logo="https://picon-13398.kxcdn.com/rts3exyu.jpg" group-title="EX-YU TELEKOM",RTS 3 RS
-http://cloudcdn.tk:80/9ezd4YwalJnE639/2MHUyCg8tMdm549/13816
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Prva TV RS" tvg-logo="https://picon-13398.kxcdn.com/prvaexyu.jpg" group-title="EX-YU TELEKOM",Prva TV RS
-http://cloudcdn.tk:80/9ezd4YwalJnE639/2MHUyCg8tMdm549/1460
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Prva Plus HD RS" tvg-logo="https://picon-13398.kxcdn.com/prvaplusexyu.jpg" group-title="EX-YU TELEKOM",Prva Plus HD RS
-http://cloudcdn.tk:80/9ezd4YwalJnE639/2MHUyCg8tMdm549/1459
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Prva World RS" tvg-logo="https://picon-13398.kxcdn.com/prvaworldexyu.jpg" group-title="EX-YU TELEKOM",Prva World RS
-http://cloudcdn.tk:80/9ezd4YwalJnE639/2MHUyCg8tMdm549/13798
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TV Novi Pazar RS" tvg-logo="https://picon-13398.kxcdn.com/tvnovipazarexyu.jpg" group-title="EX-YU TELEKOM",TV Novi Pazar RS
-http://cloudcdn.tk:80/9ezd4YwalJnE639/2MHUyCg8tMdm549/11279
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RTV 1 RS" tvg-logo="https://picon-13398.kxcdn.com/rtv1rsexyu.jpg" group-title="EX-YU TELEKOM",RTV 1 RS
-http://cloudcdn.tk:80/9ezd4YwalJnE639/2MHUyCg8tMdm549/13762
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Studio B RS" tvg-logo="https://picon-13398.kxcdn.com/studiobexyu.jpg" group-title="EX-YU TELEKOM",Studio B RS
-http://cloudcdn.tk:80/9ezd4YwalJnE639/2MHUyCg8tMdm549/11287
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Happy TV RS" tvg-logo="https://picon-13398.kxcdn.com/happytvexyu.jpg" group-title="EX-YU TELEKOM",Happy TV RS
-http://cloudcdn.tk:80/9ezd4YwalJnE639/2MHUyCg8tMdm549/3192
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sandzak TV RS" tvg-logo="https://picon-13398.kxcdn.com/samdzalexyu.jpg" group-title="EX-YU TELEKOM",Sandzak TV RS
-http://cloudcdn.tk:80/9ezd4YwalJnE639/2MHUyCg8tMdm549/13818
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AXN HR" tvg-logo="https://picon-13398.kxcdn.com/axn.jpg" group-title="EX-YU TELEKOM",AXN HR
-http://cloudcdn.tk:80/9ezd4YwalJnE639/2MHUyCg8tMdm549/13764
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Diva HR" tvg-logo="https://picon-13398.kxcdn.com/divaexyu.jpg" group-title="EX-YU TELEKOM",Diva HR
-http://cloudcdn.tk:80/9ezd4YwalJnE639/2MHUyCg8tMdm549/13770
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FilmBox Plus HR" tvg-logo="https://picon-13398.kxcdn.com/filmboxplus.jpg" group-title="EX-YU TELEKOM",FilmBox Plus HR
-http://cloudcdn.tk:80/9ezd4YwalJnE639/2MHUyCg8tMdm549/13773
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FilmBox Extra RS" tvg-logo="https://picon-13398.kxcdn.com/filmboxextra.jpg" group-title="EX-YU TELEKOM",FilmBox Extra RS
-http://cloudcdn.tk:80/9ezd4YwalJnE639/2MHUyCg8tMdm549/13805
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FOX HR" tvg-logo="https://picon-13398.kxcdn.com/fox.jpg" group-title="EX-YU TELEKOM",FOX HR
-http://cloudcdn.tk:80/9ezd4YwalJnE639/2MHUyCg8tMdm549/1448
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FOX Movies HR" tvg-logo="https://picon-13398.kxcdn.com/foxmovies.jpg" group-title="EX-YU TELEKOM",FOX Movies HR
-http://cloudcdn.tk:80/9ezd4YwalJnE639/2MHUyCg8tMdm549/1451
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FOX Life HR" tvg-logo="https://picon-13398.kxcdn.com/foxlife.jpg" group-title="EX-YU TELEKOM",FOX Life HR
-http://cloudcdn.tk:80/9ezd4YwalJnE639/2MHUyCg8tMdm549/1450
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FOX Crime RS" tvg-logo="https://picon-13398.kxcdn.com/foxcrime.jpg" group-title="EX-YU TELEKOM",FOX Crime RS
-http://cloudcdn.tk:80/9ezd4YwalJnE639/2MHUyCg8tMdm549/1449
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="HBO HD RS" tvg-logo="https://picon-13398.kxcdn.com/hbo1hd.jpg" group-title="EX-YU TELEKOM",HBO HD RS
-http://cloudcdn.tk:80/9ezd4YwalJnE639/2MHUyCg8tMdm549/1452
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CineStar TV HR" tvg-logo="https://picon-13398.kxcdn.com/cinestarexyu.jpg" group-title="EX-YU TELEKOM",CineStar TV HR
-http://cloudcdn.tk:80/9ezd4YwalJnE639/2MHUyCg8tMdm549/13794
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CineStar TV Action HR" tvg-logo="https://picon-13398.kxcdn.com/cinestaractionexyu.jpg" group-title="EX-YU TELEKOM",CineStar TV Action HR
-http://cloudcdn.tk:80/9ezd4YwalJnE639/2MHUyCg8tMdm549/3180
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CineStar Premiere 1 HD RS" tvg-logo="https://picon-13398.kxcdn.com/cinepremiere1exyu.jpg" group-title="EX-YU TELEKOM",CineStar Premiere 1 HD RS
-http://cloudcdn.tk:80/9ezd4YwalJnE639/2MHUyCg8tMdm549/1468
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CineStar Premiere 2 HD RS" tvg-logo="https://picon-13398.kxcdn.com/cinepremiere2exyu.jpg" group-title="EX-YU TELEKOM",CineStar Premiere 2 HD RS
-http://cloudcdn.tk:80/9ezd4YwalJnE639/2MHUyCg8tMdm549/1469
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Cinemax HD RS" tvg-logo="https://picon-13398.kxcdn.com/cinemax.jpg" group-title="EX-YU TELEKOM",Cinemax HD RS
-http://cloudcdn.tk:80/9ezd4YwalJnE639/2MHUyCg8tMdm549/2022
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Cinemax 2 HD RS" tvg-logo="https://picon-13398.kxcdn.com/cinemax2.jpg" group-title="EX-YU TELEKOM",Cinemax 2 HD RS
-http://cloudcdn.tk:80/9ezd4YwalJnE639/2MHUyCg8tMdm549/2023
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Investigation Discovery HD RS" tvg-logo="https://picon-13398.kxcdn.com/investigationdiscoveryhd.jpg" group-title="EX-YU TELEKOM",Investigation Discovery HD RS
-http://cloudcdn.tk:80/9ezd4YwalJnE639/2MHUyCg8tMdm549/13783
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Klasik TV HR" tvg-logo="https://picon-13398.kxcdn.com/klasikexyu.jpg" group-title="EX-YU TELEKOM",Klasik TV HR
-http://cloudcdn.tk:80/9ezd4YwalJnE639/2MHUyCg8tMdm549/3194
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TV 1000 HR" tvg-logo="https://picon-13398.kxcdn.com/tv1000exyu.jpg" group-title="EX-YU TELEKOM",TV 1000 HR
-http://cloudcdn.tk:80/9ezd4YwalJnE639/2MHUyCg8tMdm549/11275
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Animal Planet HR" tvg-logo="https://picon-13398.kxcdn.com/animalplanet.jpg" group-title="EX-YU TELEKOM",Animal Planet HR
-http://cloudcdn.tk:80/9ezd4YwalJnE639/2MHUyCg8tMdm549/3178
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Discovery Channel RS" tvg-logo="https://picon-13398.kxcdn.com/discoverychannel.jpg" group-title="EX-YU TELEKOM",Discovery Channel RS
-http://cloudcdn.tk:80/9ezd4YwalJnE639/2MHUyCg8tMdm549/1445
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Crime + Investigation HR" tvg-logo="https://picon-13398.kxcdn.com/crimeplusinvestigation.jpg" group-title="EX-YU TELEKOM",Crime + Investigation HR
-http://cloudcdn.tk:80/9ezd4YwalJnE639/2MHUyCg8tMdm549/3191
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="History HR" tvg-logo="https://picon-13398.kxcdn.com/history.jpg" group-title="EX-YU TELEKOM",History HR
-http://cloudcdn.tk:80/9ezd4YwalJnE639/2MHUyCg8tMdm549/1454
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Lov I Ribolov RS" tvg-logo="https://picon-13398.kxcdn.com/lovirobolovexyu.jpg" group-title="EX-YU TELEKOM",Lov I Ribolov RS
-http://cloudcdn.tk:80/9ezd4YwalJnE639/2MHUyCg8tMdm549/3196
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="National Geographic HD HR" tvg-logo="https://picon-13398.kxcdn.com/natgeo.jpg" group-title="EX-YU TELEKOM",National Geographic HD HR
-http://cloudcdn.tk:80/9ezd4YwalJnE639/2MHUyCg8tMdm549/1472
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TLC RS" tvg-logo="https://picon-13398.kxcdn.com/tlc.jpg" group-title="EX-YU TELEKOM",TLC RS
-http://cloudcdn.tk:80/9ezd4YwalJnE639/2MHUyCg8tMdm549/13820
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="E! HR" tvg-logo="https://picon-13398.kxcdn.com/e.jpg" group-title="EX-YU TELEKOM",E! HR
-http://cloudcdn.tk:80/9ezd4YwalJnE639/2MHUyCg8tMdm549/1467
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="HNTV HR" tvg-logo="https://picon-13398.kxcdn.com/hntvexyu.jpg" group-title="EX-YU TELEKOM",HNTV HR
-http://cloudcdn.tk:80/9ezd4YwalJnE639/2MHUyCg8tMdm549/13771
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SOS Kanal RS" tvg-logo="https://picon-13398.kxcdn.com/soskanalexyu.jpg" group-title="EX-YU TELEKOM",SOS Kanal RS
-http://cloudcdn.tk:80/9ezd4YwalJnE639/2MHUyCg8tMdm549/13819
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Eurosport 1 RS" tvg-logo="https://picon-13398.kxcdn.com/eurosport1.jpg" group-title="EX-YU TELEKOM",Eurosport 1 RS
-http://cloudcdn.tk:80/9ezd4YwalJnE639/2MHUyCg8tMdm549/1443
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Eurosport 2 HD RS" tvg-logo="https://picon-13398.kxcdn.com/eurosport2.jpg" group-title="EX-YU TELEKOM",Eurosport 2 HD RS
-http://cloudcdn.tk:80/9ezd4YwalJnE639/2MHUyCg8tMdm549/1444
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Arena Sport 2 FHD HR" tvg-logo="https://picon-13398.kxcdn.com/areanasport2hrexyu.jpg" group-title="EX-YU TELEKOM",Arena Sport 2 FHD HR
-http://cloudcdn.tk:80/9ezd4YwalJnE639/2MHUyCg8tMdm549/17914
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Arena Sport 3 FHD HR" tvg-logo="https://picon-13398.kxcdn.com/areanasport3hrexyu.jpg" group-title="EX-YU TELEKOM",Arena Sport 3 FHD HR
-http://cloudcdn.tk:80/9ezd4YwalJnE639/2MHUyCg8tMdm549/17916
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Arena Sport 4 FHD HR" tvg-logo="https://picon-13398.kxcdn.com/areanasport4hrexyu.jpg" group-title="EX-YU TELEKOM",Arena Sport 4 FHD HR
-http://cloudcdn.tk:80/9ezd4YwalJnE639/2MHUyCg8tMdm549/17915
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Arena Sport 1 HD HR" tvg-logo="https://picon-13398.kxcdn.com/areanasport1hrexyu.jpg" group-title="EX-YU TELEKOM",Arena Sport 1 HD HR
-http://cloudcdn.tk:80/9ezd4YwalJnE639/2MHUyCg8tMdm549/1436
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Arena Sport 2 HD HR" tvg-logo="https://picon-13398.kxcdn.com/areanasport2hrexyu.jpg" group-title="EX-YU TELEKOM",Arena Sport 2 HD HR
-http://cloudcdn.tk:80/9ezd4YwalJnE639/2MHUyCg8tMdm549/1437
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Arena Sport 3 HD HR" tvg-logo="https://picon-13398.kxcdn.com/areanasport3hrexyu.jpg" group-title="EX-YU TELEKOM",Arena Sport 3 HD HR
-http://cloudcdn.tk:80/9ezd4YwalJnE639/2MHUyCg8tMdm549/1438
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Arena Sport 4 HD HR" tvg-logo="https://picon-13398.kxcdn.com/areanasport4hrexyu.jpg" group-title="EX-YU TELEKOM",Arena Sport 4 HD HR
-http://cloudcdn.tk:80/9ezd4YwalJnE639/2MHUyCg8tMdm549/1439
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Arena Sport 5 HR" tvg-logo="https://picon-13398.kxcdn.com/areanasport5hrexyu.jpg" group-title="EX-YU TELEKOM",Arena Sport 5 HR
-http://cloudcdn.tk:80/9ezd4YwalJnE639/2MHUyCg8tMdm549/13827
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Arena Sport 6 HD HR" tvg-logo="https://picon-13398.kxcdn.com/areanasport6hrexyu.jpg" group-title="EX-YU TELEKOM",Arena Sport 6 HD HR
-http://cloudcdn.tk:80/9ezd4YwalJnE639/2MHUyCg8tMdm549/13828
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Arena Sport 1 HD RS" tvg-logo="https://picon-13398.kxcdn.com/areanasport1hrexyu.jpg" group-title="EX-YU TELEKOM",Arena Sport 1 HD RS
-http://cloudcdn.tk:80/9ezd4YwalJnE639/2MHUyCg8tMdm549/3182
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Arena Sport 2 HD RS" tvg-logo="https://picon-13398.kxcdn.com/areanasport2hrexyu.jpg" group-title="EX-YU TELEKOM",Arena Sport 2 HD RS
-http://cloudcdn.tk:80/9ezd4YwalJnE639/2MHUyCg8tMdm549/3183
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Arena Sport 3 HD RS" tvg-logo="https://picon-13398.kxcdn.com/areanasport3hrexyu.jpg" group-title="EX-YU TELEKOM",Arena Sport 3 HD RS
-http://cloudcdn.tk:80/9ezd4YwalJnE639/2MHUyCg8tMdm549/3184
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Arena Sport 4 HD RS" tvg-logo="https://picon-13398.kxcdn.com/areanasport4hrexyu.jpg" group-title="EX-YU TELEKOM",Arena Sport 4 HD RS
-http://cloudcdn.tk:80/9ezd4YwalJnE639/2MHUyCg8tMdm549/3185
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Arena Sport 5 HD RS" tvg-logo="https://picon-13398.kxcdn.com/areanasport5hrexyu.jpg" group-title="EX-YU TELEKOM",Arena Sport 5 HD RS
-http://cloudcdn.tk:80/9ezd4YwalJnE639/2MHUyCg8tMdm549/3186
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sport Klub 1 HD RS" tvg-logo="https://picon-13398.kxcdn.com/sportklub1si.jpg" group-title="EX-YU TELEKOM",Sport Klub 1 HD RS
-http://cloudcdn.tk:80/9ezd4YwalJnE639/2MHUyCg8tMdm549/13832
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sport Klub 2 HR" tvg-logo="https://picon-13398.kxcdn.com/sportklub2si.jpg" group-title="EX-YU TELEKOM",Sport Klub 2 HR
-http://cloudcdn.tk:80/9ezd4YwalJnE639/2MHUyCg8tMdm549/13833
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sport Klub 3 HD HR" tvg-logo="https://picon-13398.kxcdn.com/sportklub3si.jpg" group-title="EX-YU TELEKOM",Sport Klub 3 HD HR
-http://cloudcdn.tk:80/9ezd4YwalJnE639/2MHUyCg8tMdm549/13834
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sport Klub 4 RS" tvg-logo="https://picon-13398.kxcdn.com/sportklub4exyu.jpg" group-title="EX-YU TELEKOM",Sport Klub 4 RS
-http://cloudcdn.tk:80/9ezd4YwalJnE639/2MHUyCg8tMdm549/13829
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sport Klub 5 RS" tvg-logo="https://picon-13398.kxcdn.com/sportklub5exyu.jpg" group-title="EX-YU TELEKOM",Sport Klub 5 RS
-http://cloudcdn.tk:80/9ezd4YwalJnE639/2MHUyCg8tMdm549/13830
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sport Klub 6 RS" tvg-logo="https://picon-13398.kxcdn.com/sportklub6exyu.jpg" group-title="EX-YU TELEKOM",Sport Klub 6 RS
-http://cloudcdn.tk:80/9ezd4YwalJnE639/2MHUyCg8tMdm549/13831
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sport Klub 1 FHD RS" tvg-logo="https://picon-13398.kxcdn.com/sportklub1hdexyu.jpg" group-title="EX-YU TELEKOM",Sport Klub 1 FHD RS
-http://cloudcdn.tk:80/9ezd4YwalJnE639/2MHUyCg8tMdm549/1440
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sport Klub 2 RS" tvg-logo="https://picon-13398.kxcdn.com/sportklub2hdexyu.jpg" group-title="EX-YU TELEKOM",Sport Klub 2 RS
-http://cloudcdn.tk:80/9ezd4YwalJnE639/2MHUyCg8tMdm549/1441
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sport Klub 3 HD RS" tvg-logo="https://picon-13398.kxcdn.com/sportklub3hdexyu.jpg" group-title="EX-YU TELEKOM",Sport Klub 3 HD RS
-http://cloudcdn.tk:80/9ezd4YwalJnE639/2MHUyCg8tMdm549/1442
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Max Select 1 HD HR" tvg-logo="https://picon-13398.kxcdn.com/maxselecthr.jpg" group-title="EX-YU TELEKOM",Max Select 1 HD HR
-http://cloudcdn.tk:80/9ezd4YwalJnE639/2MHUyCg8tMdm549/20146
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Max Select 2 HD HR" tvg-logo="https://picon-13398.kxcdn.com/maxselecthr.jpg" group-title="EX-YU TELEKOM",Max Select 2 HD HR
-http://cloudcdn.tk:80/9ezd4YwalJnE639/2MHUyCg8tMdm549/20147
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Max Select 3 HD HR" tvg-logo="https://picon-13398.kxcdn.com/maxselecthr.jpg" group-title="EX-YU TELEKOM",Max Select 3 HD HR
-http://cloudcdn.tk:80/9ezd4YwalJnE639/2MHUyCg8tMdm549/20148
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Max Select 4 HD HR" tvg-logo="https://picon-13398.kxcdn.com/maxselecthr.jpg" group-title="EX-YU TELEKOM",Max Select 4 HD HR
-http://cloudcdn.tk:80/9ezd4YwalJnE639/2MHUyCg8tMdm549/20149
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Max Select 5 HD HR" tvg-logo="https://picon-13398.kxcdn.com/maxselecthr.jpg" group-title="EX-YU TELEKOM",Max Select 5 HD HR
-http://cloudcdn.tk:80/9ezd4YwalJnE639/2MHUyCg8tMdm549/20150
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Max Select 6 HD HR" tvg-logo="https://picon-13398.kxcdn.com/maxselecthr.jpg" group-title="EX-YU TELEKOM",Max Select 6 HD HR
-http://cloudcdn.tk:80/9ezd4YwalJnE639/2MHUyCg8tMdm549/20151
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Max Select 7 HD HR" tvg-logo="https://picon-13398.kxcdn.com/maxselecthr.jpg" group-title="EX-YU TELEKOM",Max Select 7 HD HR
-http://cloudcdn.tk:80/9ezd4YwalJnE639/2MHUyCg8tMdm549/20152
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Max Select 8 HD HR" tvg-logo="https://picon-13398.kxcdn.com/maxselecthr.jpg" group-title="EX-YU TELEKOM",Max Select 8 HD HR
-http://cloudcdn.tk:80/9ezd4YwalJnE639/2MHUyCg8tMdm549/20153
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Max Select 9 HD HR" tvg-logo="https://picon-13398.kxcdn.com/maxselecthr.jpg" group-title="EX-YU TELEKOM",Max Select 9 HD HR
-http://cloudcdn.tk:80/9ezd4YwalJnE639/2MHUyCg8tMdm549/20154
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Pink RS" tvg-logo="https://picon-13398.kxcdn.com/pinkexyu.jpg" group-title="EX-YU TELEKOM",Pink RS
-http://cloudcdn.tk:80/9ezd4YwalJnE639/2MHUyCg8tMdm549/2042
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Pink 2 RS" tvg-logo="https://picon-13398.kxcdn.com/pink2exyu.jpg" group-title="EX-YU TELEKOM",Pink 2 RS
-http://cloudcdn.tk:80/9ezd4YwalJnE639/2MHUyCg8tMdm549/2043
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Pink 3 Info RS" tvg-logo="https://picon-13398.kxcdn.com/pinkinfo3exyu.jpg" group-title="EX-YU TELEKOM",Pink 3 Info RS
-http://cloudcdn.tk:80/9ezd4YwalJnE639/2MHUyCg8tMdm549/2044
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Pink Action RS" tvg-logo="https://picon-13398.kxcdn.com/pinkactionexyu.jpg" group-title="EX-YU TELEKOM",Pink Action RS
-http://cloudcdn.tk:80/9ezd4YwalJnE639/2MHUyCg8tMdm549/2041
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Pink Comedy RS" tvg-logo="https://picon-13398.kxcdn.com/pinkcomedyexyu.jpg" group-title="EX-YU TELEKOM",Pink Comedy RS
-http://cloudcdn.tk:80/9ezd4YwalJnE639/2MHUyCg8tMdm549/2045
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Pink Crime & Mystery RS" tvg-logo="https://picon-13398.kxcdn.com/pinkcrimemysteryexyu.jpg" group-title="EX-YU TELEKOM",Pink Crime & Mystery RS
-http://cloudcdn.tk:80/9ezd4YwalJnE639/2MHUyCg8tMdm549/2039
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Pink Classic RS" tvg-logo="https://picon-13398.kxcdn.com/pinkclassicrs.jpg" group-title="EX-YU TELEKOM",Pink Classic RS
-http://cloudcdn.tk:80/9ezd4YwalJnE639/2MHUyCg8tMdm549/19587
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Pink Extra RS" tvg-logo="https://picon-13398.kxcdn.com/pinkextraexyu.jpg" group-title="EX-YU TELEKOM",Pink Extra RS
-http://cloudcdn.tk:80/9ezd4YwalJnE639/2MHUyCg8tMdm549/2046
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Pink Film RS" tvg-logo="https://picon-13398.kxcdn.com/pinkfilmexyu.jpg" group-title="EX-YU TELEKOM",Pink Film RS
-http://cloudcdn.tk:80/9ezd4YwalJnE639/2MHUyCg8tMdm549/3199
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Pink Horror RS" tvg-logo="https://picon-13398.kxcdn.com/pinkhorroexyu.jpg" group-title="EX-YU TELEKOM",Pink Horror RS
-http://cloudcdn.tk:80/9ezd4YwalJnE639/2MHUyCg8tMdm549/2035
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Pink Kuvar RS" tvg-logo="https://picon-13398.kxcdn.com/pinkkuvarexyu.jpg" group-title="EX-YU TELEKOM",Pink Kuvar RS
-http://cloudcdn.tk:80/9ezd4YwalJnE639/2MHUyCg8tMdm549/3176
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Pink World Cinema RS" tvg-logo="https://picon-13398.kxcdn.com/pinkworldcinemaexyu.jpg" group-title="EX-YU TELEKOM",Pink World Cinema RS
-http://cloudcdn.tk:80/9ezd4YwalJnE639/2MHUyCg8tMdm549/5602
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Pink Plus RS" tvg-logo="https://picon-13398.kxcdn.com/pinkplusexyu.jpg" group-title="EX-YU TELEKOM",Pink Plus RS
-http://cloudcdn.tk:80/9ezd4YwalJnE639/2MHUyCg8tMdm549/3198
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Pink Premium RS" tvg-logo="https://picon-13398.kxcdn.com/pinkpremiumexyu.jpg" group-title="EX-YU TELEKOM",Pink Premium RS
-http://cloudcdn.tk:80/9ezd4YwalJnE639/2MHUyCg8tMdm549/2029
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Pink Reality RS" tvg-logo="https://picon-13398.kxcdn.com/pinkrealityexyu.jpg" group-title="EX-YU TELEKOM",Pink Reality RS
-http://cloudcdn.tk:80/9ezd4YwalJnE639/2MHUyCg8tMdm549/2048
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Pink Romance RS" tvg-logo="https://picon-13398.kxcdn.com/pinkromanceexyu.jpg" group-title="EX-YU TELEKOM",Pink Romance RS
-http://cloudcdn.tk:80/9ezd4YwalJnE639/2MHUyCg8tMdm549/3200
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Pink Serije RS" tvg-logo="https://picon-13398.kxcdn.com/pinkserijeexyu.jpg" group-title="EX-YU TELEKOM",Pink Serije RS
-http://cloudcdn.tk:80/9ezd4YwalJnE639/2MHUyCg8tMdm549/2032
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Pink Sci-fi & Fantasy RS" tvg-logo="https://picon-13398.kxcdn.com/pinkscififantasyexyu.jpg" group-title="EX-YU TELEKOM",Pink Sci-fi & Fantasy RS
-http://cloudcdn.tk:80/9ezd4YwalJnE639/2MHUyCg8tMdm549/2031
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Pink Soap RS" tvg-logo="https://picon-13398.kxcdn.com/pinksoapexyu.jpg" group-title="EX-YU TELEKOM",Pink Soap RS
-http://cloudcdn.tk:80/9ezd4YwalJnE639/2MHUyCg8tMdm549/2049
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Pink Thriller RS" tvg-logo="https://picon-13398.kxcdn.com/pinkthrillerexyu.jpg" group-title="EX-YU TELEKOM",Pink Thriller RS
-http://cloudcdn.tk:80/9ezd4YwalJnE639/2MHUyCg8tMdm549/2040
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Pink Western RS" tvg-logo="https://picon-13398.kxcdn.com/pinkwesternexyu.jpg" group-title="EX-YU TELEKOM",Pink Western RS
-http://cloudcdn.tk:80/9ezd4YwalJnE639/2MHUyCg8tMdm549/2050
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Pink Pedia RS" tvg-logo="https://picon-13398.kxcdn.com/pinkpediaexyu.jpg" group-title="EX-YU TELEKOM",Pink Pedia RS
-http://cloudcdn.tk:80/9ezd4YwalJnE639/2MHUyCg8tMdm549/13753
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Pink Movies RS" tvg-logo="https://picon-13398.kxcdn.com/pinkmoviesexyu.jpg" group-title="EX-YU TELEKOM",Pink Movies RS
-http://cloudcdn.tk:80/9ezd4YwalJnE639/2MHUyCg8tMdm549/13758
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Pink Zabava RS" tvg-logo="https://picon-13398.kxcdn.com/pinkzabavaexyu.jpg" group-title="EX-YU TELEKOM",Pink Zabava RS
-http://cloudcdn.tk:80/9ezd4YwalJnE639/2MHUyCg8tMdm549/2028
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Pink Kids RS" tvg-logo="https://picon-13398.kxcdn.com/pinkkidsexyu.jpg" group-title="EX-YU TELEKOM",Pink Kids RS
-http://cloudcdn.tk:80/9ezd4YwalJnE639/2MHUyCg8tMdm549/2047
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Pink Super Kids RS" tvg-logo="https://picon-13398.kxcdn.com/pinksuperkidsexyu.jpg" group-title="EX-YU TELEKOM",Pink Super Kids RS
-http://cloudcdn.tk:80/9ezd4YwalJnE639/2MHUyCg8tMdm549/13761
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Pink Show RS" tvg-logo="https://picon-13398.kxcdn.com/pinkshowrs.jpg" group-title="EX-YU TELEKOM",Pink Show RS
-http://cloudcdn.tk:80/9ezd4YwalJnE639/2MHUyCg8tMdm549/20141
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Baby TV RS" tvg-logo="https://picon-13398.kxcdn.com/babytv.jpg" group-title="EX-YU TELEKOM",Baby TV RS
-http://cloudcdn.tk:80/9ezd4YwalJnE639/2MHUyCg8tMdm549/13812
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Mini TV RS" tvg-logo="https://picon-13398.kxcdn.com/minitvexyu.jpg" group-title="EX-YU TELEKOM",Mini TV RS
-http://cloudcdn.tk:80/9ezd4YwalJnE639/2MHUyCg8tMdm549/6565
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Minimax RS" tvg-logo="https://picon-13398.kxcdn.com/minimax.jpg" group-title="EX-YU TELEKOM",Minimax RS
-http://cloudcdn.tk:80/9ezd4YwalJnE639/2MHUyCg8tMdm549/6564
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Nickelodeon HR" tvg-logo="https://picon-13398.kxcdn.com/nickelodeon.jpg" group-title="EX-YU TELEKOM",Nickelodeon HR
-http://cloudcdn.tk:80/9ezd4YwalJnE639/2MHUyCg8tMdm549/6083
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RTL Kockica HR" tvg-logo="https://picon-13398.kxcdn.com/rtlkockicahrexyu.jpg" group-title="EX-YU TELEKOM",RTL Kockica HR
-http://cloudcdn.tk:80/9ezd4YwalJnE639/2MHUyCg8tMdm549/3167
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CMC TV HR" tvg-logo="https://picon-13398.kxcdn.com/cmctvexyu.jpg" group-title="EX-YU TELEKOM",CMC TV HR
-http://cloudcdn.tk:80/9ezd4YwalJnE639/2MHUyCg8tMdm549/3171
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DM Sat RS" tvg-logo="https://picon-13398.kxcdn.com/dmsatexyu.jpg" group-title="EX-YU TELEKOM",DM Sat RS
-http://cloudcdn.tk:80/9ezd4YwalJnE639/2MHUyCg8tMdm549/3173
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Grand TV RS" tvg-logo="https://picon-13398.kxcdn.com/grandtvexyu.jpg" group-title="EX-YU TELEKOM",Grand TV RS
-http://cloudcdn.tk:80/9ezd4YwalJnE639/2MHUyCg8tMdm549/1475
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Jugoton TV HR" tvg-logo="https://picon-13398.kxcdn.com/jugotontvexyu.jpg" group-title="EX-YU TELEKOM",Jugoton TV HR
-http://cloudcdn.tk:80/9ezd4YwalJnE639/2MHUyCg8tMdm549/6561
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="KCN 1 RS" tvg-logo="https://picon-13398.kxcdn.com/kcn1exyu.jpg" group-title="EX-YU TELEKOM",KCN 1 RS
-http://cloudcdn.tk:80/9ezd4YwalJnE639/2MHUyCg8tMdm549/13809
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="KCN 2 Music RS" tvg-logo="https://picon-13398.kxcdn.com/kcn2exyu.jpg" group-title="EX-YU TELEKOM",KCN 2 Music RS
-http://cloudcdn.tk:80/9ezd4YwalJnE639/2MHUyCg8tMdm549/13810
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="KCN 3 Svet Plus RS" tvg-logo="https://picon-13398.kxcdn.com/kcn3exyu.jpg" group-title="EX-YU TELEKOM",KCN 3 Svet Plus RS
-http://cloudcdn.tk:80/9ezd4YwalJnE639/2MHUyCg8tMdm549/13811
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="OTV Valentino BA" tvg-logo="https://picon-13398.kxcdn.com/otvexyu.jpg" group-title="EX-YU TELEKOM",OTV Valentino BA
-http://cloudcdn.tk:80/9ezd4YwalJnE639/2MHUyCg8tMdm549/3172
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Pink Folk 2 RS" tvg-logo="https://picon-13398.kxcdn.com/pinkfolk2exyu.jpg" group-title="EX-YU TELEKOM",Pink Folk 2 RS
-http://cloudcdn.tk:80/9ezd4YwalJnE639/2MHUyCg8tMdm549/2037
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Pink Music RS" tvg-logo="https://picon-13398.kxcdn.com/pinkmusicexyu.jpg" group-title="EX-YU TELEKOM",Pink Music RS
-http://cloudcdn.tk:80/9ezd4YwalJnE639/2MHUyCg8tMdm549/13759
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Pink Music 2 RS" tvg-logo="https://picon-13398.kxcdn.com/pinkmusic2exyu.jpg" group-title="EX-YU TELEKOM",Pink Music 2 RS
-http://cloudcdn.tk:80/9ezd4YwalJnE639/2MHUyCg8tMdm549/13760
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Pink Hits 2 RS" tvg-logo="https://picon-13398.kxcdn.com/pinkhits2exyu.jpg" group-title="EX-YU TELEKOM",Pink Hits 2 RS
-http://cloudcdn.tk:80/9ezd4YwalJnE639/2MHUyCg8tMdm549/13757
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Pink Folk 1 RS" tvg-logo="https://picon-13398.kxcdn.com/pinkfolkexyu.jpg" group-title="EX-YU TELEKOM",Pink Folk 1 RS
-http://cloudcdn.tk:80/9ezd4YwalJnE639/2MHUyCg8tMdm549/13756
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Pink n Roll RS" tvg-logo="https://picon-13398.kxcdn.com/pinknrollexyu.jpg" group-title="EX-YU TELEKOM",Pink n Roll RS
-http://cloudcdn.tk:80/9ezd4YwalJnE639/2MHUyCg8tMdm549/13755
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Prva Files RS" tvg-logo="https://picon-13398.kxcdn.com/prvafilesrs.jpg" group-title="EX-YU TELEKOM",Prva Files RS
-http://cloudcdn.tk:80/9ezd4YwalJnE639/2MHUyCg8tMdm549/20023
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MTV Adria RS" tvg-logo="https://picon-13398.kxcdn.com/mtv.jpg" group-title="EX-YU TELEKOM",MTV Adria RS
-http://cloudcdn.tk:80/9ezd4YwalJnE639/2MHUyCg8tMdm549/13813
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="IDJ TV RS" tvg-logo="https://picon-13398.kxcdn.com/idjtvrsexyu.jpg" group-title="EX-YU TELEKOM",IDJ TV RS
-http://cloudcdn.tk:80/9ezd4YwalJnE639/2MHUyCg8tMdm549/16404
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TV Sehara BA" tvg-logo="https://picon-13398.kxcdn.com/tvsejaraexyu.jpg" group-title="EX-YU TELEKOM",TV Sehara BA
-http://cloudcdn.tk:80/9ezd4YwalJnE639/2MHUyCg8tMdm549/11284
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Duga Plus TV RS" tvg-logo="https://picon-13398.kxcdn.com/dugaexyu.jpg" group-title="EX-YU TELEKOM",Duga Plus TV RS
-http://cloudcdn.tk:80/9ezd4YwalJnE639/2MHUyCg8tMdm549/3193
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TVCG Sat HD ME" tvg-logo="https://picon-13398.kxcdn.com/tvcgsatexyu.jpg" group-title="EX-YU TELEKOM",TVCG Sat HD ME
-http://cloudcdn.tk:80/9ezd4YwalJnE639/2MHUyCg8tMdm549/13814
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TVCG 2 ME" tvg-logo="https://picon-13398.kxcdn.com/tvcg2exyu.jpg" group-title="EX-YU TELEKOM",TVCG 2 ME
-http://cloudcdn.tk:80/9ezd4YwalJnE639/2MHUyCg8tMdm549/16426
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TV Vijesti ME" tvg-logo="https://picon-13398.kxcdn.com/tvvijestiexyu.jpg" group-title="EX-YU TELEKOM",TV Vijesti ME
-http://cloudcdn.tk:80/9ezd4YwalJnE639/2MHUyCg8tMdm549/16427
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Pop Oto SI" tvg-logo="https://picon-13398.kxcdn.com/popotoexyu.jpg" group-title="EX-YU TELEKOM",Pop Oto SI
-http://cloudcdn.tk:80/9ezd4YwalJnE639/2MHUyCg8tMdm549/13791
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FTV BA" tvg-logo="https://picon-13398.kxcdn.com/federalnaexyu.jpg" group-title="EX-YU TELEKOM",FTV BA
-http://cloudcdn.tk:80/9ezd4YwalJnE639/2MHUyCg8tMdm549/6087
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Nova S FHD RS" tvg-logo="https://picon-13398.kxcdn.com/novasrs.jpg" group-title="EX-YU TELEKOM",Nova S FHD RS
-http://cloudcdn.tk:80/9ezd4YwalJnE639/2MHUyCg8tMdm549/19166
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Vinkovacka TV HR" tvg-logo="https://picon-13398.kxcdn.com/vinkovackahr.jpg" group-title="EX-YU TELEKOM",Vinkovacka TV HR
-http://cloudcdn.tk:80/9ezd4YwalJnE639/2MHUyCg8tMdm549/11278
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Televizija 5 BA" tvg-logo="https://picon-13398.kxcdn.com/televizija5exyu.jpg" group-title="EX-YU TELEKOM",Televizija 5 BA
-http://cloudcdn.tk:80/9ezd4YwalJnE639/2MHUyCg8tMdm549/15854
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Slavonska TV HR" tvg-logo="https://picon-13398.kxcdn.com/slavonskatvexyu.jpg" group-title="EX-YU TELEKOM",Slavonska TV HR
-http://cloudcdn.tk:80/9ezd4YwalJnE639/2MHUyCg8tMdm549/13802
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Grand 2 RS" tvg-logo="https://picon-13398.kxcdn.com/grand2srb.jpg" group-title="EX-YU TELEKOM",Grand 2 RS
-http://cloudcdn.tk:80/9ezd4YwalJnE639/2MHUyCg8tMdm549/16816
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="N1 BA" tvg-logo="https://picon-13398.kxcdn.com/n1rsexyu.jpg" group-title="EX-YU TELEKOM",N1 BA
-http://cloudcdn.tk:80/9ezd4YwalJnE639/2MHUyCg8tMdm549/16817
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="N1 HR" tvg-logo="https://picon-13398.kxcdn.com/n1rsexyu.jpg" group-title="EX-YU TELEKOM",N1 HR
-http://cloudcdn.tk:80/9ezd4YwalJnE639/2MHUyCg8tMdm549/16818
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Pop TV SI" tvg-logo="https://picon-13398.kxcdn.com/poptvsiexyu.jpg" group-title="EX-YU TELEKOM",Pop TV SI
-http://cloudcdn.tk:80/9ezd4YwalJnE639/2MHUyCg8tMdm549/16820
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sport Klub 2 SI" tvg-logo="https://picon-13398.kxcdn.com/sportklub2si.jpg" group-title="EX-YU TELEKOM",Sport Klub 2 SI
-http://cloudcdn.tk:80/9ezd4YwalJnE639/2MHUyCg8tMdm549/16821
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sport Klub 3 FHD SI" tvg-logo="https://picon-13398.kxcdn.com/sportklub3si.jpg" group-title="EX-YU TELEKOM",Sport Klub 3 FHD SI
-http://cloudcdn.tk:80/9ezd4YwalJnE639/2MHUyCg8tMdm549/16822
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sport Klub SI" tvg-logo="https://picon-13398.kxcdn.com/sportklub1si.jpg" group-title="EX-YU TELEKOM",Sport Klub SI
-http://cloudcdn.tk:80/9ezd4YwalJnE639/2MHUyCg8tMdm549/16823
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Pink LOL RS" tvg-logo="https://picon-13398.kxcdn.com/pinklolexyu.jpg" group-title="EX-YU TELEKOM",Pink LOL RS
-http://cloudcdn.tk:80/9ezd4YwalJnE639/2MHUyCg8tMdm549/16610
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Pink HAHA RS" tvg-logo="https://picon-13398.kxcdn.com/pinkhahaexyu.jpg" group-title="EX-YU TELEKOM",Pink HAHA RS
-http://cloudcdn.tk:80/9ezd4YwalJnE639/2MHUyCg8tMdm549/16611
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BHT 1 HD BA" tvg-logo="https://picon-13398.kxcdn.com/bht1exyu.jpg" group-title="EX-YU TELEKOM",BHT 1 HD BA
-http://cloudcdn.tk:80/9ezd4YwalJnE639/2MHUyCg8tMdm549/15864
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BN Music FHD BA" tvg-logo="https://picon-13398.kxcdn.com/bnmusicexyu.jpg" group-title="EX-YU TELEKOM",BN Music FHD BA
-http://cloudcdn.tk:80/9ezd4YwalJnE639/2MHUyCg8tMdm549/15863
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BN TV HD BA" tvg-logo="https://picon-13398.kxcdn.com/bnsatexyu.jpg" group-title="EX-YU TELEKOM",BN TV HD BA
-http://cloudcdn.tk:80/9ezd4YwalJnE639/2MHUyCg8tMdm549/15862
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Hayat HD BA" tvg-logo="https://picon-13398.kxcdn.com/hayaexyu.jpg" group-title="EX-YU TELEKOM",Hayat HD BA
-http://cloudcdn.tk:80/9ezd4YwalJnE639/2MHUyCg8tMdm549/15861
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Hayat Folk BA" tvg-logo="https://picon-13398.kxcdn.com/hayatfolkexyu.jpg" group-title="EX-YU TELEKOM",Hayat Folk BA
-http://cloudcdn.tk:80/9ezd4YwalJnE639/2MHUyCg8tMdm549/15860
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Hayat Plus BA" tvg-logo="https://picon-13398.kxcdn.com/hayatplusexyu.jpg" group-title="EX-YU TELEKOM",Hayat Plus BA
-http://cloudcdn.tk:80/9ezd4YwalJnE639/2MHUyCg8tMdm549/15859
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Hayatovci BA" tvg-logo="https://picon-13398.kxcdn.com/hayatovciexyu.jpg" group-title="EX-YU TELEKOM",Hayatovci BA
-http://cloudcdn.tk:80/9ezd4YwalJnE639/2MHUyCg8tMdm549/15858
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sportska TV HD HR" tvg-logo="https://picon-13398.kxcdn.com/sportskahr.jpg" group-title="EX-YU TELEKOM",Sportska TV HD HR
-http://cloudcdn.tk:80/9ezd4YwalJnE639/2MHUyCg8tMdm549/13861
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sport Klub Golf HR" tvg-logo="https://picon-13398.kxcdn.com/sportklubgolfsr.jpg" group-title="EX-YU TELEKOM",Sport Klub Golf HR
-http://cloudcdn.tk:80/9ezd4YwalJnE639/2MHUyCg8tMdm549/17745
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Travel Channel RS" tvg-logo="https://picon-13398.kxcdn.com/travelchannel.jpg" group-title="EX-YU TELEKOM",Travel Channel RS
-http://cloudcdn.tk:80/9ezd4YwalJnE639/2MHUyCg8tMdm549/17865
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Boomerang RS" tvg-logo="https://picon-13398.kxcdn.com/boomerang.jpg" group-title="EX-YU TELEKOM",Boomerang RS
-http://cloudcdn.tk:80/9ezd4YwalJnE639/2MHUyCg8tMdm549/17925
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DTX HR" tvg-logo="https://picon-13398.kxcdn.com/dtx.jpg" group-title="EX-YU TELEKOM",DTX HR
-http://cloudcdn.tk:80/9ezd4YwalJnE639/2MHUyCg8tMdm549/17924
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="National Geographic Wild RS" tvg-logo="https://picon-13398.kxcdn.com/natgeowild.jpg" group-title="EX-YU TELEKOM",National Geographic Wild RS
-http://cloudcdn.tk:80/9ezd4YwalJnE639/2MHUyCg8tMdm549/17923
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Nick Jr. HR" tvg-logo="https://picon-13398.kxcdn.com/nickjr.jpg" group-title="EX-YU TELEKOM",Nick Jr. HR
-http://cloudcdn.tk:80/9ezd4YwalJnE639/2MHUyCg8tMdm549/17922
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="HBO 2 HD RS" tvg-logo="https://picon-13398.kxcdn.com/hbo2hd.jpg" group-title="EX-YU TELEKOM",HBO 2 HD RS
-http://cloudcdn.tk:80/9ezd4YwalJnE639/2MHUyCg8tMdm549/17920
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="HBO 3 HD RS" tvg-logo="https://picon-13398.kxcdn.com/hbo3hd.jpg" group-title="EX-YU TELEKOM",HBO 3 HD RS
-http://cloudcdn.tk:80/9ezd4YwalJnE639/2MHUyCg8tMdm549/17918
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sport Klub 3 FHD HR" tvg-logo="https://picon-13398.kxcdn.com/sportklub3hdexyu.jpg" group-title="EX-YU TELEKOM",Sport Klub 3 FHD HR
-http://cloudcdn.tk:80/9ezd4YwalJnE639/2MHUyCg8tMdm549/17917
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Happy Parovi RS" tvg-logo="https://picon-13398.kxcdn.com/parovirs.jpg" group-title="EX-YU TELEKOM",Happy Parovi RS
-http://cloudcdn.tk:80/9ezd4YwalJnE639/2MHUyCg8tMdm549/18099
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Pink World RS" tvg-logo="https://picon-13398.kxcdn.com/pinkworldexyu.jpg" group-title="EX-YU TELEKOM",Pink World RS
-http://cloudcdn.tk:80/9ezd4YwalJnE639/2MHUyCg8tMdm549/18098
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Hayat Music BA" tvg-logo="https://picon-13398.kxcdn.com/hayatmusicba.jpg" group-title="EX-YU TELEKOM",Hayat Music BA
-http://cloudcdn.tk:80/9ezd4YwalJnE639/2MHUyCg8tMdm549/17271
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TV USK HD BA" tvg-logo="https://picon-13398.kxcdn.com/tvuskba.jpg" group-title="EX-YU TELEKOM",TV USK HD BA
-http://cloudcdn.tk:80/9ezd4YwalJnE639/2MHUyCg8tMdm549/19138
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Izvorna TV BA" tvg-logo="https://picon-13398.kxcdn.com/izvornaba.jpg" group-title="EX-YU TELEKOM",Izvorna TV BA
-http://cloudcdn.tk:80/9ezd4YwalJnE639/2MHUyCg8tMdm549/18824
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Viasat History RS" tvg-logo="https://picon-13398.kxcdn.com/viasathistory.jpg" group-title="EX-YU TELEKOM",Viasat History RS
-http://cloudcdn.tk:80/9ezd4YwalJnE639/2MHUyCg8tMdm549/19006
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="777 ME" tvg-logo="https://picon-13398.kxcdn.com/777me.jpg" group-title="EX-YU TELEKOM",777 ME
-http://cloudcdn.tk:80/9ezd4YwalJnE639/2MHUyCg8tMdm549/19381
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Golica TV SI" tvg-logo="https://picon-13398.kxcdn.com/golicatvsl.jpg" group-title="EX-YU TELEKOM",Golica TV SI
-http://cloudcdn.tk:80/9ezd4YwalJnE639/2MHUyCg8tMdm549/19618
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TV Maribor SI" tvg-logo="https://picon-13398.kxcdn.com/tvmariborsi.jpg" group-title="EX-YU TELEKOM",TV Maribor SI
-http://cloudcdn.tk:80/9ezd4YwalJnE639/2MHUyCg8tMdm549/19614
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Planet TV HD SI" tvg-logo="https://picon-13398.kxcdn.com/planettv.jpg" group-title="EX-YU TELEKOM",Planet TV HD SI
-http://cloudcdn.tk:80/9ezd4YwalJnE639/2MHUyCg8tMdm549/19617
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Pop Brio SI" tvg-logo="https://picon-13398.kxcdn.com/briosi.jpg" group-title="EX-YU TELEKOM",Pop Brio SI
-http://cloudcdn.tk:80/9ezd4YwalJnE639/2MHUyCg8tMdm549/19615
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Pop Kino SI" tvg-logo="https://picon-13398.kxcdn.com/popkinosi.jpg" group-title="EX-YU TELEKOM",Pop Kino SI
-http://cloudcdn.tk:80/9ezd4YwalJnE639/2MHUyCg8tMdm549/19616
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TV Slovenija 1 SI" tvg-logo="https://picon-13398.kxcdn.com/tvslovenija1sk.jpg" group-title="EX-YU TELEKOM",TV Slovenija 1 SI
-http://cloudcdn.tk:80/9ezd4YwalJnE639/2MHUyCg8tMdm549/19611
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TV Slovenija 2 SI" tvg-logo="https://picon-13398.kxcdn.com/tvslovenija2sk.jpg" group-title="EX-YU TELEKOM",TV Slovenija 2 SI
-http://cloudcdn.tk:80/9ezd4YwalJnE639/2MHUyCg8tMdm549/19612
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TV Slovenija 3 SI" tvg-logo="https://picon-13398.kxcdn.com/tvslovenija3sk.jpg" group-title="EX-YU TELEKOM",TV Slovenija 3 SI
-http://cloudcdn.tk:80/9ezd4YwalJnE639/2MHUyCg8tMdm549/19613
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="The Palma Plus RS" tvg-logo="https://picon-13398.kxcdn.com/thepalmaplusrs.jpg" group-title="EX-YU TELEKOM",The Palma Plus RS
-http://cloudcdn.tk:80/9ezd4YwalJnE639/2MHUyCg8tMdm549/19624
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Arena Sport 1 FHD HR" tvg-logo="https://picon-13398.kxcdn.com/areanasport1hrexyu.jpg" group-title="EX-YU TELEKOM",Arena Sport 1 FHD HR
-http://cloudcdn.tk:80/9ezd4YwalJnE639/2MHUyCg8tMdm549/19004
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Scifi FHD RS" tvg-logo="https://picon-13398.kxcdn.com/scifirs.jpg" group-title="EX-YU TELEKOM",Scifi FHD RS
-http://cloudcdn.tk:80/9ezd4YwalJnE639/2MHUyCg8tMdm549/22971
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RTS Trezor RS" tvg-logo="https://picon-13398.kxcdn.com/rtssvetrs.jpg" group-title="EX-YU TELEKOM",RTS Trezor RS
-http://cloudcdn.tk:80/9ezd4YwalJnE639/2MHUyCg8tMdm549/23446
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Pink M ME" tvg-logo="https://picon-13398.kxcdn.com/pinkmedars.jpg" group-title="EX-YU TELEKOM",Pink M ME
-http://cloudcdn.tk:80/9ezd4YwalJnE639/2MHUyCg8tMdm549/23661
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sport Klub 1 FHD HR" tvg-logo="https://picon-13398.kxcdn.com/sportklub1hdexyu.jpg" group-title="EX-YU TELEKOM",Sport Klub 1 FHD HR
-http://cloudcdn.tk:80/9ezd4YwalJnE639/2MHUyCg8tMdm549/17256
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Bravo Music RS" tvg-logo="https://picon-13398.kxcdn.com/bravomusicrs.jpg" group-title="EX-YU TELEKOM",Bravo Music RS
-http://cloudcdn.tk:80/9ezd4YwalJnE639/2MHUyCg8tMdm549/23850
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Pink Media BH BA" tvg-logo="https://picon-13398.kxcdn.com/pinkmedabhba.jpg" group-title="EX-YU TELEKOM",Pink Media BH BA
-http://cloudcdn.tk:80/9ezd4YwalJnE639/2MHUyCg8tMdm549/23849
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Pink Family RS" tvg-logo="https://picon-13398.kxcdn.com/pinkfamilyexyu.jpg" group-title="EX-YU TELEKOM",Pink Family RS
-http://cloudcdn.tk:80/9ezd4YwalJnE639/2MHUyCg8tMdm549/23848
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Pink Fashion RS" tvg-logo="https://picon-13398.kxcdn.com/pinkfashionrs.jpg" group-title="EX-YU TELEKOM",Pink Fashion RS
-http://cloudcdn.tk:80/9ezd4YwalJnE639/2MHUyCg8tMdm549/23845
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Pink Hits RS" tvg-logo="https://picon-13398.kxcdn.com/pinkhitsrs.jpg" group-title="EX-YU TELEKOM",Pink Hits RS
-http://cloudcdn.tk:80/9ezd4YwalJnE639/2MHUyCg8tMdm549/23847
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Pink Style RS" tvg-logo="https://picon-13398.kxcdn.com/pinkstylers.jpg" group-title="EX-YU TELEKOM",Pink Style RS
-http://cloudcdn.tk:80/9ezd4YwalJnE639/2MHUyCg8tMdm549/23846
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CityPLAY RS" tvg-logo="https://picon-13398.kxcdn.com/cityplayrs.jpg" group-title="EX-YU TELEKOM",CityPLAY RS
-http://cloudcdn.tk:80/9ezd4YwalJnE639/2MHUyCg8tMdm549/23844
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Nova M ME" tvg-logo="https://picon-13398.kxcdn.com/novamme.jpg" group-title="EX-YU TELEKOM",Nova M ME
-http://cloudcdn.tk:80/9ezd4YwalJnE639/2MHUyCg8tMdm549/24145
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Nova BH BA" tvg-logo="https://picon-13398.kxcdn.com/nova.jpg" group-title="EX-YU TELEKOM",Nova BH BA
-http://cloudcdn.tk:80/9ezd4YwalJnE639/2MHUyCg8tMdm549/24144
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Pikaboo RS" tvg-logo="https://picon-13398.kxcdn.com/pikaboors.jpg" group-title="EX-YU TELEKOM",Pikaboo RS
-http://cloudcdn.tk:80/9ezd4YwalJnE639/2MHUyCg8tMdm549/24143
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Fine Living RS" tvg-logo="https://picon-13398.kxcdn.com/fineliving.jpg" group-title="EX-YU TELEKOM",Fine Living RS
-http://cloudcdn.tk:80/9ezd4YwalJnE639/2MHUyCg8tMdm549/24148
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Moje Bugojno BA" tvg-logo="https://picon-13398.kxcdn.com/mojebugjnoba.jpg" group-title="EX-YU TELEKOM",Moje Bugojno BA
-http://cloudcdn.tk:80/9ezd4YwalJnE639/2MHUyCg8tMdm549/24178
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="H2 FHD RS" tvg-logo="https://picon-13398.kxcdn.com/h2hd.jpg" group-title="EX-YU TELEKOM",H2 FHD RS
-http://cloudcdn.tk:80/9ezd4YwalJnE639/2MHUyCg8tMdm549/22972
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CineStar TV Fantasy HR" tvg-logo="https://picon-13398.kxcdn.com/cienstarfantasyhr.jpg" group-title="EX-YU TELEKOM",CineStar TV Fantasy HR
-http://cloudcdn.tk:80/9ezd4YwalJnE639/2MHUyCg8tMdm549/24331
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="City TV BA" tvg-logo="https://picon-13398.kxcdn.com/citytvba.jpg" group-title="EX-YU TELEKOM",City TV BA
-http://cloudcdn.tk:80/9ezd4YwalJnE639/2MHUyCg8tMdm549/24687
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="HRT 2 FHD HR" tvg-logo="https://picon-13398.kxcdn.com/hrttv2.jpg" group-title="EX-YU TELEKOM",HRT 2 FHD HR
-http://cloudcdn.tk:80/9ezd4YwalJnE639/2MHUyCg8tMdm549/24744
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Yu Planet TV RS" tvg-logo="https://picon-13398.kxcdn.com/yuplanetrs.jpg" group-title="EX-YU TELEKOM",Yu Planet TV RS
-http://cloudcdn.tk:80/9ezd4YwalJnE639/2MHUyCg8tMdm549/24862
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Kanal 6 Travnik BA" tvg-logo="https://picon-13398.kxcdn.com/kanal6ba.jpg" group-title="EX-YU TELEKOM",Kanal 6 Travnik BA
-http://cloudcdn.tk:80/9ezd4YwalJnE639/2MHUyCg8tMdm549/25270
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="HRT 1 FHD HR" tvg-logo="https://picon-13398.kxcdn.com/hrttv1.jpg" group-title="EX-YU TELEKOM",HRT 1 FHD HR
-http://cloudcdn.tk:80/9ezd4YwalJnE639/2MHUyCg8tMdm549/25786
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="HRT 3 HD HR" tvg-logo="https://picon-13398.kxcdn.com/hrttv3.jpg" group-title="EX-YU TELEKOM",HRT 3 HD HR
-http://cloudcdn.tk:80/9ezd4YwalJnE639/2MHUyCg8tMdm549/25787
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="HRT 4 FHD HR" tvg-logo="https://picon-13398.kxcdn.com/hrttv4.jpg" group-title="EX-YU TELEKOM",HRT 4 FHD HR
-http://cloudcdn.tk:80/9ezd4YwalJnE639/2MHUyCg8tMdm549/25788
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PlanetSport 1 HR" tvg-logo="https://picon-13398.kxcdn.com/planetsport1hr.jpg" group-title="EX-YU TELEKOM",PlanetSport 1 HR
-http://cloudcdn.tk:80/9ezd4YwalJnE639/2MHUyCg8tMdm549/26089
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PlanetSport 2 HR" tvg-logo="https://picon-13398.kxcdn.com/planetsport2hr.jpg" group-title="EX-YU TELEKOM",PlanetSport 2 HR
-http://cloudcdn.tk:80/9ezd4YwalJnE639/2MHUyCg8tMdm549/26090
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PlanetSport 3 HR" tvg-logo="https://picon-13398.kxcdn.com/planetsport3hr.jpg" group-title="EX-YU TELEKOM",PlanetSport 3 HR
-http://cloudcdn.tk:80/9ezd4YwalJnE639/2MHUyCg8tMdm549/26091
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TV 7 Tuzla HD BA" tvg-logo="https://picon-13398.kxcdn.com/tv7tuzlaba.jpg" group-title="EX-YU TELEKOM",TV 7 Tuzla HD BA
-http://cloudcdn.tk:80/9ezd4YwalJnE639/2MHUyCg8tMdm549/26685
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Animal Planet [Multi-sub] Europe" tvg-logo="https://picon-13398.kxcdn.com/animalplanet.jpg" group-title="EX-YU TELEKOM",Animal Planet [Multi-sub] Europe
-http://cloudcdn.tk:80/9ezd4YwalJnE639/2MHUyCg8tMdm549/27035
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TLC [Multi-sub] Balkans" tvg-logo="https://picon-13398.kxcdn.com/tlc.jpg" group-title="EX-YU TELEKOM",TLC [Multi-sub] Balkans
-http://cloudcdn.tk:80/9ezd4YwalJnE639/2MHUyCg8tMdm549/27134
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Superstar TV RS" tvg-logo="https://picon-13398.kxcdn.com/superstartvrs.jpg" group-title="EX-YU TELEKOM",Superstar TV RS
-http://cloudcdn.tk:80/9ezd4YwalJnE639/2MHUyCg8tMdm549/27308
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sport Klub HD [Multi-audio] ex-Yu" tvg-logo="https://picon-13398.kxcdn.com/sportklubexyu.jpg" group-title="EX-YU TELEKOM",Sport Klub HD [Multi-audio] ex-Yu
-http://cloudcdn.tk:80/9ezd4YwalJnE639/2MHUyCg8tMdm549/27524
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Narodni HR" tvg-logo="https://picon-13398.kxcdn.com/narodnihr.jpg" group-title="EX-YU TELEKOM",Narodni HR
-http://cloudcdn.tk:80/9ezd4YwalJnE639/2MHUyCg8tMdm549/17275
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TV Slon BA" tvg-logo="https://picon-13398.kxcdn.com/slonextraba.jpg" group-title="EX-YU TELEKOM",TV Slon BA
-http://cloudcdn.tk:80/9ezd4YwalJnE639/2MHUyCg8tMdm549/27558
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Kino TV HD HR" tvg-logo="https://picon-13398.kxcdn.com/kinotvhr.jpg" group-title="EX-YU TELEKOM",Kino TV HD HR
-http://cloudcdn.tk:80/9ezd4YwalJnE639/2MHUyCg8tMdm549/27548
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="M1 Film HR" tvg-logo="https://picon-13398.kxcdn.com/m1filmhr.jpg" group-title="EX-YU TELEKOM",M1 Film HR
-http://cloudcdn.tk:80/9ezd4YwalJnE639/2MHUyCg8tMdm549/27547
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="B1 TV BA" tvg-logo="https://picon-13398.kxcdn.com/b1ro.jpg" group-title="EX-YU TELEKOM",B1 TV BA
-http://cloudcdn.tk:80/9ezd4YwalJnE639/2MHUyCg8tMdm549/27660
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Aurora TV HR" tvg-logo="https://picon-13398.kxcdn.com/aurorahr.jpg" group-title="EX-YU TELEKOM",Aurora TV HR
-http://cloudcdn.tk:80/9ezd4YwalJnE639/2MHUyCg8tMdm549/27658
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Balkan Music ex-Yu" tvg-logo="https://picon-13398.kxcdn.com/balkanmusicexyu.jpg" group-title="EX-YU TELEKOM",Balkan Music ex-Yu
-http://cloudcdn.tk:80/9ezd4YwalJnE639/2MHUyCg8tMdm549/27802
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PlanetSport 4 HD HR" tvg-logo="https://picon-13398.kxcdn.com/planetsport4hr.jpg" group-title="EX-YU TELEKOM",PlanetSport 4 HD HR
-http://cloudcdn.tk:80/9ezd4YwalJnE639/2MHUyCg8tMdm549/27815
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PlanetSport 5 HD HR" tvg-logo="https://picon-13398.kxcdn.com/planetsport5hr.jpg" group-title="EX-YU TELEKOM",PlanetSport 5 HD HR
-http://cloudcdn.tk:80/9ezd4YwalJnE639/2MHUyCg8tMdm549/27816
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sport TV 1 HD SI" tvg-logo="https://picon-13398.kxcdn.com/sporttv1pt.jpg" group-title="EX-YU TELEKOM",Sport TV 1 HD SI
-http://cloudcdn.tk:80/9ezd4YwalJnE639/2MHUyCg8tMdm549/27817
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sport TV 2 HD SI" tvg-logo="https://picon-13398.kxcdn.com/sporttv2pthd.jpg" group-title="EX-YU TELEKOM",Sport TV 2 HD SI
-http://cloudcdn.tk:80/9ezd4YwalJnE639/2MHUyCg8tMdm549/27818
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Pickbox FHD HR" tvg-logo="https://picon-13398.kxcdn.com/pickboxhr.jpg" group-title="EX-YU TELEKOM",Pickbox FHD HR
-http://cloudcdn.tk:80/9ezd4YwalJnE639/2MHUyCg8tMdm549/27819
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Max Select Premium FHD HR" tvg-logo="https://picon-13398.kxcdn.com/maxselecthr.jpg" group-title="EX-YU TELEKOM",Max Select Premium FHD HR
-http://cloudcdn.tk:80/9ezd4YwalJnE639/2MHUyCg8tMdm549/27821
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TV Istra HR" tvg-logo="https://picon-13398.kxcdn.com/tviistrahr.jpg" group-title="EX-YU TELEKOM",TV Istra HR
-http://cloudcdn.tk:80/9ezd4YwalJnE639/2MHUyCg8tMdm549/27822
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Partizan TV RS" tvg-logo="https://picon-13398.kxcdn.com/partizanexyu.jpg" group-title="EX-YU TELEKOM",Partizan TV RS
-http://cloudcdn.tk:80/9ezd4YwalJnE639/2MHUyCg8tMdm549/16401
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Fight Channel HR" tvg-logo="https://picon-13398.kxcdn.com/fightchannelhr.jpg" group-title="EX-YU TELEKOM",Fight Channel HR
-http://cloudcdn.tk:80/9ezd4YwalJnE639/2MHUyCg8tMdm549/28086
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Moja TV HD BH" tvg-logo="https://picon-13398.kxcdn.com/mojatvbh.jpg" group-title="EX-YU TELEKOM",Moja TV HD BH
-http://cloudcdn.tk:80/9ezd4YwalJnE639/2MHUyCg8tMdm549/28085
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="HBO HD SI" tvg-logo="https://picon-13398.kxcdn.com/hbo1hd.jpg" group-title="EX-YU TELEKOM",HBO HD SI
-http://cloudcdn.tk:80/9ezd4YwalJnE639/2MHUyCg8tMdm549/28084
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Viasat Explore RS" tvg-logo="https://picon-13398.kxcdn.com/viasatexplore.jpg" group-title="EX-YU TELEKOM",Viasat Explore RS
-http://cloudcdn.tk:80/9ezd4YwalJnE639/2MHUyCg8tMdm549/28071
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="National Geographic RS" tvg-logo="https://picon-13398.kxcdn.com/natgeo.jpg" group-title="EX-YU TELEKOM",National Geographic RS
-http://cloudcdn.tk:80/9ezd4YwalJnE639/2MHUyCg8tMdm549/28070
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TV Leskovac RS" tvg-logo="https://picon-13398.kxcdn.com/tvleskovacrs.jpg" group-title="EX-YU TELEKOM",TV Leskovac RS
-http://cloudcdn.tk:80/9ezd4YwalJnE639/2MHUyCg8tMdm549/28068
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sevdah TV BA" tvg-logo="https://picon-13398.kxcdn.com/sevdahtvba.jpg" group-title="EX-YU TELEKOM",Sevdah TV BA
-http://cloudcdn.tk:80/9ezd4YwalJnE639/2MHUyCg8tMdm549/28066
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TVCG 1 ME" tvg-logo="https://picon-13398.kxcdn.com/tvcg1me.jpg" group-title="EX-YU TELEKOM",TVCG 1 ME
-http://cloudcdn.tk:80/9ezd4YwalJnE639/2MHUyCg8tMdm549/28063
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Mreza TV Zagreb HR" tvg-logo="https://picon-13398.kxcdn.com/mrezatvzagrebhr.jpg" group-title="EX-YU TELEKOM",Mreza TV Zagreb HR
-http://cloudcdn.tk:80/9ezd4YwalJnE639/2MHUyCg8tMdm549/28061
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Kanal RI Rijeka HR" tvg-logo="https://picon-13398.kxcdn.com/kanalrhr.jpg" group-title="EX-YU TELEKOM",Kanal RI Rijeka HR
-http://cloudcdn.tk:80/9ezd4YwalJnE639/2MHUyCg8tMdm549/28056
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="HRT International HR" tvg-logo="https://picon-13398.kxcdn.com/hrtinthr.jpg" group-title="EX-YU TELEKOM",HRT International HR
-http://cloudcdn.tk:80/9ezd4YwalJnE639/2MHUyCg8tMdm549/28054
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Pink Koncert RS" tvg-logo="https://picon-13398.kxcdn.com/pinkkoncertrs.jpg" group-title="EX-YU TELEKOM",Pink Koncert RS
-http://cloudcdn.tk:80/9ezd4YwalJnE639/2MHUyCg8tMdm549/28049
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RTS Drama RS" tvg-logo="https://picon-13398.kxcdn.com/rtsdramars.jpg" group-title="EX-YU TELEKOM",RTS Drama RS
-http://cloudcdn.tk:80/9ezd4YwalJnE639/2MHUyCg8tMdm549/28048
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RTS Muzika RS" tvg-logo="https://picon-13398.kxcdn.com/rtsdramars.jpg" group-title="EX-YU TELEKOM",RTS Muzika RS
-http://cloudcdn.tk:80/9ezd4YwalJnE639/2MHUyCg8tMdm549/28047
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RTS Zivot RS" tvg-logo="https://picon-13398.kxcdn.com/rtssvetrs.jpg" group-title="EX-YU TELEKOM",RTS Zivot RS
-http://cloudcdn.tk:80/9ezd4YwalJnE639/2MHUyCg8tMdm549/28046
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Prva Kick RS" tvg-logo="https://picon-13398.kxcdn.com/prvakickrs.jpg" group-title="EX-YU TELEKOM",Prva Kick RS
-http://cloudcdn.tk:80/9ezd4YwalJnE639/2MHUyCg8tMdm549/28045
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Viasat Nature HR" tvg-logo="https://picon-13398.kxcdn.com/viasatnature.jpg" group-title="EX-YU TELEKOM",Viasat Nature HR
-http://cloudcdn.tk:80/9ezd4YwalJnE639/2MHUyCg8tMdm549/28399
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Elta 1 BH" tvg-logo="https://picon-13398.kxcdn.com/elta1bh.jpg" group-title="EX-YU TELEKOM",Elta 1 BH
-http://cloudcdn.tk:80/9ezd4YwalJnE639/2MHUyCg8tMdm549/28392
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Elta 2 BH" tvg-logo="https://picon-13398.kxcdn.com/elta2bh.jpg" group-title="EX-YU TELEKOM",Elta 2 BH
-http://cloudcdn.tk:80/9ezd4YwalJnE639/2MHUyCg8tMdm549/28393
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RTS Kolo RS" tvg-logo="https://picon-13398.kxcdn.com/rtsdramars.jpg" group-title="EX-YU TELEKOM",RTS Kolo RS
-http://cloudcdn.tk:80/9ezd4YwalJnE639/2MHUyCg8tMdm549/28390
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BBC Earth Adria ex-Yu" tvg-logo="https://picon-13398.kxcdn.com/bbcearth.jpg" group-title="EX-YU TELEKOM",BBC Earth Adria ex-Yu
-http://cloudcdn.tk:80/9ezd4YwalJnE639/2MHUyCg8tMdm549/28388
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AXN Spin RS" tvg-logo="https://picon-13398.kxcdn.com/axnspinhd.jpg" group-title="EX-YU TELEKOM",AXN Spin RS
-http://cloudcdn.tk:80/9ezd4YwalJnE639/2MHUyCg8tMdm549/28394
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RTV HB BA" tvg-logo="https://picon-13398.kxcdn.com/rtvhbba.jpg" group-title="EX-YU TELEKOM",RTV HB BA
-http://cloudcdn.tk:80/9ezd4YwalJnE639/2MHUyCg8tMdm549/29547
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Alfa TV BA" tvg-logo="https://picon-13398.kxcdn.com/alfatvba.jpg" group-title="EX-YU TELEKOM",Alfa TV BA
-http://cloudcdn.tk:80/9ezd4YwalJnE639/2MHUyCg8tMdm549/29548
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RTV Vogosca BA" tvg-logo="https://picon-13398.kxcdn.com/rtvvogoscaba.jpg" group-title="EX-YU TELEKOM",RTV Vogosca BA
-http://cloudcdn.tk:80/9ezd4YwalJnE639/2MHUyCg8tMdm549/29550
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Hema TV BA" tvg-logo="https://picon-13398.kxcdn.com/hematvba.jpg" group-title="EX-YU TELEKOM",Hema TV BA
-http://cloudcdn.tk:80/9ezd4YwalJnE639/2MHUyCg8tMdm549/29552
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Hit TV BA" tvg-logo="https://picon-13398.kxcdn.com/hitba.jpg" group-title="EX-YU TELEKOM",Hit TV BA
-http://cloudcdn.tk:80/9ezd4YwalJnE639/2MHUyCg8tMdm549/29553
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Oscar TV BA" tvg-logo="https://picon-13398.kxcdn.com/oscartvba.jpg" group-title="EX-YU TELEKOM",Oscar TV BA
-http://cloudcdn.tk:80/9ezd4YwalJnE639/2MHUyCg8tMdm549/29554
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Cartoon Network HR" tvg-logo="https://picon-13398.kxcdn.com/cartoonnetworkhd.jpg" group-title="EX-YU TELEKOM",Cartoon Network HR
-http://cloudcdn.tk:80/9ezd4YwalJnE639/2MHUyCg8tMdm549/29555
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Fight Network Ex-Yu" tvg-logo="https://picon-13398.kxcdn.com/fightnetworkus.jpg" group-title="EX-YU TELEKOM",Fight Network Ex-Yu
-http://cloudcdn.tk:80/9ezd4YwalJnE639/2MHUyCg8tMdm549/29556
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RTS Poletarac RS" tvg-logo="https://picon-13398.kxcdn.com/rtsdramars.jpg" group-title="EX-YU TELEKOM",RTS Poletarac RS
-http://cloudcdn.tk:80/9ezd4YwalJnE639/2MHUyCg8tMdm549/29557
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TV Most RS" tvg-logo="https://picon-13398.kxcdn.com/tvmostrs.jpg" group-title="EX-YU TELEKOM",TV Most RS
-http://cloudcdn.tk:80/9ezd4YwalJnE639/2MHUyCg8tMdm549/29561
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NTV Jata BA" tvg-logo="https://picon-13398.kxcdn.com/ntvickakanjba.jpg" group-title="EX-YU TELEKOM",NTV Jata BA
-http://cloudcdn.tk:80/9ezd4YwalJnE639/2MHUyCg8tMdm549/29563
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Nova Sport HD RS" tvg-logo="https://picon-13398.kxcdn.com/novasportru.jpg" group-title="EX-YU TELEKOM",Nova Sport HD RS
-http://cloudcdn.tk:80/9ezd4YwalJnE639/2MHUyCg8tMdm549/29855
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Banovina TV HR" tvg-logo="https://picon-13398.kxcdn.com/banovlnahr.jpg" group-title="EX-YU TELEKOM",Banovina TV HR
-http://cloudcdn.tk:80/9ezd4YwalJnE639/2MHUyCg8tMdm549/30074
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RTV Krajina BA" tvg-logo="https://picon-13398.kxcdn.com/krajinaba.jpg" group-title="EX-YU TELEKOM",RTV Krajina BA
-http://cloudcdn.tk:80/9ezd4YwalJnE639/2MHUyCg8tMdm549/32683
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Amari TV BA" tvg-logo="https://picon-13398.kxcdn.com/amaritvba.jpg" group-title="EX-YU TELEKOM",Amari TV BA
-http://cloudcdn.tk:80/9ezd4YwalJnE639/2MHUyCg8tMdm549/32684
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NTV IC Kakanj BA" tvg-logo="https://picon-13398.kxcdn.com/ntvickakanjba.jpg" group-title="EX-YU TELEKOM",NTV IC Kakanj BA
-http://cloudcdn.tk:80/9ezd4YwalJnE639/2MHUyCg8tMdm549/32685
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="O Kanal BA" tvg-logo="https://picon-13398.kxcdn.com/okanalba.jpg" group-title="EX-YU TELEKOM",O Kanal BA
-http://cloudcdn.tk:80/9ezd4YwalJnE639/2MHUyCg8tMdm549/32686
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Posavina BA" tvg-logo="https://picon-13398.kxcdn.com/posavnaba.jpg" group-title="EX-YU TELEKOM",Posavina BA
-http://cloudcdn.tk:80/9ezd4YwalJnE639/2MHUyCg8tMdm549/32687
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BBC Earth HD HR" tvg-logo="https://picon-13398.kxcdn.com/bbcearth.jpg" group-title="EX-YU TELEKOM",BBC Earth HD HR
-http://cloudcdn.tk:80/9ezd4YwalJnE639/2MHUyCg8tMdm549/28398
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RTV 2 RS" tvg-logo="https://picon-13398.kxcdn.com/rtv2rs.jpg" group-title="EX-YU TELEKOM",RTV 2 RS
-http://cloudcdn.tk:80/9ezd4YwalJnE639/2MHUyCg8tMdm549/33965
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Zadruga Live 1 RS" tvg-logo="https://picon-13398.kxcdn.com/zadrugasr.jpg" group-title="EX-YU TELEKOM",Zadruga Live 1 RS
-http://cloudcdn.tk:80/9ezd4YwalJnE639/2MHUyCg8tMdm549/35327
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Zadruga Live 2 RS" tvg-logo="https://picon-13398.kxcdn.com/zadrugasr.jpg" group-title="EX-YU TELEKOM",Zadruga Live 2 RS
-http://cloudcdn.tk:80/9ezd4YwalJnE639/2MHUyCg8tMdm549/35328
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Zadruga Live 3 RS" tvg-logo="https://picon-13398.kxcdn.com/zadrugasr.jpg" group-title="EX-YU TELEKOM",Zadruga Live 3 RS
-http://cloudcdn.tk:80/9ezd4YwalJnE639/2MHUyCg8tMdm549/35329
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Zadruga Live 4 RS" tvg-logo="https://picon-13398.kxcdn.com/zadrugasr.jpg" group-title="EX-YU TELEKOM",Zadruga Live 4 RS
-http://cloudcdn.tk:80/9ezd4YwalJnE639/2MHUyCg8tMdm549/35330
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Star TV RS" tvg-logo="https://picon-13398.kxcdn.com/startvrs.jpg" group-title="EX-YU TELEKOM",Star TV RS
-http://cloudcdn.tk:80/9ezd4YwalJnE639/2MHUyCg8tMdm549/28252
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Arena Sport 1 RS" tvg-logo="https://picon-13398.kxcdn.com/areanasport1hrexyu.jpg" group-title="EX-YU TELEKOM",Arena Sport 1 RS
-http://cloudcdn.tk:80/9ezd4YwalJnE639/2MHUyCg8tMdm549/52131
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Arena Sport 2 RS" tvg-logo="https://picon-13398.kxcdn.com/areanasport2hrexyu.jpg" group-title="EX-YU TELEKOM",Arena Sport 2 RS
-http://cloudcdn.tk:80/9ezd4YwalJnE639/2MHUyCg8tMdm549/52132
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Fox HD RS" tvg-logo="https://picon-13398.kxcdn.com/foxhd.jpg" group-title="EX-YU TELEKOM",Fox HD RS
-http://cloudcdn.tk:80/9ezd4YwalJnE639/2MHUyCg8tMdm549/52133
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Pink HD RS" tvg-logo="https://picon-13398.kxcdn.com/pinkexyu.jpg" group-title="EX-YU TELEKOM",Pink HD RS
-http://cloudcdn.tk:80/9ezd4YwalJnE639/2MHUyCg8tMdm549/71021
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Discovery Science [Multi-sub] Europe" tvg-logo="https://picon-13398.kxcdn.com/discoveryscience.jpg" group-title="EX-YU TELEKOM",Discovery Science [Multi-sub] Europe
-http://cloudcdn.tk:80/9ezd4YwalJnE639/2MHUyCg8tMdm549/72672
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Toxic TV RS" tvg-logo="" group-title="EX-YU TELEKOM",Toxic TV RS
-http://cloudcdn.tk:80/9ezd4YwalJnE639/2MHUyCg8tMdm549/80020
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Cinestar TV 2 HD HR" tvg-logo="" group-title="EX-YU TELEKOM",Cinestar TV 2 HD HR
-http://cloudcdn.tk:80/9ezd4YwalJnE639/2MHUyCg8tMdm549/80021
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Cinestar TV Comedy HD HR" tvg-logo="" group-title="EX-YU TELEKOM",Cinestar TV Comedy HD HR
-http://cloudcdn.tk:80/9ezd4YwalJnE639/2MHUyCg8tMdm549/80022
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Arena Sport 5 FHD HR" tvg-logo="https://picon-13398.kxcdn.com/areanasport5hrexyu.jpg" group-title="EX-YU TELEKOM",Arena Sport 5 FHD HR
-http://cloudcdn.tk:80/9ezd4YwalJnE639/2MHUyCg8tMdm549/19005
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Discovery Science FHD RS" tvg-logo="https://picon-13398.kxcdn.com/discoveryscience.jpg" group-title="EX-YU TELEKOM",Discovery Science FHD RS
-http://cloudcdn.tk:80/9ezd4YwalJnE639/2MHUyCg8tMdm549/80023
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Doku TV FHD HR" tvg-logo="" group-title="EX-YU TELEKOM",Doku TV FHD HR
-http://cloudcdn.tk:80/9ezd4YwalJnE639/2MHUyCg8tMdm549/80024
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Epic Drama HR" tvg-logo="https://picon-13398.kxcdn.com/epicdramapl.jpg" group-title="EX-YU TELEKOM",Epic Drama HR
-http://cloudcdn.tk:80/9ezd4YwalJnE639/2MHUyCg8tMdm549/80025
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Film Klub RS" tvg-logo="" group-title="EX-YU TELEKOM",Film Klub RS
-http://cloudcdn.tk:80/9ezd4YwalJnE639/2MHUyCg8tMdm549/80026
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Prva Life RS" tvg-logo="" group-title="EX-YU TELEKOM",Prva Life RS
-http://cloudcdn.tk:80/9ezd4YwalJnE639/2MHUyCg8tMdm549/80027
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Prva Hercegovacka BA" tvg-logo="" group-title="EX-YU TELEKOM",Prva Hercegovacka BA
-http://cloudcdn.tk:80/9ezd4YwalJnE639/2MHUyCg8tMdm549/80028
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="K3 HD BA" tvg-logo="" group-title="EX-YU TELEKOM",K3 HD BA
-http://cloudcdn.tk:80/9ezd4YwalJnE639/2MHUyCg8tMdm549/80029
+#EXTM3U
+#EXTINF:0,CRO: HRT 1
+http://monerotv.net:88/marini/marini/1618
+#EXTINF:0,CRO: HRT 2
+http://monerotv.net:88/marini/marini/1619
+#EXTINF:0,CRO: HRT 3
+http://monerotv.net:88/marini/marini/1620
+#EXTINF:0,CRO: HRT 4
+http://monerotv.net:88/marini/marini/1621
+#EXTINF:0,CRO: HRT 5
+http://monerotv.net:88/marini/marini/13250
+#EXTINF:0,CRO: RTL
+http://monerotv.net:88/marini/marini/10859
+#EXTINF:0,CRO: NOVA TV
+http://monerotv.net:88/marini/marini/2801
+#EXTINF:0,CRO: NOVA TV HD
+http://monerotv.net:88/marini/marini/1622
+#EXTINF:0,CRO: NOVA HR HD
+http://monerotv.net:88/marini/marini/22144
+#EXTINF:0,CRO: RTL 2
+http://monerotv.net:88/marini/marini/1636
+#EXTINF:0,CRO: RTL Living
+http://monerotv.net:88/marini/marini/1637
+#EXTINF:0,CRO: RTL Passion
+http://monerotv.net:88/marini/marini/13936
+#EXTINF:0,CRO: RTL CRIME
+http://monerotv.net:88/marini/marini/2804
+#EXTINF:0,EX-YU: MTV
+http://monerotv.net:88/marini/marini/1635
+#EXTINF:0,CRO: RTL KOCKICA
+http://monerotv.net:88/marini/marini/2920
+#EXTINF:0,CRO: CINESTAR ACTION
+http://monerotv.net:88/marini/marini/1609
+#EXTINF:0,CRO: Cinestar Premier 1
+http://monerotv.net:88/marini/marini/1610
+#EXTINF:0,CRO: Cinestar Premier 2
+http://monerotv.net:88/marini/marini/1611
+#EXTINF:0,CRO: CINESTAR FANTASY
+http://monerotv.net:88/marini/marini/7929
+#EXTINF:0,CRO: CINEMAX-1
+http://monerotv.net:88/marini/marini/2885
+#EXTINF:0,CRO: CINEMAX-2
+http://monerotv.net:88/marini/marini/2886
+#EXTINF:0,CRO: Doma TV HD
+http://monerotv.net:88/marini/marini/1613
+#EXTINF:0,CRO: DIVA
+http://monerotv.net:88/marini/marini/2795
+#EXTINF:0,CRO: TV Banovina
+http://monerotv.net:88/marini/marini/2806
+#EXTINF:0,CRO: CMC
+http://monerotv.net:88/marini/marini/2861
+#EXTINF:0,CRO: HBO Adria
+http://monerotv.net:88/marini/marini/2879
+#EXTINF:0,CRO: FilmBox Extra
+http://monerotv.net:88/marini/marini/2893
+#EXTINF:0,CRO: Viasat Nature
+http://monerotv.net:88/marini/marini/2906
+#EXTINF:0,CRO: Viasat History
+http://monerotv.net:88/marini/marini/13933
+#EXTINF:0,CRO: Viasat Explorer
+http://monerotv.net:88/marini/marini/13934
+#EXTINF:0,CRO: HNTV
+http://monerotv.net:88/marini/marini/22178
+#EXTINF:0,CRO: Kreator TV
+http://monerotv.net:88/marini/marini/22177
+#EXTINF:0,CRO: DOKU TV ADRIA
+http://monerotv.net:88/marini/marini/22170
+#EXTINF:0,CRO: AXN Adria
+http://monerotv.net:88/marini/marini/2891
+#EXTINF:0,CRO: AXN SPIN
+http://monerotv.net:88/marini/marini/2813
+#EXTINF:0,CRO: AXN SPIN Adria
+http://monerotv.net:88/marini/marini/21720
+#EXTINF:0,CRO: N1 HD
+http://monerotv.net:88/marini/marini/13667
+#EXTINF:0,EX-YU: Maxcro Select 1 FHD
+http://monerotv.net:88/marini/marini/29958
+#EXTINF:0,EX-YU: Maxcro Select 2 FHD
+http://monerotv.net:88/marini/marini/29959
+#EXTINF:0,EX-YU:  Maxcro Select 3 FHD
+http://monerotv.net:88/marini/marini/29960
+#EXTINF:0,EX-YU: Maxcro Select 4 FHD
+http://monerotv.net:88/marini/marini/29961
+#EXTINF:0,EX-YU: Maxcro Select 5 FHD
+http://monerotv.net:88/marini/marini/29962
+#EXTINF:0,EX-YU:  Maxcro Select 6 FHD
+http://monerotv.net:88/marini/marini/29963
+#EXTINF:0,EX-YU: Maxcro Select 8 FHD
+http://monerotv.net:88/marini/marini/29965
+#EXTINF:0,EX-YU: Maxcro Select 9 FHD
+http://monerotv.net:88/marini/marini/29966
+#EXTINF:0,EX-YU: Maxcro Select 10 FHD
+http://monerotv.net:88/marini/marini/29967
+#EXTINF:0,EX-YU: BHT 1
+http://monerotv.net:88/marini/marini/2775
+#EXTINF:0,EX-YU: BHT
+http://monerotv.net:88/marini/marini/1605
+#EXTINF:0,EX-YU: NOVA BH
+http://monerotv.net:88/marini/marini/1624
+#EXTINF:0,EX-YU: OBN
+http://monerotv.net:88/marini/marini/1623
+#EXTINF:0,EX-YU: N1 BiH
+http://monerotv.net:88/marini/marini/13666
+#EXTINF:0,EX-YU: B1 HD
+http://monerotv.net:88/marini/marini/29165
+#EXTINF:0,EX-YU: BN
+http://monerotv.net:88/marini/marini/1606
+#EXTINF:0,EX-YU: RTRS
+http://monerotv.net:88/marini/marini/2776
+#EXTINF:0,EX-YU: RTV SLON
+http://monerotv.net:88/marini/marini/38461
+#EXTINF:0,EX-YU: TK Tuzla
+http://monerotv.net:88/marini/marini/2781
+#EXTINF:0,EX-YU: TVSA Sarajevo
+http://monerotv.net:88/marini/marini/2782
+#EXTINF:0,EX-YU: ALFA TV BH
+http://monerotv.net:88/marini/marini/22656
+#EXTINF:0,EX-YU: A TV
+http://monerotv.net:88/marini/marini/29164
+#EXTINF:0,EX-YU: ALFA TV
+http://monerotv.net:88/marini/marini/29166
+#EXTINF:0,EX-YU: O KANAL
+http://monerotv.net:88/marini/marini/2778
+#EXTINF:0,EX-YU: RTV USK
+http://monerotv.net:88/marini/marini/2791
+#EXTINF:0,EX-YU: Hayat HD
+http://monerotv.net:88/marini/marini/1616
+#EXTINF:0,EX-YU: HAYAT PLUS
+http://monerotv.net:88/marini/marini/2779
+#EXTINF:0,EX-YU: Federalna TV
+http://monerotv.net:88/marini/marini/2777
+#EXTINF:0,EX-YU: FACE TV
+http://monerotv.net:88/marini/marini/2780
+#EXTINF:0,EX-YU: HEMA TV
+http://monerotv.net:88/marini/marini/23635
+#EXTINF:0,EX-YU: TV 5
+http://monerotv.net:88/marini/marini/2773
+#EXTINF:0,EX-YU: MTV Igman
+http://monerotv.net:88/marini/marini/2786
+#EXTINF:0,EX-YU: Sandzak TV
+http://monerotv.net:88/marini/marini/2767
+#EXTINF:0,EX-YU: CITY TV MOSTAR
+http://monerotv.net:88/marini/marini/25446
+#EXTINF:0,EX-YU: NTV IC
+http://monerotv.net:88/marini/marini/29167
+#EXTINF:0,EX-YU: RTV Zenica
+http://monerotv.net:88/marini/marini/2788
+#EXTINF:0,EX-YU: PODRINJE
+http://monerotv.net:88/marini/marini/29170
+#EXTINF:0,EX-YU: TV Sehara
+http://monerotv.net:88/marini/marini/2784
+#EXTINF:0,EX-YU: TV Glas Drine
+http://monerotv.net:88/marini/marini/2793
+#EXTINF:0,EX-YU: Otv Valentino
+http://monerotv.net:88/marini/marini/2789
+#EXTINF:0,EX-YU: Posavina TV
+http://monerotv.net:88/marini/marini/1633
+#EXTINF:0,EX-YU: Hayat Folk
+http://monerotv.net:88/marini/marini/1617
+#EXTINF:0,EX-YU: HAYAT MUSIC
+http://monerotv.net:88/marini/marini/2858
+#EXTINF:0,EX-YU: BN Music
+http://monerotv.net:88/marini/marini/1607
+#EXTINF:0,EX-YU: SEVDAH TV
+http://monerotv.net:88/marini/marini/22686
+#EXTINF:0,EX-YU: TNT KIDS
+http://monerotv.net:88/marini/marini/22667
+#EXTINF:0,EX-YU: Hayatovci
+http://monerotv.net:88/marini/marini/2924
+#EXTINF:0,EX-YU: RTCG 1
+http://monerotv.net:88/marini/marini/5825
+#EXTINF:0,EX-YU: RTCG 2
+http://monerotv.net:88/marini/marini/5826
+#EXTINF:0,EX-YU: RTCG SAT
+http://monerotv.net:88/marini/marini/2811
+#EXTINF:0,EX-YU: N1 SRB
+http://monerotv.net:88/marini/marini/2765
+#EXTINF:0,EX-YU: RTS 1
+http://monerotv.net:88/marini/marini/1049
+#EXTINF:0,EX-YU: RTS 1 (local)
+http://monerotv.net:88/marini/marini/2746
+#EXTINF:0,EX-YU: RTS 2
+http://monerotv.net:88/marini/marini/1050
+#EXTINF:0,EX-YU: RTS 2 (local)
+http://monerotv.net:88/marini/marini/2747
+#EXTINF:0,EX-YU: RTS 3
+http://monerotv.net:88/marini/marini/2748
+#EXTINF:0,EX-YU: NOVA M
+http://monerotv.net:88/marini/marini/2812
+#EXTINF:0,EX-YU: Nova RS
+http://monerotv.net:88/marini/marini/2757
+#EXTINF:0,EX-YU: NOVA S HD
+http://monerotv.net:88/marini/marini/23655
+#EXTINF:0,EX-YU: RTS Drama
+http://monerotv.net:88/marini/marini/14350
+#EXTINF:0,EX-YU: RTS Kolo
+http://monerotv.net:88/marini/marini/14351
+#EXTINF:0,EX-YU: RTS Muzika
+http://monerotv.net:88/marini/marini/14352
+#EXTINF:0,EX-YU: RTS Satelit
+http://monerotv.net:88/marini/marini/14355
+#EXTINF:0,EX-YU: RTL 2
+http://monerotv.net:88/marini/marini/2803
+#EXTINF:0,EX-YU: PRVA
+http://monerotv.net:88/marini/marini/2750
+#EXTINF:0,EX-YU: PRVA (local)
+http://monerotv.net:88/marini/marini/2751
+#EXTINF:0,EX-YU: Prva Kick
+http://monerotv.net:88/marini/marini/21678
+#EXTINF:0,EX-YU: Prva MAX
+http://monerotv.net:88/marini/marini/21252
+#EXTINF:0,EX-YU: PRVA Plus
+http://monerotv.net:88/marini/marini/1634
+#EXTINF:0,EX-YU: Prva TV Montenegro
+http://monerotv.net:88/marini/marini/21014
+#EXTINF:0,EX-YU: PRVA World TV
+http://monerotv.net:88/marini/marini/2754
+#EXTINF:0,EX-YU: NOVA M
+http://monerotv.net:88/marini/marini/2812
+#EXTINF:0,EX-YU: Nova RS
+http://monerotv.net:88/marini/marini/2757
+#EXTINF:0,EX-YU: NOVA S HD
+http://monerotv.net:88/marini/marini/23655
+#EXTINF:0,EX-YU: ZADRUGA 1
+http://monerotv.net:88/marini/marini/29136
+#EXTINF:0,EX-YU: ZADRUGA 3
+http://monerotv.net:88/marini/marini/29138
+#EXTINF:0,EX-YU: HIT BRCKO
+http://monerotv.net:88/marini/marini/22180
+#EXTINF:0,EX-YU: 24 KITCHEN
+http://monerotv.net:88/marini/marini/2899
+#EXTINF:0,EX-YU: ANIMAL PLANET
+http://monerotv.net:88/marini/marini/2903
+#EXTINF:0,EX-YU: A1 BALKAN
+http://monerotv.net:88/marini/marini/2785
+#EXTINF:0,EX-YU: BALKANIKA
+http://monerotv.net:88/marini/marini/1721
+#EXTINF:0,EX-YU: Cinemania
+http://monerotv.net:88/marini/marini/21012
+#EXTINF:0,EX-YU: Da Vinci Learning
+http://monerotv.net:88/marini/marini/2911
+#EXTINF:0,EX-YU: Discovery Science HD
+http://monerotv.net:88/marini/marini/21721
+#EXTINF:0,EX-YU: DM Sat
+http://monerotv.net:88/marini/marini/1612
+#EXTINF:0,EX-YU: Docubox
+http://monerotv.net:88/marini/marini/2916
+#EXTINF:0,EX-YU: E!
+http://monerotv.net:88/marini/marini/2907
+#EXTINF:0,EX-YU: Eurosport 1
+http://monerotv.net:88/marini/marini/2948
+#EXTINF:0,EX-YU: Fightbox
+http://monerotv.net:88/marini/marini/2950
+#EXTINF:0,EX-YU: Filmbox HD
+http://monerotv.net:88/marini/marini/25411
+#EXTINF:0,EX-YU: Fox Crime HD
+http://monerotv.net:88/marini/marini/2889
+#EXTINF:0,EX-YU: FOX HD
+http://monerotv.net:88/marini/marini/22146
+#EXTINF:0,EX-YU: Fox Life HD
+http://monerotv.net:88/marini/marini/1615
+#EXTINF:0,EX-YU: Fox Movies HD
+http://monerotv.net:88/marini/marini/2888
+#EXTINF:0,EX-YU: Fox Movies HD (HR SUB)
+http://monerotv.net:88/marini/marini/13759
+#EXTINF:0,EX-YU: Grand TV
+http://monerotv.net:88/marini/marini/2859
+#EXTINF:0,EX-YU: Happy (local)
+http://monerotv.net:88/marini/marini/2756
+#EXTINF:0,EX-YU: Happy Parovi 24/7
+http://monerotv.net:88/marini/marini/9594
+#EXTINF:0,EX-YU: HBO (HD)
+http://monerotv.net:88/marini/marini/2743
+#EXTINF:0,EX-YU: HBO 2
+http://monerotv.net:88/marini/marini/2880
+#EXTINF:0,EX-YU: HBO 2 (HD)
+http://monerotv.net:88/marini/marini/2744
+#EXTINF:0,EX-YU: HBO 2 (HD).
+http://monerotv.net:88/marini/marini/954
+#EXTINF:0,EX-YU: HBO 3
+http://monerotv.net:88/marini/marini/2881
+#EXTINF:0,EX-YU: History 2
+http://monerotv.net:88/marini/marini/2901
+#EXTINF:0,EX-YU: HISTORY CHANNEL
+http://monerotv.net:88/marini/marini/2900
+#EXTINF:0,EX-YU: Izvorna TV
+http://monerotv.net:88/marini/marini/2860
+#EXTINF:0,EX-YU: KCN 1
+http://monerotv.net:88/marini/marini/2850
+#EXTINF:0,EX-YU: KCN 2
+http://monerotv.net:88/marini/marini/2851
+#EXTINF:0,EX-YU: KCN 3
+http://monerotv.net:88/marini/marini/2852
+#EXTINF:0,EX-YU: Kino TV
+http://monerotv.net:88/marini/marini/21013
+#EXTINF:0,EX-YU: KLASIK TV
+http://monerotv.net:88/marini/marini/2875
+#EXTINF:0,EX-YU: LOV I RIBOLOV
+http://monerotv.net:88/marini/marini/2898
+#EXTINF:0,EX-YU: M1 Film
+http://monerotv.net:88/marini/marini/21679
+#EXTINF:0,EX-YU: M1 Gold
+http://monerotv.net:88/marini/marini/23649
+#EXTINF:0,EX-YU: Mini TV
+http://monerotv.net:88/marini/marini/2925
+#EXTINF:0,EX-YU: Mini TV HR
+http://monerotv.net:88/marini/marini/2926
+#EXTINF:0,EX-YU: Minimax
+http://monerotv.net:88/marini/marini/2922
+#EXTINF:0,EX-YU: NASA TV
+http://monerotv.net:88/marini/marini/25447
+#EXTINF:0,EX-YU: NAT GEO WILD HD
+http://monerotv.net:88/marini/marini/22919
+#EXTINF:0,EX-YU: National Geographic
+http://monerotv.net:88/marini/marini/2902
+#EXTINF:0,EX-YU: NATIONAL GEOGRAPHIC HD (HR)
+http://monerotv.net:88/marini/marini/22058
+#EXTINF:0,EX-YU: O2 (local)
+http://monerotv.net:88/marini/marini/2753
+#EXTINF:0,EX-YU: PAROVI 24 SATA
+http://monerotv.net:88/marini/marini/25434
+#EXTINF:0,EX-YU: Partizan HD
+http://monerotv.net:88/marini/marini/9398
+#EXTINF:0,EX-YU: Pikaboo
+http://monerotv.net:88/marini/marini/22665
+#EXTINF:0,EX-YU: Pink
+http://monerotv.net:88/marini/marini/1004
+#EXTINF:0,EX-YU: PINK 1 (reserve)
+http://monerotv.net:88/marini/marini/2759
+#EXTINF:0,EX-YU: PINK2
+http://monerotv.net:88/marini/marini/1005
+#EXTINF:0,EX-YU: PINK 3
+http://monerotv.net:88/marini/marini/2761
+#EXTINF:0,EX-YU: Pink M
+http://monerotv.net:88/marini/marini/34396
+#EXTINF:0,EX-YU: Pink Action
+http://monerotv.net:88/marini/marini/1006
+#EXTINF:0,EX-YU: Pink Classic
+http://monerotv.net:88/marini/marini/14326
+#EXTINF:0,EX-YU: Pink Comedy
+http://monerotv.net:88/marini/marini/1008
+#EXTINF:0,EX-YU: Pink Crime & Mystery
+http://monerotv.net:88/marini/marini/1684
+#EXTINF:0,EX-YU: Pink Extra
+http://monerotv.net:88/marini/marini/1009
+#EXTINF:0,EX-YU: Pink Family
+http://monerotv.net:88/marini/marini/14328
+#EXTINF:0,EX-YU: Pink Film
+http://monerotv.net:88/marini/marini/1011
+#EXTINF:0,EX-YU: Pink Folk
+http://monerotv.net:88/marini/marini/2869
+#EXTINF:0,EX-YU: Pink Folk 2
+http://monerotv.net:88/marini/marini/2870
+#EXTINF:0,EX-YU: Pink HaHa
+http://monerotv.net:88/marini/marini/14324
+#EXTINF:0,EX-YU: Pink Hits 2
+http://monerotv.net:88/marini/marini/2866
+#EXTINF:0,EX-YU: Pink Horror
+http://monerotv.net:88/marini/marini/1012
+#EXTINF:0,EX-YU: Pink Kids
+http://monerotv.net:88/marini/marini/2919
+#EXTINF:0,EX-YU: Pink Koncert
+http://monerotv.net:88/marini/marini/2865
+#EXTINF:0,EX-YU: Pink Kuvar
+http://monerotv.net:88/marini/marini/2913
+#EXTINF:0,EX-YU: Pink LoL
+http://monerotv.net:88/marini/marini/14325
+#EXTINF:0,EX-YU: PINK MEDIA BIH
+http://monerotv.net:88/marini/marini/21697
+#EXTINF:0,EX-YU: Pink Movies
+http://monerotv.net:88/marini/marini/1013
+#EXTINF:0,EX-YU: Pink Music
+http://monerotv.net:88/marini/marini/2867
+#EXTINF:0,EX-YU: Pink Pedia
+http://monerotv.net:88/marini/marini/1014
+#EXTINF:0,EX-YU: Pink Plus TV
+http://monerotv.net:88/marini/marini/2772
+#EXTINF:0,EX-YU: Pink Premium
+http://monerotv.net:88/marini/marini/1626
+#EXTINF:0,EX-YU: Pink Reality
+http://monerotv.net:88/marini/marini/11452
+#EXTINF:0,EX-YU: Pink Romance
+http://monerotv.net:88/marini/marini/1628
+#EXTINF:0,EX-YU: Pink Sci-Fi & Fantasy
+http://monerotv.net:88/marini/marini/1629
+#EXTINF:0,EX-YU: Pink Serije
+http://monerotv.net:88/marini/marini/1630
+#EXTINF:0,EX-YU: Pink Show
+http://monerotv.net:88/marini/marini/2872
+#EXTINF:0,EX-YU: Pink Soap
+http://monerotv.net:88/marini/marini/2894
+#EXTINF:0,EX-YU: Pink Super Kids
+http://monerotv.net:88/marini/marini/2918
+#EXTINF:0,EX-YU: Pink Thriller
+http://monerotv.net:88/marini/marini/1631
+#EXTINF:0,EX-YU: Pink Western
+http://monerotv.net:88/marini/marini/1632
+#EXTINF:0,EX-YU: Pink World Cinema
+http://monerotv.net:88/marini/marini/14327
+#EXTINF:0,EX-YU: Pink Zabava
+http://monerotv.net:88/marini/marini/2912
+#EXTINF:0,EX-YU: Planet Tv
+http://monerotv.net:88/marini/marini/9306
+#EXTINF:0,EX-YU: Pop Oto
+http://monerotv.net:88/marini/marini/2843
+#EXTINF:0,EX-YU: Roma Tv
+http://monerotv.net:88/marini/marini/4120
+#EXTINF:0,EX-YU: RT Vojvodina 1
+http://monerotv.net:88/marini/marini/2763
+#EXTINF:0,EX-YU: RTS Trezor
+http://monerotv.net:88/marini/marini/14353
+#EXTINF:0,EX-YU: RTS Zivot
+http://monerotv.net:88/marini/marini/14354
+#EXTINF:0,EX-YU: RTV BOR
+http://monerotv.net:88/marini/marini/23098
+#EXTINF:0,EX-YU: RTV Novi Pazar
+http://monerotv.net:88/marini/marini/2768
+#EXTINF:0,EX-YU: Sobraniski Kanal (local)
+http://monerotv.net:88/marini/marini/2828
+#EXTINF:0,EX-YU: SOS (local)
+http://monerotv.net:88/marini/marini/2929
+#EXTINF:0,EX-YU: Studio B
+http://monerotv.net:88/marini/marini/2762
+#EXTINF:0,EX-YU: TLC (local)
+http://monerotv.net:88/marini/marini/2908
+#EXTINF:0,EX-YU: TV Nasha  (local)
+http://monerotv.net:88/marini/marini/2831
+#EXTINF:0,EX-YU: Z1
+http://monerotv.net:88/marini/marini/2807
+#EXTINF:0,EX-YU: Nova Sport HD
+http://monerotv.net:88/marini/marini/53499
+#EXTINF:0,EX-YU: Maxcro Select 1 FHD
+http://monerotv.net:88/marini/marini/29958
+#EXTINF:0,EX-YU: Maxcro Select 2 FHD
+http://monerotv.net:88/marini/marini/29959
+#EXTINF:0,EX-YU:  Maxcro Select 3 FHD
+http://monerotv.net:88/marini/marini/29960
+#EXTINF:0,EX-YU: Maxcro Select 4 FHD
+http://monerotv.net:88/marini/marini/29961
+#EXTINF:0,EX-YU: Maxcro Select 5 FHD
+http://monerotv.net:88/marini/marini/29962
+#EXTINF:0,EX-YU:  Maxcro Select 6 FHD
+http://monerotv.net:88/marini/marini/29963
+#EXTINF:0,EX-YU: Maxcro Select 8 FHD
+http://monerotv.net:88/marini/marini/29965
+#EXTINF:0,EX-YU: Maxcro Select 9 FHD
+http://monerotv.net:88/marini/marini/29966
+#EXTINF:0,EX-YU: Maxcro Select 10 FHD
+http://monerotv.net:88/marini/marini/29967
+#EXTINF:0,EX-YU: Pop Brio
+http://monerotv.net:88/marini/marini/2844
+#EXTINF:0,EX-YU : SPORT KLUB 1 HD
+http://monerotv.net:88/marini/marini/1718
+#EXTINF:0,EX-YU : SPORT KLUB 2 HD
+http://monerotv.net:88/marini/marini/1719
+#EXTINF:0,EX-YU : SPORT KLUB 3 HD
+http://monerotv.net:88/marini/marini/1720
+#EXTINF:0,EX-YU: Arena Sport 1 HR FULL HD
+http://monerotv.net:88/marini/marini/863
+#EXTINF:0,EX-YU: Arena Sport 1 SRB HD
+http://monerotv.net:88/marini/marini/864
+#EXTINF:0,EX-YU: Arena Sport 2 HR FULL HD
+http://monerotv.net:88/marini/marini/865
+#EXTINF:0,EX-YU: Arena Sport 3 HR FULL HD
+http://monerotv.net:88/marini/marini/867
+#EXTINF:0,EX-YU: Arena Sport 3 SRB HD
+http://monerotv.net:88/marini/marini/868
+#EXTINF:0,EX-YU: Arena Sport 4 HR FULL HD
+http://monerotv.net:88/marini/marini/869
+#EXTINF:0,EX-YU: Arena Sport 4 SRB HD
+http://monerotv.net:88/marini/marini/870
+#EXTINF:0,EX-YU: Arena Sport 5 HR FULL HD
+http://monerotv.net:88/marini/marini/871
+#EXTINF:0,EX-YU: Arena Sport 5 SRB
+http://monerotv.net:88/marini/marini/1458
+#EXTINF:0,EX-YU: Sport Klub 1 HR
+http://monerotv.net:88/marini/marini/1132
+#EXTINF:0,EX-YU: Sport Klub 2 HR
+http://monerotv.net:88/marini/marini/1133
+#EXTINF:0,EX-YU: Sport Klub 3 HR
+http://monerotv.net:88/marini/marini/1134
+#EXTINF:0,EX-YU: SPORT KLUB 5
+http://monerotv.net:88/marini/marini/2934
+#EXTINF:0,EX-YU: SPORT KLUB 6
+http://monerotv.net:88/marini/marini/2935
+#EXTINF:0,Ex-Yu:Sport Klub 6
+http://monerotv.net:88/marini/marini/2677
+#EXTINF:0,EX-YU: Sport Klub 7
+http://monerotv.net:88/marini/marini/21684
+#EXTINF:0,EX-YU: Sport Klub 8
+http://monerotv.net:88/marini/marini/21685
+#EXTINF:0,EX-YU: Sport Klub 10
+http://monerotv.net:88/marini/marini/22503
+#EXTINF:0,EX-YU: Sport Klub GOLF
+http://monerotv.net:88/marini/marini/11028
