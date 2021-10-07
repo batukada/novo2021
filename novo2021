@@ -1,3 +1,522 @@
+#EXTM3U url-tvg=""
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="HUGO 1" tvg-logo="" group-title="OPERATOR HUGO PRILEP",HUGO 1
+http://cms.hugo.mk:1050/live/velibor.probistip/1918sep/1.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="HUGO 2" tvg-logo="" group-title="OPERATOR HUGO PRILEP",HUGO 2
+http://cms.hugo.mk:1050/live/velibor.probistip/1918sep/2.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="HUGO 3" tvg-logo="" group-title="OPERATOR HUGO PRILEP",HUGO 3
+http://cms.hugo.mk:1050/live/velibor.probistip/1918sep/3.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="HUGO 4" tvg-logo="" group-title="OPERATOR HUGO PRILEP",HUGO 4
+http://cms.hugo.mk:1050/live/velibor.probistip/1918sep/4.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="HUGO 5" tvg-logo="" group-title="OPERATOR HUGO PRILEP",HUGO 5
+http://cms.hugo.mk:1050/live/velibor.probistip/1918sep/5.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="HUGO 6" tvg-logo="" group-title="OPERATOR HUGO PRILEP",HUGO 6
+http://cms.hugo.mk:1050/live/velibor.probistip/1918sep/6.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="HUGO 7" tvg-logo="" group-title="OPERATOR HUGO PRILEP",HUGO 7
+http://cms.hugo.mk:1050/live/velibor.probistip/1918sep/7.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="HUGO 8" tvg-logo="" group-title="OPERATOR HUGO PRILEP",HUGO 8
+http://cms.hugo.mk:1050/live/velibor.probistip/1918sep/8.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="HUGO 9" tvg-logo="" group-title="OPERATOR HUGO PRILEP",HUGO 9
+http://cms.hugo.mk:1050/live/velibor.probistip/1918sep/9.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="HUGO 10" tvg-logo="" group-title="OPERATOR HUGO PRILEP",HUGO 10
+http://cms.hugo.mk:1050/live/velibor.probistip/1918sep/10.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PRILEP" tvg-logo="" group-title="OPERATOR HUGO PRILEP",PRILEP
+http://cms.hugo.mk:1050/live/velibor.probistip/1918sep/40.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TV 21" tvg-logo="" group-title="OPERATOR HUGO PRILEP",TV 21
+http://cms.hugo.mk:1050/live/velibor.probistip/1918sep/28.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TV 21" tvg-logo="" group-title="OPERATOR HUGO PRILEP",TV 21
+http://cms.hugo.mk:1050/live/velibor.probistip/1918sep/23.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SVET" tvg-logo="" group-title="OPERATOR HUGO PRILEP",SVET
+http://cms.hugo.mk:1050/live/velibor.probistip/1918sep/30.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="KANAL 8" tvg-logo="" group-title="OPERATOR HUGO PRILEP",KANAL 8
+http://cms.hugo.mk:1050/live/velibor.probistip/1918sep/31.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="IRIS" tvg-logo="" group-title="OPERATOR HUGO PRILEP",IRIS
+http://cms.hugo.mk:1050/live/velibor.probistip/1918sep/20.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MTM" tvg-logo="" group-title="OPERATOR HUGO PRILEP",MTM
+http://cms.hugo.mk:1050/live/velibor.probistip/1918sep/32.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TV 24" tvg-logo="" group-title="OPERATOR HUGO PRILEP",TV 24
+http://cms.hugo.mk:1050/live/velibor.probistip/1918sep/14.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TELMA" tvg-logo="" group-title="OPERATOR HUGO PRILEP",TELMA
+http://cms.hugo.mk:1050/live/velibor.probistip/1918sep/12.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="KANAL 5" tvg-logo="" group-title="OPERATOR HUGO PRILEP",KANAL 5
+http://cms.hugo.mk:1050/live/velibor.probistip/1918sep/11.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SITEL" tvg-logo="" group-title="OPERATOR HUGO PRILEP",SITEL
+http://cms.hugo.mk:1050/live/velibor.probistip/1918sep/13.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ALFA" tvg-logo="" group-title="OPERATOR HUGO PRILEP",ALFA
+http://cms.hugo.mk:1050/live/velibor.probistip/1918sep/45.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MTV 1" tvg-logo="" group-title="OPERATOR HUGO PRILEP",MTV 1
+http://cms.hugo.mk:1050/live/velibor.probistip/1918sep/15.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MRT SAT" tvg-logo="" group-title="OPERATOR HUGO PRILEP",MRT SAT
+http://cms.hugo.mk:1050/live/velibor.probistip/1918sep/16.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MTV 3" tvg-logo="" group-title="OPERATOR HUGO PRILEP",MTV 3
+http://cms.hugo.mk:1050/live/velibor.probistip/1918sep/35.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SOBRANISKI KANAL" tvg-logo="" group-title="OPERATOR HUGO PRILEP",SOBRANISKI KANAL
+http://cms.hugo.mk:1050/live/velibor.probistip/1918sep/17.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MTV 5" tvg-logo="" group-title="OPERATOR HUGO PRILEP",MTV 5
+http://cms.hugo.mk:1050/live/velibor.probistip/1918sep/36.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TERA" tvg-logo="" group-title="OPERATOR HUGO PRILEP",TERA
+http://cms.hugo.mk:1050/live/velibor.probistip/1918sep/19.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="VIS" tvg-logo="" group-title="OPERATOR HUGO PRILEP",VIS
+http://cms.hugo.mk:1050/live/velibor.probistip/1918sep/33.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="KTV" tvg-logo="" group-title="OPERATOR HUGO PRILEP",KTV
+http://cms.hugo.mk:1050/live/velibor.probistip/1918sep/25.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TV +" tvg-logo="" group-title="OPERATOR HUGO PRILEP",TV +
+http://cms.hugo.mk:1050/live/velibor.probistip/1918sep/34.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SPEKTRA" tvg-logo="" group-title="OPERATOR HUGO PRILEP",SPEKTRA
+http://cms.hugo.mk:1050/live/velibor.probistip/1918sep/47.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="M TV" tvg-logo="" group-title="OPERATOR HUGO PRILEP",M TV
+http://cms.hugo.mk:1050/live/velibor.probistip/1918sep/48.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="KISS I MENADA" tvg-logo="" group-title="OPERATOR HUGO PRILEP",KISS I MENADA
+http://cms.hugo.mk:1050/live/velibor.probistip/1918sep/41.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NOVA 12" tvg-logo="" group-title="OPERATOR HUGO PRILEP",NOVA 12
+http://cms.hugo.mk:1050/live/velibor.probistip/1918sep/18.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="KANAL 3" tvg-logo="" group-title="OPERATOR HUGO PRILEP",KANAL 3
+http://cms.hugo.mk:1050/live/velibor.probistip/1918sep/49.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NASA TV" tvg-logo="" group-title="OPERATOR HUGO PRILEP",NASA TV
+http://cms.hugo.mk:1050/live/velibor.probistip/1918sep/22.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TV SONCE" tvg-logo="" group-title="OPERATOR HUGO PRILEP",TV SONCE
+http://cms.hugo.mk:1050/live/velibor.probistip/1918sep/42.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="KANAL 3 PRILEP" tvg-logo="" group-title="OPERATOR HUGO PRILEP",KANAL 3 PRILEP
+http://cms.hugo.mk:1050/live/velibor.probistip/1918sep/24.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="M NET" tvg-logo="" group-title="OPERATOR HUGO PRILEP",M NET
+http://cms.hugo.mk:1050/live/velibor.probistip/1918sep/21.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EDO" tvg-logo="" group-title="OPERATOR HUGO PRILEP",EDO
+http://cms.hugo.mk:1050/live/velibor.probistip/1918sep/26.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="B1" tvg-logo="" group-title="OPERATOR HUGO PRILEP",B1
+http://cms.hugo.mk:1050/live/velibor.probistip/1918sep/27.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SKY FOLK" tvg-logo="" group-title="OPERATOR HUGO PRILEP",SKY FOLK
+http://cms.hugo.mk:1050/live/velibor.probistip/1918sep/44.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="IN TV" tvg-logo="" group-title="OPERATOR HUGO PRILEP",IN TV
+http://cms.hugo.mk:1050/live/velibor.probistip/1918sep/29.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FOLK TV" tvg-logo="" group-title="OPERATOR HUGO PRILEP",FOLK TV
+http://cms.hugo.mk:1050/live/velibor.probistip/1918sep/46.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MTV 4" tvg-logo="" group-title="OPERATOR HUGO PRILEP",MTV 4
+http://cms.hugo.mk:1050/live/velibor.probistip/1918sep/37.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MTV 2" tvg-logo="" group-title="OPERATOR HUGO PRILEP",MTV 2
+http://cms.hugo.mk:1050/live/velibor.probistip/1918sep/38.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MK: Alsat" tvg-logo="" group-title="OPERATOR HUGO PRILEP",MK: Alsat
+http://cms.hugo.mk:1050/live/velibor.probistip/1918sep/50.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MK: RTV 21" tvg-logo="" group-title="OPERATOR HUGO PRILEP",MK: RTV 21
+http://cms.hugo.mk:1050/live/velibor.probistip/1918sep/51.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MK: Kaltrina Struga" tvg-logo="" group-title="OPERATOR HUGO PRILEP",MK: Kaltrina Struga
+http://cms.hugo.mk:1050/live/velibor.probistip/1918sep/241.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PINK" tvg-logo="" group-title="OPERATOR HUGO PRILEP",PINK
+http://cms.hugo.mk:1050/live/velibor.probistip/1918sep/169.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RS: b92" tvg-logo="" group-title="OPERATOR HUGO PRILEP",RS: b92
+http://cms.hugo.mk:1050/live/velibor.probistip/1918sep/60.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RS: Prva" tvg-logo="" group-title="OPERATOR HUGO PRILEP",RS: Prva
+http://cms.hugo.mk:1050/live/velibor.probistip/1918sep/61.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RS: PRVA Plus" tvg-logo="" group-title="OPERATOR HUGO PRILEP",RS: PRVA Plus
+http://cms.hugo.mk:1050/live/velibor.probistip/1918sep/64.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RS: PRVA Max" tvg-logo="" group-title="OPERATOR HUGO PRILEP",RS: PRVA Max
+http://cms.hugo.mk:1050/live/velibor.probistip/1918sep/62.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RS: PRVA Kick" tvg-logo="" group-title="OPERATOR HUGO PRILEP",RS: PRVA Kick
+http://cms.hugo.mk:1050/live/velibor.probistip/1918sep/63.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RS: PRVA Life" tvg-logo="" group-title="OPERATOR HUGO PRILEP",RS: PRVA Life
+http://cms.hugo.mk:1050/live/velibor.probistip/1918sep/59.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RS: PRVA Files" tvg-logo="" group-title="OPERATOR HUGO PRILEP",RS: PRVA Files
+http://cms.hugo.mk:1050/live/velibor.probistip/1918sep/58.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RS: PRVA World" tvg-logo="" group-title="OPERATOR HUGO PRILEP",RS: PRVA World
+http://cms.hugo.mk:1050/live/velibor.probistip/1918sep/65.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RS: RTS 1" tvg-logo="" group-title="OPERATOR HUGO PRILEP",RS: RTS 1
+http://cms.hugo.mk:1050/live/velibor.probistip/1918sep/72.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RS: RTS 2" tvg-logo="" group-title="OPERATOR HUGO PRILEP",RS: RTS 2
+http://cms.hugo.mk:1050/live/velibor.probistip/1918sep/73.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RS: RTS 3" tvg-logo="" group-title="OPERATOR HUGO PRILEP",RS: RTS 3
+http://cms.hugo.mk:1050/live/velibor.probistip/1918sep/74.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RS: RTS NAUKA" tvg-logo="" group-title="OPERATOR HUGO PRILEP",RS: RTS NAUKA
+http://cms.hugo.mk:1050/live/velibor.probistip/1918sep/76.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RS: RTS KOLO" tvg-logo="" group-title="OPERATOR HUGO PRILEP",RS: RTS KOLO
+http://cms.hugo.mk:1050/live/velibor.probistip/1918sep/66.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RS: RTS DRAMA" tvg-logo="" group-title="OPERATOR HUGO PRILEP",RS: RTS DRAMA
+http://cms.hugo.mk:1050/live/velibor.probistip/1918sep/67.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RTS ZIVOT" tvg-logo="" group-title="OPERATOR HUGO PRILEP",RTS ZIVOT
+http://cms.hugo.mk:1050/live/velibor.probistip/1918sep/68.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RTS TREZOR" tvg-logo="" group-title="OPERATOR HUGO PRILEP",RTS TREZOR
+http://cms.hugo.mk:1050/live/velibor.probistip/1918sep/69.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RTS POLETARAC" tvg-logo="" group-title="OPERATOR HUGO PRILEP",RTS POLETARAC
+http://cms.hugo.mk:1050/live/velibor.probistip/1918sep/70.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RTS MUZIKA" tvg-logo="" group-title="OPERATOR HUGO PRILEP",RTS MUZIKA
+http://cms.hugo.mk:1050/live/velibor.probistip/1918sep/71.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RTS KLASIKA" tvg-logo="" group-title="OPERATOR HUGO PRILEP",RTS KLASIKA
+http://cms.hugo.mk:1050/live/velibor.probistip/1918sep/75.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AGRO TV" tvg-logo="" group-title="OPERATOR HUGO PRILEP",AGRO TV
+http://cms.hugo.mk:1050/live/velibor.probistip/1918sep/97.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RS: Vesti" tvg-logo="" group-title="OPERATOR HUGO PRILEP",RS: Vesti
+http://cms.hugo.mk:1050/live/velibor.probistip/1918sep/174.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="HAPPY" tvg-logo="" group-title="OPERATOR HUGO PRILEP",HAPPY
+http://cms.hugo.mk:1050/live/velibor.probistip/1918sep/53.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="STUDIO B" tvg-logo="" group-title="OPERATOR HUGO PRILEP",STUDIO B
+http://cms.hugo.mk:1050/live/velibor.probistip/1918sep/347.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="KURIR" tvg-logo="" group-title="OPERATOR HUGO PRILEP",KURIR
+http://cms.hugo.mk:1050/live/velibor.probistip/1918sep/243.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RED" tvg-logo="" group-title="OPERATOR HUGO PRILEP",RED
+http://cms.hugo.mk:1050/live/velibor.probistip/1918sep/227.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="VINICA" tvg-logo="" group-title="OPERATOR HUGO PRILEP",VINICA
+http://cms.hugo.mk:1050/live/velibor.probistip/1918sep/56.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DUGA" tvg-logo="" group-title="OPERATOR HUGO PRILEP",DUGA
+http://cms.hugo.mk:1050/live/velibor.probistip/1918sep/344.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RS: DM sat" tvg-logo="" group-title="OPERATOR HUGO PRILEP",RS: DM sat
+http://cms.hugo.mk:1050/live/velibor.probistip/1918sep/54.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="GRAND" tvg-logo="" group-title="OPERATOR HUGO PRILEP",GRAND
+http://cms.hugo.mk:1050/live/velibor.probistip/1918sep/52.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="HRAM" tvg-logo="" group-title="OPERATOR HUGO PRILEP",HRAM
+http://cms.hugo.mk:1050/live/velibor.probistip/1918sep/348.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="KS: RTK 2" tvg-logo="" group-title="OPERATOR HUGO PRILEP",KS: RTK 2
+http://cms.hugo.mk:1050/live/velibor.probistip/1918sep/242.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ME: RTCG Sat" tvg-logo="" group-title="OPERATOR HUGO PRILEP",ME: RTCG Sat
+http://cms.hugo.mk:1050/live/velibor.probistip/1918sep/226.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="HR: RTL Adria" tvg-logo="" group-title="OPERATOR HUGO PRILEP",HR: RTL Adria
+http://cms.hugo.mk:1050/live/velibor.probistip/1918sep/263.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="HR: RTL" tvg-logo="" group-title="OPERATOR HUGO PRILEP",HR: RTL
+http://cms.hugo.mk:1050/live/velibor.probistip/1918sep/260.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="HR: RTL 2" tvg-logo="" group-title="OPERATOR HUGO PRILEP",HR: RTL 2
+http://cms.hugo.mk:1050/live/velibor.probistip/1918sep/261.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="HR: RTL Crime" tvg-logo="" group-title="OPERATOR HUGO PRILEP",HR: RTL Crime
+http://cms.hugo.mk:1050/live/velibor.probistip/1918sep/262.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="HR: RTL Living" tvg-logo="" group-title="OPERATOR HUGO PRILEP",HR: RTL Living
+http://cms.hugo.mk:1050/live/velibor.probistip/1918sep/264.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="HR: RTL Passion" tvg-logo="" group-title="OPERATOR HUGO PRILEP",HR: RTL Passion
+http://cms.hugo.mk:1050/live/velibor.probistip/1918sep/265.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="HR: Nova" tvg-logo="" group-title="OPERATOR HUGO PRILEP",HR: Nova
+http://cms.hugo.mk:1050/live/velibor.probistip/1918sep/267.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="HR: Nova Family" tvg-logo="" group-title="OPERATOR HUGO PRILEP",HR: Nova Family
+http://cms.hugo.mk:1050/live/velibor.probistip/1918sep/268.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="HR: Doma" tvg-logo="" group-title="OPERATOR HUGO PRILEP",HR: Doma
+http://cms.hugo.mk:1050/live/velibor.probistip/1918sep/266.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="HR: HRT 1" tvg-logo="" group-title="OPERATOR HUGO PRILEP",HR: HRT 1
+http://cms.hugo.mk:1050/live/velibor.probistip/1918sep/256.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="HR: HRT 2" tvg-logo="" group-title="OPERATOR HUGO PRILEP",HR: HRT 2
+http://cms.hugo.mk:1050/live/velibor.probistip/1918sep/257.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="HR: HRT 3" tvg-logo="" group-title="OPERATOR HUGO PRILEP",HR: HRT 3
+http://cms.hugo.mk:1050/live/velibor.probistip/1918sep/258.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="HR: HRT 4" tvg-logo="" group-title="OPERATOR HUGO PRILEP",HR: HRT 4
+http://cms.hugo.mk:1050/live/velibor.probistip/1918sep/259.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="HR: Klasik TV" tvg-logo="" group-title="OPERATOR HUGO PRILEP",HR: Klasik TV
+http://cms.hugo.mk:1050/live/velibor.probistip/1918sep/255.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="HR: Jugoton" tvg-logo="" group-title="OPERATOR HUGO PRILEP",HR: Jugoton
+http://cms.hugo.mk:1050/live/velibor.probistip/1918sep/254.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="HR: CMC" tvg-logo="" group-title="OPERATOR HUGO PRILEP",HR: CMC
+http://cms.hugo.mk:1050/live/velibor.probistip/1918sep/253.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="HR: Aurora" tvg-logo="" group-title="OPERATOR HUGO PRILEP",HR: Aurora
+http://cms.hugo.mk:1050/live/velibor.probistip/1918sep/338.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BA: BN Music" tvg-logo="" group-title="OPERATOR HUGO PRILEP",BA: BN Music
+http://cms.hugo.mk:1050/live/velibor.probistip/1918sep/341.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BA: BN" tvg-logo="" group-title="OPERATOR HUGO PRILEP",BA: BN
+http://cms.hugo.mk:1050/live/velibor.probistip/1918sep/342.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BA: Slon" tvg-logo="" group-title="OPERATOR HUGO PRILEP",BA: Slon
+http://cms.hugo.mk:1050/live/velibor.probistip/1918sep/343.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BA: RTRS" tvg-logo="" group-title="OPERATOR HUGO PRILEP",BA: RTRS
+http://cms.hugo.mk:1050/live/velibor.probistip/1918sep/353.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BA: RTRS plus" tvg-logo="" group-title="OPERATOR HUGO PRILEP",BA: RTRS plus
+http://cms.hugo.mk:1050/live/velibor.probistip/1918sep/354.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BA: Alternativna" tvg-logo="" group-title="OPERATOR HUGO PRILEP",BA: Alternativna
+http://cms.hugo.mk:1050/live/velibor.probistip/1918sep/350.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BA: Federalna" tvg-logo="" group-title="OPERATOR HUGO PRILEP",BA: Federalna
+http://cms.hugo.mk:1050/live/velibor.probistip/1918sep/351.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BA: OBN" tvg-logo="" group-title="OPERATOR HUGO PRILEP",BA: OBN
+http://cms.hugo.mk:1050/live/velibor.probistip/1918sep/346.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BA: BHT 1" tvg-logo="" group-title="OPERATOR HUGO PRILEP",BA: BHT 1
+http://cms.hugo.mk:1050/live/velibor.probistip/1918sep/352.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BA: Hayat" tvg-logo="" group-title="OPERATOR HUGO PRILEP",BA: Hayat
+http://cms.hugo.mk:1050/live/velibor.probistip/1918sep/334.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BA: Hayat plus" tvg-logo="" group-title="OPERATOR HUGO PRILEP",BA: Hayat plus
+http://cms.hugo.mk:1050/live/velibor.probistip/1918sep/335.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BA: Hayat Folk" tvg-logo="" group-title="OPERATOR HUGO PRILEP",BA: Hayat Folk
+http://cms.hugo.mk:1050/live/velibor.probistip/1918sep/336.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BA: Sehara" tvg-logo="" group-title="OPERATOR HUGO PRILEP",BA: Sehara
+http://cms.hugo.mk:1050/live/velibor.probistip/1918sep/339.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BA: Sehara Online" tvg-logo="" group-title="OPERATOR HUGO PRILEP",BA: Sehara Online
+http://cms.hugo.mk:1050/live/velibor.probistip/1918sep/340.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BA: Face" tvg-logo="" group-title="OPERATOR HUGO PRILEP",BA: Face
+http://cms.hugo.mk:1050/live/velibor.probistip/1918sep/337.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BA: Al Jazzera Balkan" tvg-logo="" group-title="OPERATOR HUGO PRILEP",BA: Al Jazzera Balkan
+http://cms.hugo.mk:1050/live/velibor.probistip/1918sep/244.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BA: SuperTV" tvg-logo="" group-title="OPERATOR HUGO PRILEP",BA: SuperTV
+http://cms.hugo.mk:1050/live/velibor.probistip/1918sep/349.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BA: STV" tvg-logo="" group-title="OPERATOR HUGO PRILEP",BA: STV
+http://cms.hugo.mk:1050/live/velibor.probistip/1918sep/345.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BA: TV 5" tvg-logo="" group-title="OPERATOR HUGO PRILEP",BA: TV 5
+http://cms.hugo.mk:1050/live/velibor.probistip/1918sep/240.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AR: Makkah" tvg-logo="" group-title="OPERATOR HUGO PRILEP",AR: Makkah
+http://cms.hugo.mk:1050/live/velibor.probistip/1918sep/239.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PINK Zadruga" tvg-logo="" group-title="OPERATOR HUGO PRILEP",PINK Zadruga
+http://cms.hugo.mk:1050/live/velibor.probistip/1918sep/148.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PINK Plus" tvg-logo="" group-title="OPERATOR HUGO PRILEP",PINK Plus
+http://cms.hugo.mk:1050/live/velibor.probistip/1918sep/170.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PINK Music" tvg-logo="" group-title="OPERATOR HUGO PRILEP",PINK Music
+http://cms.hugo.mk:1050/live/velibor.probistip/1918sep/168.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PINK Folk" tvg-logo="" group-title="OPERATOR HUGO PRILEP",PINK Folk
+http://cms.hugo.mk:1050/live/velibor.probistip/1918sep/167.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PINK Koncert" tvg-logo="" group-title="OPERATOR HUGO PRILEP",PINK Koncert
+http://cms.hugo.mk:1050/live/velibor.probistip/1918sep/171.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PINK LOL" tvg-logo="" group-title="OPERATOR HUGO PRILEP",PINK LOL
+http://cms.hugo.mk:1050/live/velibor.probistip/1918sep/164.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PINK Zabava" tvg-logo="" group-title="OPERATOR HUGO PRILEP",PINK Zabava
+http://cms.hugo.mk:1050/live/velibor.probistip/1918sep/163.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PINK Serije" tvg-logo="" group-title="OPERATOR HUGO PRILEP",PINK Serije
+http://cms.hugo.mk:1050/live/velibor.probistip/1918sep/161.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PINK Film" tvg-logo="" group-title="OPERATOR HUGO PRILEP",PINK Film
+http://cms.hugo.mk:1050/live/velibor.probistip/1918sep/152.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PINK Family" tvg-logo="" group-title="OPERATOR HUGO PRILEP",PINK Family
+http://cms.hugo.mk:1050/live/velibor.probistip/1918sep/153.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PINK Comedy" tvg-logo="" group-title="OPERATOR HUGO PRILEP",PINK Comedy
+http://cms.hugo.mk:1050/live/velibor.probistip/1918sep/154.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PINK Action" tvg-logo="" group-title="OPERATOR HUGO PRILEP",PINK Action
+http://cms.hugo.mk:1050/live/velibor.probistip/1918sep/155.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PINK Premium" tvg-logo="" group-title="OPERATOR HUGO PRILEP",PINK Premium
+http://cms.hugo.mk:1050/live/velibor.probistip/1918sep/156.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PINK Thriller" tvg-logo="" group-title="OPERATOR HUGO PRILEP",PINK Thriller
+http://cms.hugo.mk:1050/live/velibor.probistip/1918sep/157.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PINK Movies" tvg-logo="" group-title="OPERATOR HUGO PRILEP",PINK Movies
+http://cms.hugo.mk:1050/live/velibor.probistip/1918sep/158.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PINK Romance" tvg-logo="" group-title="OPERATOR HUGO PRILEP",PINK Romance
+http://cms.hugo.mk:1050/live/velibor.probistip/1918sep/151.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PINK Crime&Mystery" tvg-logo="" group-title="OPERATOR HUGO PRILEP",PINK Crime&Mystery
+http://cms.hugo.mk:1050/live/velibor.probistip/1918sep/159.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PINK Fantasy" tvg-logo="" group-title="OPERATOR HUGO PRILEP",PINK Fantasy
+http://cms.hugo.mk:1050/live/velibor.probistip/1918sep/149.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PINK Horror" tvg-logo="" group-title="OPERATOR HUGO PRILEP",PINK Horror
+http://cms.hugo.mk:1050/live/velibor.probistip/1918sep/160.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PINK Western" tvg-logo="" group-title="OPERATOR HUGO PRILEP",PINK Western
+http://cms.hugo.mk:1050/live/velibor.probistip/1918sep/150.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FOX" tvg-logo="" group-title="OPERATOR HUGO PRILEP",FOX
+http://cms.hugo.mk:1050/live/velibor.probistip/1918sep/300.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FOX Movies" tvg-logo="" group-title="OPERATOR HUGO PRILEP",FOX Movies
+http://cms.hugo.mk:1050/live/velibor.probistip/1918sep/297.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FOX Life" tvg-logo="" group-title="OPERATOR HUGO PRILEP",FOX Life
+http://cms.hugo.mk:1050/live/velibor.probistip/1918sep/298.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FOX Crime" tvg-logo="" group-title="OPERATOR HUGO PRILEP",FOX Crime
+http://cms.hugo.mk:1050/live/velibor.probistip/1918sep/299.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="HBO" tvg-logo="" group-title="OPERATOR HUGO PRILEP",HBO
+http://cms.hugo.mk:1050/live/velibor.probistip/1918sep/288.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="HBO 2" tvg-logo="" group-title="OPERATOR HUGO PRILEP",HBO 2
+http://cms.hugo.mk:1050/live/velibor.probistip/1918sep/289.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="HBO 3" tvg-logo="" group-title="OPERATOR HUGO PRILEP",HBO 3
+http://cms.hugo.mk:1050/live/velibor.probistip/1918sep/290.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CINESTAR Premiere 1" tvg-logo="" group-title="OPERATOR HUGO PRILEP",CINESTAR Premiere 1
+http://cms.hugo.mk:1050/live/velibor.probistip/1918sep/291.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CINESTAR Premiere 2" tvg-logo="" group-title="OPERATOR HUGO PRILEP",CINESTAR Premiere 2
+http://cms.hugo.mk:1050/live/velibor.probistip/1918sep/292.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CINESTAR Action" tvg-logo="" group-title="OPERATOR HUGO PRILEP",CINESTAR Action
+http://cms.hugo.mk:1050/live/velibor.probistip/1918sep/293.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CINESTAR TV" tvg-logo="" group-title="OPERATOR HUGO PRILEP",CINESTAR TV
+http://cms.hugo.mk:1050/live/velibor.probistip/1918sep/294.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Cinestar Comedy" tvg-logo="" group-title="OPERATOR HUGO PRILEP",Cinestar Comedy
+http://cms.hugo.mk:1050/live/velibor.probistip/1918sep/296.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CINESTAR Fantasy" tvg-logo="" group-title="OPERATOR HUGO PRILEP",CINESTAR Fantasy
+http://cms.hugo.mk:1050/live/velibor.probistip/1918sep/295.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FilmBOX Premium" tvg-logo="" group-title="OPERATOR HUGO PRILEP",FilmBOX Premium
+http://cms.hugo.mk:1050/live/velibor.probistip/1918sep/285.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FilmBOX Extra" tvg-logo="" group-title="OPERATOR HUGO PRILEP",FilmBOX Extra
+http://cms.hugo.mk:1050/live/velibor.probistip/1918sep/286.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FilmBOX Stars" tvg-logo="" group-title="OPERATOR HUGO PRILEP",FilmBOX Stars
+http://cms.hugo.mk:1050/live/velibor.probistip/1918sep/287.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TV1000" tvg-logo="" group-title="OPERATOR HUGO PRILEP",TV1000
+http://cms.hugo.mk:1050/live/velibor.probistip/1918sep/277.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Epic Drama" tvg-logo="" group-title="OPERATOR HUGO PRILEP",Epic Drama
+http://cms.hugo.mk:1050/live/velibor.probistip/1918sep/280.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AXN" tvg-logo="" group-title="OPERATOR HUGO PRILEP",AXN
+http://cms.hugo.mk:1050/live/velibor.probistip/1918sep/281.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AXN Spin" tvg-logo="" group-title="OPERATOR HUGO PRILEP",AXN Spin
+http://cms.hugo.mk:1050/live/velibor.probistip/1918sep/282.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="M1 Film" tvg-logo="" group-title="OPERATOR HUGO PRILEP",M1 Film
+http://cms.hugo.mk:1050/live/velibor.probistip/1918sep/278.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="M1 Gold" tvg-logo="" group-title="OPERATOR HUGO PRILEP",M1 Gold
+http://cms.hugo.mk:1050/live/velibor.probistip/1918sep/279.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AMC" tvg-logo="" group-title="OPERATOR HUGO PRILEP",AMC
+http://cms.hugo.mk:1050/live/velibor.probistip/1918sep/275.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Diva" tvg-logo="" group-title="OPERATOR HUGO PRILEP",Diva
+http://cms.hugo.mk:1050/live/velibor.probistip/1918sep/276.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SciFi" tvg-logo="" group-title="OPERATOR HUGO PRILEP",SciFi
+http://cms.hugo.mk:1050/live/velibor.probistip/1918sep/274.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Pickbox" tvg-logo="" group-title="OPERATOR HUGO PRILEP",Pickbox
+http://cms.hugo.mk:1050/live/velibor.probistip/1918sep/283.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Superstar TV" tvg-logo="" group-title="OPERATOR HUGO PRILEP",Superstar TV
+http://cms.hugo.mk:1050/live/velibor.probistip/1918sep/284.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Pikaboo" tvg-logo="" group-title="OPERATOR HUGO PRILEP",Pikaboo
+http://cms.hugo.mk:1050/live/velibor.probistip/1918sep/98.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="KARUSEL" tvg-logo="" group-title="OPERATOR HUGO PRILEP",KARUSEL
+http://cms.hugo.mk:1050/live/velibor.probistip/1918sep/105.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MULT" tvg-logo="" group-title="OPERATOR HUGO PRILEP",MULT
+http://cms.hugo.mk:1050/live/velibor.probistip/1918sep/106.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TIJI" tvg-logo="" group-title="OPERATOR HUGO PRILEP",TIJI
+http://cms.hugo.mk:1050/live/velibor.probistip/1918sep/107.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Minimax" tvg-logo="" group-title="OPERATOR HUGO PRILEP",Minimax
+http://cms.hugo.mk:1050/live/velibor.probistip/1918sep/101.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Nick Jr" tvg-logo="" group-title="OPERATOR HUGO PRILEP",Nick Jr
+http://cms.hugo.mk:1050/live/velibor.probistip/1918sep/99.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Nickelodeon" tvg-logo="" group-title="OPERATOR HUGO PRILEP",Nickelodeon
+http://cms.hugo.mk:1050/live/velibor.probistip/1918sep/100.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Hayatovci" tvg-logo="" group-title="OPERATOR HUGO PRILEP",Hayatovci
+http://cms.hugo.mk:1050/live/velibor.probistip/1918sep/333.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SUPER Kids" tvg-logo="" group-title="OPERATOR HUGO PRILEP",SUPER Kids
+http://cms.hugo.mk:1050/live/velibor.probistip/1918sep/173.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Cartoon Network" tvg-logo="" group-title="OPERATOR HUGO PRILEP",Cartoon Network
+http://cms.hugo.mk:1050/live/velibor.probistip/1918sep/103.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Boomerang" tvg-logo="" group-title="OPERATOR HUGO PRILEP",Boomerang
+http://cms.hugo.mk:1050/live/velibor.probistip/1918sep/104.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Baby TV" tvg-logo="" group-title="OPERATOR HUGO PRILEP",Baby TV
+http://cms.hugo.mk:1050/live/velibor.probistip/1918sep/102.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Da Vinci" tvg-logo="" group-title="OPERATOR HUGO PRILEP",Da Vinci
+http://cms.hugo.mk:1050/live/velibor.probistip/1918sep/82.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Nat Geo" tvg-logo="" group-title="OPERATOR HUGO PRILEP",Nat Geo
+http://cms.hugo.mk:1050/live/velibor.probistip/1918sep/83.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Nat Geo Wild" tvg-logo="" group-title="OPERATOR HUGO PRILEP",Nat Geo Wild
+http://cms.hugo.mk:1050/live/velibor.probistip/1918sep/84.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="VIASAT Nature" tvg-logo="" group-title="OPERATOR HUGO PRILEP",VIASAT Nature
+http://cms.hugo.mk:1050/live/velibor.probistip/1918sep/85.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="VIASAT Explore" tvg-logo="" group-title="OPERATOR HUGO PRILEP",VIASAT Explore
+http://cms.hugo.mk:1050/live/velibor.probistip/1918sep/86.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Viasat History" tvg-logo="" group-title="OPERATOR HUGO PRILEP",Viasat History
+http://cms.hugo.mk:1050/live/velibor.probistip/1918sep/87.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Animal Planet" tvg-logo="" group-title="OPERATOR HUGO PRILEP",Animal Planet
+http://cms.hugo.mk:1050/live/velibor.probistip/1918sep/77.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Discovery" tvg-logo="" group-title="OPERATOR HUGO PRILEP",Discovery
+http://cms.hugo.mk:1050/live/velibor.probistip/1918sep/78.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Discovery Science" tvg-logo="" group-title="OPERATOR HUGO PRILEP",Discovery Science
+http://cms.hugo.mk:1050/live/velibor.probistip/1918sep/79.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Investigation Discovery" tvg-logo="" group-title="OPERATOR HUGO PRILEP",Investigation Discovery
+http://cms.hugo.mk:1050/live/velibor.probistip/1918sep/80.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BBC Earth" tvg-logo="" group-title="OPERATOR HUGO PRILEP",BBC Earth
+http://cms.hugo.mk:1050/live/velibor.probistip/1918sep/90.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="24 Kitchen" tvg-logo="" group-title="OPERATOR HUGO PRILEP",24 Kitchen
+http://cms.hugo.mk:1050/live/velibor.probistip/1918sep/95.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Travel" tvg-logo="" group-title="OPERATOR HUGO PRILEP",Travel
+http://cms.hugo.mk:1050/live/velibor.probistip/1918sep/88.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TLC" tvg-logo="" group-title="OPERATOR HUGO PRILEP",TLC
+http://cms.hugo.mk:1050/live/velibor.probistip/1918sep/89.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="History" tvg-logo="" group-title="OPERATOR HUGO PRILEP",History
+http://cms.hugo.mk:1050/live/velibor.probistip/1918sep/92.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="History 2" tvg-logo="" group-title="OPERATOR HUGO PRILEP",History 2
+http://cms.hugo.mk:1050/live/velibor.probistip/1918sep/93.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Balkan Trip" tvg-logo="" group-title="OPERATOR HUGO PRILEP",Balkan Trip
+http://cms.hugo.mk:1050/live/velibor.probistip/1918sep/91.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Reality" tvg-logo="" group-title="OPERATOR HUGO PRILEP",Reality
+http://cms.hugo.mk:1050/live/velibor.probistip/1918sep/96.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PINK Pedia" tvg-logo="" group-title="OPERATOR HUGO PRILEP",PINK Pedia
+http://cms.hugo.mk:1050/live/velibor.probistip/1918sep/165.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PINK Kuvar" tvg-logo="" group-title="OPERATOR HUGO PRILEP",PINK Kuvar
+http://cms.hugo.mk:1050/live/velibor.probistip/1918sep/166.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Lov  i Ribolov" tvg-logo="" group-title="OPERATOR HUGO PRILEP",Lov  i Ribolov
+http://cms.hugo.mk:1050/live/velibor.probistip/1918sep/81.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BALKANIKA" tvg-logo="" group-title="OPERATOR HUGO PRILEP",BALKANIKA
+http://cms.hugo.mk:1050/live/velibor.probistip/1918sep/180.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FEN TV" tvg-logo="" group-title="OPERATOR HUGO PRILEP",FEN TV
+http://cms.hugo.mk:1050/live/velibor.probistip/1918sep/179.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PLANETA HD" tvg-logo="" group-title="OPERATOR HUGO PRILEP",PLANETA HD
+http://cms.hugo.mk:1050/live/velibor.probistip/1918sep/178.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DIEMA" tvg-logo="" group-title="OPERATOR HUGO PRILEP",DIEMA
+http://cms.hugo.mk:1050/live/velibor.probistip/1918sep/187.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DF" tvg-logo="" group-title="OPERATOR HUGO PRILEP",DF
+http://cms.hugo.mk:1050/live/velibor.probistip/1918sep/186.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ON AIR" tvg-logo="" group-title="OPERATOR HUGO PRILEP",ON AIR
+http://cms.hugo.mk:1050/live/velibor.probistip/1918sep/195.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ON AIR" tvg-logo="" group-title="OPERATOR HUGO PRILEP",ON AIR
+http://cms.hugo.mk:1050/live/velibor.probistip/1918sep/184.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BNT 1" tvg-logo="" group-title="OPERATOR HUGO PRILEP",BNT 1
+http://cms.hugo.mk:1050/live/velibor.probistip/1918sep/188.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BNT 2" tvg-logo="" group-title="OPERATOR HUGO PRILEP",BNT 2
+http://cms.hugo.mk:1050/live/velibor.probistip/1918sep/189.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BNT 3" tvg-logo="" group-title="OPERATOR HUGO PRILEP",BNT 3
+http://cms.hugo.mk:1050/live/velibor.probistip/1918sep/190.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PPT" tvg-logo="" group-title="OPERATOR HUGO PRILEP",PPT
+http://cms.hugo.mk:1050/live/velibor.probistip/1918sep/193.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="M" tvg-logo="" group-title="OPERATOR HUGO PRILEP",M
+http://cms.hugo.mk:1050/live/velibor.probistip/1918sep/201.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BG: TVN" tvg-logo="" group-title="OPERATOR HUGO PRILEP",BG: TVN
+http://cms.hugo.mk:1050/live/velibor.probistip/1918sep/200.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BTK" tvg-logo="" group-title="OPERATOR HUGO PRILEP",BTK
+http://cms.hugo.mk:1050/live/velibor.probistip/1918sep/194.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BG: Voice" tvg-logo="" group-title="OPERATOR HUGO PRILEP",BG: Voice
+http://cms.hugo.mk:1050/live/velibor.probistip/1918sep/191.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BG: City" tvg-logo="" group-title="OPERATOR HUGO PRILEP",BG: City
+http://cms.hugo.mk:1050/live/velibor.probistip/1918sep/192.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Eurosport 1" tvg-logo="" group-title="OPERATOR HUGO PRILEP",Eurosport 1
+http://cms.hugo.mk:1050/live/velibor.probistip/1918sep/114.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Eurosport 2" tvg-logo="" group-title="OPERATOR HUGO PRILEP",Eurosport 2
+http://cms.hugo.mk:1050/live/velibor.probistip/1918sep/115.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RS: AS 1 ( ????? ????? 1 )" tvg-logo="" group-title="OPERATOR HUGO PRILEP",RS: AS 1 ( ????? ????? 1 )
+http://cms.hugo.mk:1050/live/velibor.probistip/1918sep/108.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RS: AS 2 ( ????? ????? 2 )" tvg-logo="" group-title="OPERATOR HUGO PRILEP",RS: AS 2 ( ????? ????? 2 )
+http://cms.hugo.mk:1050/live/velibor.probistip/1918sep/109.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RS: AS 3 ( ????? ????? 3 )" tvg-logo="" group-title="OPERATOR HUGO PRILEP",RS: AS 3 ( ????? ????? 3 )
+http://cms.hugo.mk:1050/live/velibor.probistip/1918sep/110.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RS: AS 4 ( ????? ????? 4 )" tvg-logo="" group-title="OPERATOR HUGO PRILEP",RS: AS 4 ( ????? ????? 4 )
+http://cms.hugo.mk:1050/live/velibor.probistip/1918sep/111.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RS: AS 5 ( ????? ????? 5 )" tvg-logo="" group-title="OPERATOR HUGO PRILEP",RS: AS 5 ( ????? ????? 5 )
+http://cms.hugo.mk:1050/live/velibor.probistip/1918sep/112.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="HR: AS 1 ( ????? ????? 1 )" tvg-logo="" group-title="OPERATOR HUGO PRILEP",HR: AS 1 ( ????? ????? 1 )
+http://cms.hugo.mk:1050/live/velibor.probistip/1918sep/245.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="HR: AS 2 ( ????? ????? 2 )" tvg-logo="" group-title="OPERATOR HUGO PRILEP",HR: AS 2 ( ????? ????? 2 )
+http://cms.hugo.mk:1050/live/velibor.probistip/1918sep/246.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="HR: AS 3 ( ????? ????? 3 )" tvg-logo="" group-title="OPERATOR HUGO PRILEP",HR: AS 3 ( ????? ????? 3 )
+http://cms.hugo.mk:1050/live/velibor.probistip/1918sep/247.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="HR: AS 4 ( ????? ????? 4 )" tvg-logo="" group-title="OPERATOR HUGO PRILEP",HR: AS 4 ( ????? ????? 4 )
+http://cms.hugo.mk:1050/live/velibor.probistip/1918sep/248.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="HR: AS 5 ( ????? ????? 5 )" tvg-logo="" group-title="OPERATOR HUGO PRILEP",HR: AS 5 ( ????? ????? 5 )
+http://cms.hugo.mk:1050/live/velibor.probistip/1918sep/249.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="HR: AS 6 ( ????? ????? 6 )" tvg-logo="" group-title="OPERATOR HUGO PRILEP",HR: AS 6 ( ????? ????? 6 )
+http://cms.hugo.mk:1050/live/velibor.probistip/1918sep/250.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SK HD (????? ????)" tvg-logo="" group-title="OPERATOR HUGO PRILEP",SK HD (????? ????)
+http://cms.hugo.mk:1050/live/velibor.probistip/1918sep/121.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SK1 (????? ???? 1)" tvg-logo="" group-title="OPERATOR HUGO PRILEP",SK1 (????? ???? 1)
+http://cms.hugo.mk:1050/live/velibor.probistip/1918sep/116.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SK2 (????? ???? 2)" tvg-logo="" group-title="OPERATOR HUGO PRILEP",SK2 (????? ???? 2)
+http://cms.hugo.mk:1050/live/velibor.probistip/1918sep/117.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SK3 (????? ???? 3)" tvg-logo="" group-title="OPERATOR HUGO PRILEP",SK3 (????? ???? 3)
+http://cms.hugo.mk:1050/live/velibor.probistip/1918sep/118.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SK4 (????? ???? 4)" tvg-logo="" group-title="OPERATOR HUGO PRILEP",SK4 (????? ???? 4)
+http://cms.hugo.mk:1050/live/velibor.probistip/1918sep/119.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SK5 (????? ???? 5)" tvg-logo="" group-title="OPERATOR HUGO PRILEP",SK5 (????? ???? 5)
+http://cms.hugo.mk:1050/live/velibor.probistip/1918sep/120.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Hustler ( ???????? ?? ???????? )" tvg-logo="" group-title="OPERATOR HUGO PRILEP",Hustler ( ???????? ?? ???????? )
+http://cms.hugo.mk:1050/live/velibor.probistip/1918sep/128.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="REDLIGHT ( ???????? ?? ???????? )" tvg-logo="" group-title="OPERATOR HUGO PRILEP",REDLIGHT ( ???????? ?? ???????? )
+http://cms.hugo.mk:1050/live/velibor.probistip/1918sep/129.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Private ( ???????? ?? ???????? )" tvg-logo="" group-title="OPERATOR HUGO PRILEP",Private ( ???????? ?? ???????? )
+http://cms.hugo.mk:1050/live/velibor.probistip/1918sep/130.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Penthouse1 ( ???????? ?? ???????? )" tvg-logo="" group-title="OPERATOR HUGO PRILEP",Penthouse1 ( ???????? ?? ???????? )
+http://cms.hugo.mk:1050/live/velibor.probistip/1918sep/131.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Penthouse2 ( ???????? ?? ???????? )" tvg-logo="" group-title="OPERATOR HUGO PRILEP",Penthouse2 ( ???????? ?? ???????? )
+http://cms.hugo.mk:1050/live/velibor.probistip/1918sep/132.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EROXXX ( ???????? ?? ???????? )" tvg-logo="" group-title="OPERATOR HUGO PRILEP",EROXXX ( ???????? ?? ???????? )
+http://cms.hugo.mk:1050/live/velibor.probistip/1918sep/133.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SuperONE ( ???????? ?? ???????? )" tvg-logo="" group-title="OPERATOR HUGO PRILEP",SuperONE ( ???????? ?? ???????? )
+http://cms.hugo.mk:1050/live/velibor.probistip/1918sep/137.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Hot ( ???????? ?? ???????? )" tvg-logo="" group-title="OPERATOR HUGO PRILEP",Hot ( ???????? ?? ???????? )
+http://cms.hugo.mk:1050/live/velibor.probistip/1918sep/134.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Dorcel ( ???????? ?? ???????? )" tvg-logo="" group-title="OPERATOR HUGO PRILEP",Dorcel ( ???????? ?? ???????? )
+http://cms.hugo.mk:1050/live/velibor.probistip/1918sep/135.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="XXL ( ???????? ?? ???????? )" tvg-logo="" group-title="OPERATOR HUGO PRILEP",XXL ( ???????? ?? ???????? )
+http://cms.hugo.mk:1050/live/velibor.probistip/1918sep/136.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Brazzers ( ???????? ?? ???????? )" tvg-logo="" group-title="OPERATOR HUGO PRILEP",Brazzers ( ???????? ?? ???????? )
+http://cms.hugo.mk:1050/live/velibor.probistip/1918sep/138.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DDF ( ???????? ?? ???????? )" tvg-logo="" group-title="OPERATOR HUGO PRILEP",DDF ( ???????? ?? ???????? )
+http://cms.hugo.mk:1050/live/velibor.probistip/1918sep/139.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Leo TV ( ???????? ?? ???????? )" tvg-logo="" group-title="OPERATOR HUGO PRILEP",Leo TV ( ???????? ?? ???????? )
+http://cms.hugo.mk:1050/live/velibor.probistip/1918sep/140.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Babes ( ???????? ?? ???????? )" tvg-logo="" group-title="OPERATOR HUGO PRILEP",Babes ( ???????? ?? ???????? )
+http://cms.hugo.mk:1050/live/velibor.probistip/1918sep/141.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Oh-Ah ( ???????? ?? ???????? )" tvg-logo="" group-title="OPERATOR HUGO PRILEP",Oh-Ah ( ???????? ?? ???????? )
+http://cms.hugo.mk:1050/live/velibor.probistip/1918sep/142.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Vivid ( ???????? ?? ???????? )" tvg-logo="" group-title="OPERATOR HUGO PRILEP",Vivid ( ???????? ?? ???????? )
+http://cms.hugo.mk:1050/live/velibor.probistip/1918sep/143.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Balkan Erotic ( ???????? ?? ???????? )" tvg-logo="" group-title="OPERATOR HUGO PRILEP",Balkan Erotic ( ???????? ?? ???????? )
+http://cms.hugo.mk:1050/live/velibor.probistip/1918sep/144.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Czech streets ( ???????? ?? ???????? )" tvg-logo="" group-title="OPERATOR HUGO PRILEP",Czech streets ( ???????? ?? ???????? )
+http://cms.hugo.mk:1050/live/velibor.probistip/1918sep/146.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Public Agent ( ???????? ?? ???????? )" tvg-logo="" group-title="OPERATOR HUGO PRILEP",Public Agent ( ???????? ?? ???????? )
+http://cms.hugo.mk:1050/live/velibor.probistip/1918sep/147.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PINK Erotic 1 ( ???????? ?? ???????? )" tvg-logo="" group-title="OPERATOR HUGO PRILEP",PINK Erotic 1 ( ???????? ?? ???????? )
+http://cms.hugo.mk:1050/live/velibor.probistip/1918sep/122.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PINK Erotic 2 ( ???????? ?? ???????? )" tvg-logo="" group-title="OPERATOR HUGO PRILEP",PINK Erotic 2 ( ???????? ?? ???????? )
+http://cms.hugo.mk:1050/live/velibor.probistip/1918sep/123.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PINK Erotic 3 ( ???????? ?? ???????? )" tvg-logo="" group-title="OPERATOR HUGO PRILEP",PINK Erotic 3 ( ???????? ?? ???????? )
+http://cms.hugo.mk:1050/live/velibor.probistip/1918sep/124.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PINK Erotic 4 ( ???????? ?? ???????? )" tvg-logo="" group-title="OPERATOR HUGO PRILEP",PINK Erotic 4 ( ???????? ?? ???????? )
+http://cms.hugo.mk:1050/live/velibor.probistip/1918sep/125.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PINK Erotic 5 ( ???????? ?? ???????? )" tvg-logo="" group-title="OPERATOR HUGO PRILEP",PINK Erotic 5 ( ???????? ?? ???????? )
+http://cms.hugo.mk:1050/live/velibor.probistip/1918sep/126.ts
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MRT 1 HD MK" tvg-logo="" group-title="EX-YU TELEKOM",MRT 1 HD MK
 http://mytv.fun:8080/anyuwj2w7r/1nyu2j2w73/12399
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MRT 2 FHD MK" tvg-logo="" group-title="EX-YU TELEKOM",MRT 2 FHD MK
