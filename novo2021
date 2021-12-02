@@ -1,4 +1,250 @@
 #EXTM3U
+#EXTINF:-1 ,-- SRB - RS  | Serbia --
+http://1.mytv5.net:8888/5c:49:7d:32:b3:ae/a29052021z/130827
+#EXTINF:-1 ,RTS 1 HD SRB
+http://1.mytv5.net:8888/5c:49:7d:32:b3:ae/a29052021z/183272
+#EXTINF:-1 ,RTS 2 HD SRB
+http://1.mytv5.net:8888/5c:49:7d:32:b3:ae/a29052021z/183271
+#EXTINF:-1 ,Prva Srpska TV HD SRB
+http://1.mytv5.net:8888/5c:49:7d:32:b3:ae/a29052021z/183274
+#EXTINF:-1 ,PRVA FILES HD RS
+http://1.mytv5.net:8888/5c:49:7d:32:b3:ae/a29052021z/7341
+#EXTINF:-1 ,Nova BH HD SRB
+http://1.mytv5.net:8888/5c:49:7d:32:b3:ae/a29052021z/183280
+#EXTINF:-1 ,Nova HR HD SRB
+http://1.mytv5.net:8888/5c:49:7d:32:b3:ae/a29052021z/183279
+#EXTINF:-1 ,BN Music HD SRB
+http://1.mytv5.net:8888/5c:49:7d:32:b3:ae/a29052021z/183299
+#EXTINF:-1 ,BN SAT HD SRB
+http://1.mytv5.net:8888/5c:49:7d:32:b3:ae/a29052021z/183298
+#EXTINF:-1 ,DM SAT HD RS
+http://1.mytv5.net:8888/5c:49:7d:32:b3:ae/a29052021z/33340
+#EXTINF:-1 ,FOX Crime HD SRB
+http://1.mytv5.net:8888/5c:49:7d:32:b3:ae/a29052021z/183291
+#EXTINF:-1 ,FOX HD SRB
+http://1.mytv5.net:8888/5c:49:7d:32:b3:ae/a29052021z/183290
+#EXTINF:-1 ,FOX Life HD SRB
+http://1.mytv5.net:8888/5c:49:7d:32:b3:ae/a29052021z/183289
+#EXTINF:-1 ,FOX Movies HD SRB
+http://1.mytv5.net:8888/5c:49:7d:32:b3:ae/a29052021z/183288
+#EXTINF:-1 ,IDJ TV HD SRB
+http://1.mytv5.net:8888/5c:49:7d:32:b3:ae/a29052021z/183284
+#EXTINF:-1 ,N1  Televizija HD SRB
+http://1.mytv5.net:8888/5c:49:7d:32:b3:ae/a29052021z/183282
+#EXTINF:-1 ,B92 HD RS
+http://1.mytv5.net:8888/5c:49:7d:32:b3:ae/a29052021z/33339
+#EXTINF:-1 ,HappyTV HD RS
+http://1.mytv5.net:8888/5c:49:7d:32:b3:ae/a29052021z/33336
+#EXTINF:-1 ,Studio B HD RS
+http://1.mytv5.net:8888/5c:49:7d:32:b3:ae/a29052021z/33338
+#EXTINF:-1 ,SCI FI HD SRB
+http://1.mytv5.net:8888/5c:49:7d:32:b3:ae/a29052021z/183268
+#EXTINF:-1 ,Nat Geographic HD SRB
+http://1.mytv5.net:8888/5c:49:7d:32:b3:ae/a29052021z/183281
+#EXTINF:-1 ,RTS MUZIKA HD RS
+http://1.mytv5.net:8888/5c:49:7d:32:b3:ae/a29052021z/8203
+#EXTINF:-1 ,PINK FOLK 1 HD RS
+http://1.mytv5.net:8888/5c:49:7d:32:b3:ae/a29052021z/7356
+#EXTINF:-1 ,Pink Music 1 HD RS
+http://1.mytv5.net:8888/5c:49:7d:32:b3:ae/a29052021z/7360
+#EXTINF:-1 ,PINK MUSIC 2 HD RS
+http://1.mytv5.net:8888/5c:49:7d:32:b3:ae/a29052021z/8158
+#EXTINF:-1 ,Cinemania HD SRB
+http://1.mytv5.net:8888/5c:49:7d:32:b3:ae/a29052021z/183293
+#EXTINF:-1 ,CINESTAR TV HD RS
+http://1.mytv5.net:8888/5c:49:7d:32:b3:ae/a29052021z/7498
+#EXTINF:-1 ,CineStar TV 2 HD SRB
+http://1.mytv5.net:8888/5c:49:7d:32:b3:ae/a29052021z/183294
+#EXTINF:-1 ,PINK 1 HD RS
+http://1.mytv5.net:8888/5c:49:7d:32:b3:ae/a29052021z/7369
+#EXTINF:-1 ,PINK 3 HD RS
+http://1.mytv5.net:8888/5c:49:7d:32:b3:ae/a29052021z/7367
+#EXTINF:-1 ,PINK ROMANCE HD RS
+http://1.mytv5.net:8888/5c:49:7d:32:b3:ae/a29052021z/8152
+#EXTINF:-1 ,PINK HOROR HR RS
+http://1.mytv5.net:8888/5c:49:7d:32:b3:ae/a29052021z/7357
+#EXTINF:-1 ,Pink Kids HD RS
+http://1.mytv5.net:8888/5c:49:7d:32:b3:ae/a29052021z/7358
+#EXTINF:-1 ,PINK EXTRA HD RS
+http://1.mytv5.net:8888/5c:49:7d:32:b3:ae/a29052021z/8156
+#EXTINF:-1 ,PINK KUVAR HD RS
+http://1.mytv5.net:8888/5c:49:7d:32:b3:ae/a29052021z/8157
+#EXTINF:-1 ,PINK PLUS HD RS
+http://1.mytv5.net:8888/5c:49:7d:32:b3:ae/a29052021z/7349
+#EXTINF:-1 ,PINK SOAP HD RS
+http://1.mytv5.net:8888/5c:49:7d:32:b3:ae/a29052021z/21095
+#EXTINF:-1 ,PINK PREMIUM HD RS
+http://1.mytv5.net:8888/5c:49:7d:32:b3:ae/a29052021z/7348
+#EXTINF:-1 ,PINK REALITY HD RS
+http://1.mytv5.net:8888/5c:49:7d:32:b3:ae/a29052021z/7347
+#EXTINF:-1 ,PINK WORLD HD RS
+http://1.mytv5.net:8888/5c:49:7d:32:b3:ae/a29052021z/7342
+#EXTINF:-1 ,PINK ROLL HD RS
+http://1.mytv5.net:8888/5c:49:7d:32:b3:ae/a29052021z/7346
+#EXTINF:-1 ,Nova Sport HD SRB
+http://1.mytv5.net:8888/5c:49:7d:32:b3:ae/a29052021z/183278
+#EXTINF:-1 ,SK HD SRB
+http://1.mytv5.net:8888/5c:49:7d:32:b3:ae/a29052021z/183263
+#EXTINF:-1 ,SK 1 HD SRB
+http://1.mytv5.net:8888/5c:49:7d:32:b3:ae/a29052021z/183267
+#EXTINF:-1 ,SK 2 HD SRB
+http://1.mytv5.net:8888/5c:49:7d:32:b3:ae/a29052021z/183265
+#EXTINF:-1 ,SK 3 HD SRB
+http://1.mytv5.net:8888/5c:49:7d:32:b3:ae/a29052021z/183264
+#EXTINF:-1 ,ARENA SPORT 1 HD RS
+http://1.mytv5.net:8888/5c:49:7d:32:b3:ae/a29052021z/7335
+#EXTINF:-1 ,Arena Sport 2 HD RS
+http://1.mytv5.net:8888/5c:49:7d:32:b3:ae/a29052021z/7334
+#EXTINF:-1 ,ARENA SPORT 3 HD RS
+http://1.mytv5.net:8888/5c:49:7d:32:b3:ae/a29052021z/7333
+#EXTINF:-1 ,ARENA SPORT 4 HD RS
+http://1.mytv5.net:8888/5c:49:7d:32:b3:ae/a29052021z/183302
+#EXTINF:-1 ,Arena Sport 5 HD RS
+http://1.mytv5.net:8888/5c:49:7d:32:b3:ae/a29052021z/8165
+#EXTINF:-1 ,*****Croatia HR *****
+http://1.mytv5.net:8888/5c:49:7d:32:b3:ae/a29052021z/17594
+#EXTINF:-1 ,NOVA TV HD HR
+http://1.mytv5.net:8888/5c:49:7d:32:b3:ae/a29052021z/8153
+#EXTINF:-1 ,HRT 1 HD HR
+http://1.mytv5.net:8888/5c:49:7d:32:b3:ae/a29052021z/17593
+#EXTINF:-1 ,HRT 2 HD HR
+http://1.mytv5.net:8888/5c:49:7d:32:b3:ae/a29052021z/7906
+#EXTINF:-1 ,HRT 3 HD HR
+http://1.mytv5.net:8888/5c:49:7d:32:b3:ae/a29052021z/7907
+#EXTINF:-1 ,HRT 4 HD HR
+http://1.mytv5.net:8888/5c:49:7d:32:b3:ae/a29052021z/7908
+#EXTINF:-1 ,HRT 5 HD HR
+http://1.mytv5.net:8888/5c:49:7d:32:b3:ae/a29052021z/17592
+#EXTINF:-1 ,RTL Televizija HD HR
+http://1.mytv5.net:8888/5c:49:7d:32:b3:ae/a29052021z/7340
+#EXTINF:-1 ,RTL 2 HD HR
+http://1.mytv5.net:8888/5c:49:7d:32:b3:ae/a29052021z/7505
+#EXTINF:-1 ,RTL CRIME HD HR
+http://1.mytv5.net:8888/5c:49:7d:32:b3:ae/a29052021z/7508
+#EXTINF:-1 ,RTL KOCKICA HD HR
+http://1.mytv5.net:8888/5c:49:7d:32:b3:ae/a29052021z/7506
+#EXTINF:-1 ,RTL PASSION HD HR
+http://1.mytv5.net:8888/5c:49:7d:32:b3:ae/a29052021z/7507
+#EXTINF:-1 ,RTL LIVING HD HR
+http://1.mytv5.net:8888/5c:49:7d:32:b3:ae/a29052021z/17583
+#EXTINF:-1 ,DOMA TV HD HR
+http://1.mytv5.net:8888/5c:49:7d:32:b3:ae/a29052021z/7910
+#EXTINF:-1 ,CINESTAR ACTION HD HR
+http://1.mytv5.net:8888/5c:49:7d:32:b3:ae/a29052021z/7500
+#EXTINF:-1 ,HNTV HD HR
+http://1.mytv5.net:8888/5c:49:7d:32:b3:ae/a29052021z/17574
+#EXTINF:-1 ,POSAVINA TV HD HR
+http://1.mytv5.net:8888/5c:49:7d:32:b3:ae/a29052021z/17577
+#EXTINF:-1 ,CAPITAL TV HD HR
+http://1.mytv5.net:8888/5c:49:7d:32:b3:ae/a29052021z/17579
+#EXTINF:-1 ,PLAVA VINKOVACKA TV HD HR
+http://1.mytv5.net:8888/5c:49:7d:32:b3:ae/a29052021z/17576
+#EXTINF:-1 ,Z1 HD HR
+http://1.mytv5.net:8888/5c:49:7d:32:b3:ae/a29052021z/17581
+#EXTINF:-1 ,SPORT KLUB 1 HD HR
+http://1.mytv5.net:8888/5c:49:7d:32:b3:ae/a29052021z/7338
+#EXTINF:-1 ,SPORT KLUB 2 HD HR
+http://1.mytv5.net:8888/5c:49:7d:32:b3:ae/a29052021z/17566
+#EXTINF:-1 ,SPORT KLUB 3 HD HR
+http://1.mytv5.net:8888/5c:49:7d:32:b3:ae/a29052021z/7336
+#EXTINF:-1 ,SPORT KLUB 4 HD HR
+http://1.mytv5.net:8888/5c:49:7d:32:b3:ae/a29052021z/17564
+#EXTINF:-1 ,SPORT KLUB 5 HD HR
+http://1.mytv5.net:8888/5c:49:7d:32:b3:ae/a29052021z/17563
+#EXTINF:-1 ,SPORT KLUB 6 HD HR
+http://1.mytv5.net:8888/5c:49:7d:32:b3:ae/a29052021z/17562
+#EXTINF:-1 ,ARENA SPORT 1 HD HR
+http://1.mytv5.net:8888/5c:49:7d:32:b3:ae/a29052021z/8209
+#EXTINF:-1 ,ARENA SPORT 2 HD HR
+http://1.mytv5.net:8888/5c:49:7d:32:b3:ae/a29052021z/8210
+#EXTINF:-1 ,ARENA SPORT 3 HD HR
+http://1.mytv5.net:8888/5c:49:7d:32:b3:ae/a29052021z/17571
+#EXTINF:-1 ,ARENA SPORT 4 HD HR
+http://1.mytv5.net:8888/5c:49:7d:32:b3:ae/a29052021z/17570
+#EXTINF:-1 ,ARENA SPORT 5 HD HR
+http://1.mytv5.net:8888/5c:49:7d:32:b3:ae/a29052021z/17569
+#EXTINF:-1 ,-- BIH - Bossnia  --
+http://1.mytv5.net:8888/5c:49:7d:32:b3:ae/a29052021z/17394
+#EXTINF:-1 ,ATV (BIH)
+http://1.mytv5.net:8888/5c:49:7d:32:b3:ae/a29052021z/17392
+#EXTINF:-1 ,RTRS (BIH)
+http://1.mytv5.net:8888/5c:49:7d:32:b3:ae/a29052021z/17387
+#EXTINF:-1 ,RTRS Plus (BiH)
+http://1.mytv5.net:8888/5c:49:7d:32:b3:ae/a29052021z/17386
+#EXTINF:-1 ,TV 1 (BIH)
+http://1.mytv5.net:8888/5c:49:7d:32:b3:ae/a29052021z/17381
+#EXTINF:-1 ,TV 5 Islam (BIH)
+http://1.mytv5.net:8888/5c:49:7d:32:b3:ae/a29052021z/17375
+#EXTINF:-1 ,BN SAT HD (BiH)
+http://1.mytv5.net:8888/5c:49:7d:32:b3:ae/a29052021z/17376
+#EXTINF:-1 ,BHT HD BIH
+http://1.mytv5.net:8888/5c:49:7d:32:b3:ae/a29052021z/7496
+#EXTINF:-1 ,OBN HD BIH
+http://1.mytv5.net:8888/5c:49:7d:32:b3:ae/a29052021z/7602
+#EXTINF:-1 ,OTV VALENTINO HD BIH
+http://1.mytv5.net:8888/5c:49:7d:32:b3:ae/a29052021z/8150
+#EXTINF:-1 ,NOVA HD BIH
+http://1.mytv5.net:8888/5c:49:7d:32:b3:ae/a29052021z/17589
+#EXTINF:-1 ,PINK BH HD BIH
+http://1.mytv5.net:8888/5c:49:7d:32:b3:ae/a29052021z/7352
+#EXTINF:-1 ,BHT HD 1 BIH
+http://1.mytv5.net:8888/5c:49:7d:32:b3:ae/a29052021z/17391
+#EXTINF:-1 ,BN TV (BIH)
+http://1.mytv5.net:8888/5c:49:7d:32:b3:ae/a29052021z/17390
+#EXTINF:-1 ,FACE TV (BIH)
+http://1.mytv5.net:8888/5c:49:7d:32:b3:ae/a29052021z/17389
+#EXTINF:-1 ,BOSNA TV1 (BIH)
+http://1.mytv5.net:8888/5c:49:7d:32:b3:ae/a29052021z/17379
+#EXTINF:-1 ,AL JAZEERA BALKAN (BIH)
+http://1.mytv5.net:8888/5c:49:7d:32:b3:ae/a29052021z/17393
+#EXTINF:-1 ,FEDERALNA TV (BIH)
+http://1.mytv5.net:8888/5c:49:7d:32:b3:ae/a29052021z/17388
+#EXTINF:-1 ,GLAS DRINE TV (BIH)
+http://1.mytv5.net:8888/5c:49:7d:32:b3:ae/a29052021z/17383
+#EXTINF:-1 ,HAYAT (BIH)
+http://1.mytv5.net:8888/5c:49:7d:32:b3:ae/a29052021z/17384
+#EXTINF:-1 ,MEKA TV (BiH)
+http://1.mytv5.net:8888/5c:49:7d:32:b3:ae/a29052021z/17367
+#EXTINF:-1 ,MOJE BUGOJNO (BiH)
+http://1.mytv5.net:8888/5c:49:7d:32:b3:ae/a29052021z/17368
+#EXTINF:-1 ,MTV IGMAN TV (BiH)
+http://1.mytv5.net:8888/5c:49:7d:32:b3:ae/a29052021z/17371
+#EXTINF:-1 ,N1 (BIH)
+http://1.mytv5.net:8888/5c:49:7d:32:b3:ae/a29052021z/17382
+#EXTINF:-1 ,(BiH) HAYAT MUSIC
+http://1.mytv5.net:8888/5c:49:7d:32:b3:ae/a29052021z/17369
+#EXTINF:-1 ,OTV VALENTINO (BiH)
+http://1.mytv5.net:8888/5c:49:7d:32:b3:ae/a29052021z/17373
+#EXTINF:-1 ,TK TUZLA (BIH)
+http://1.mytv5.net:8888/5c:49:7d:32:b3:ae/a29052021z/17380
+#EXTINF:-1 ,TV Sarajevo (BiH)
+http://1.mytv5.net:8888/5c:49:7d:32:b3:ae/a29052021z/17374
+#EXTINF:-1 ,*****EX-YU******
+http://1.mytv5.net:8888/5c:49:7d:32:b3:ae/a29052021z/7379
+#EXTINF:-1 ,NOVA TV HD EXYU
+http://1.mytv5.net:8888/5c:49:7d:32:b3:ae/a29052021z/7909
+#EXTINF:-1 ,TV 1000 HD EXYU
+http://1.mytv5.net:8888/5c:49:7d:32:b3:ae/a29052021z/7495
+#EXTINF:-1 ,AXN ADRIA HD EXYU
+http://1.mytv5.net:8888/5c:49:7d:32:b3:ae/a29052021z/7497
+#EXTINF:-1 ,CineStar Premiere 1 HD EXYU
+http://1.mytv5.net:8888/5c:49:7d:32:b3:ae/a29052021z/7375
+#EXTINF:-1 ,CINESTAR PREMIERE 2 HD EXYU
+http://1.mytv5.net:8888/5c:49:7d:32:b3:ae/a29052021z/7499
+#EXTINF:-1 ,CINEMAX 1 HD EXYU
+http://1.mytv5.net:8888/5c:49:7d:32:b3:ae/a29052021z/7501
+#EXTINF:-1 ,Cinemax 2 HD EXYU
+http://1.mytv5.net:8888/5c:49:7d:32:b3:ae/a29052021z/7377
+#EXTINF:-1 ,24 KITCHEN HD EXYU
+http://1.mytv5.net:8888/5c:49:7d:32:b3:ae/a29052021z/7512
+#EXTINF:-1 ,ANIMAL PLANET HD EXYU
+http://1.mytv5.net:8888/5c:49:7d:32:b3:ae/a29052021z/8206
+#EXTINF:-1 ,DISCOVERY CHANNEL HD EXYU
+http://1.mytv5.net:8888/5c:49:7d:32:b3:ae/a29052021z/8212
+#EXTINF:-1 ,NATIONAL GEO WILD HD EXYU
+http://1.mytv5.net:8888/5c:49:7d:32:b3:ae/a29052021z/8204
+#EXTINF:-1 ,NATIONAL GEOGRAPHIC HD EXYU
+http://1.mytv5.net:8888/5c:49:7d:32:b3:ae/a29052021z/8205
 #EXTINF:-1 ,YU001:24 Kitchen
 http://he01.okcomputer.club:8880/YXLM0018/987416547/49325
 #EXTINF:-1 ,YU002:Al Jazeera Balkan
