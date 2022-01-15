@@ -1,443 +1,675 @@
 #EXTM3U
-#EXTINF:-1 group-title="EX-YU",BH | AL JAZEERA BALKANS
-http://185.134.22.131:8080/123456/123456/37712
-#EXTINF:-1 group-title="EX-YU",BH | B1
-http://185.134.22.131:8080/123456/123456/37711
-#EXTINF:-1 group-title="EX-YU",BH | BHT 1
-http://185.134.22.131:8080/123456/123456/37713
-#EXTINF:-1 group-title="EX-YU",BH | BN SAT
-http://185.134.22.131:8080/123456/123456/37714
-#EXTINF:-1 group-title="EX-YU",BH | FACE TV
-http://185.134.22.131:8080/123456/123456/46713
-#EXTINF:-1 group-title="EX-YU",BH | FEDERALNA
-http://185.134.22.131:8080/123456/123456/37715
-#EXTINF:-1 group-title="EX-YU",BH | FTV
-http://185.134.22.131:8080/123456/123456/37716
-#EXTINF:-1 group-title="EX-YU",BH | HAYAT
-http://185.134.22.131:8080/123456/123456/37717
-#EXTINF:-1 group-title="EX-YU",BH | HEMA TV
-http://185.134.22.131:8080/123456/123456/37718
-#EXTINF:-1 group-title="EX-YU",BH | HIT TELEVIZIJA
-http://185.134.22.131:8080/123456/123456/37719
-#EXTINF:-1 group-title="EX-YU",BH | IZVORNA TV
-http://185.134.22.131:8080/123456/123456/37720
-#EXTINF:-1 group-title="EX-YU",BH | K3
-http://185.134.22.131:8080/123456/123456/37727
-#EXTINF:-1 group-title="EX-YU",BH | NOVA
-http://185.134.22.131:8080/123456/123456/37721
-#EXTINF:-1 group-title="EX-YU",BH | O KANAL
-http://185.134.22.131:8080/123456/123456/37662
-#EXTINF:-1 group-title="EX-YU",BH | SANDZAK TV
-http://185.134.22.131:8080/123456/123456/37723
-#EXTINF:-1 group-title="EX-YU",BH | SEVDAH TV
-http://185.134.22.131:8080/123456/123456/37664
-#EXTINF:-1 group-title="EX-YU",BH | TK TUZLA
-http://185.134.22.131:8080/123456/123456/37724
-#EXTINF:-1 group-title="EX-YU",BH | TV 101
-http://185.134.22.131:8080/123456/123456/37725
-#EXTINF:-1 group-title="EX-YU",BH | TV GLAS DRINE
-http://185.134.22.131:8080/123456/123456/37673
-#EXTINF:-1 group-title="EX-YU",HR | AXN ADRIA
-http://185.134.22.131:8080/123456/123456/37685
-#EXTINF:-1 group-title="EX-YU",HR | BANOVINA
-http://185.134.22.131:8080/123456/123456/37686
-#EXTINF:-1 group-title="EX-YU",HR | DOMA TV
-http://185.134.22.131:8080/123456/123456/37687
-#EXTINF:-1 group-title="EX-YU",HR | DOMA TV
-http://185.134.22.131:8080/123456/123456/37688
-#EXTINF:-1 group-title="EX-YU",HR | HBO ADRIA
-http://185.134.22.131:8080/123456/123456/37689
-#EXTINF:-1 group-title="EX-YU",HR | HRT 1
-http://185.134.22.131:8080/123456/123456/37690
-#EXTINF:-1 group-title="EX-YU",HR | HRT 2
-http://185.134.22.131:8080/123456/123456/37691
-#EXTINF:-1 group-title="EX-YU",HR | HRT 3
-http://185.134.22.131:8080/123456/123456/37692
-#EXTINF:-1 group-title="EX-YU" tvg-logo="http://epg.serbianforum.org/logo_znaci/HRT%204.png",HR | HRT 4
-http://185.134.22.131:8080/123456/123456/37693
-#EXTINF:-1 group-title="EX-YU",HR | HRT 5
-http://185.134.22.131:8080/123456/123456/37694
-#EXTINF:-1 group-title="EX-YU",HR | KANAL 5
-http://185.134.22.131:8080/123456/123456/37695
-#EXTINF:-1 group-title="EX-YU",HR | KLASIK TV
-http://185.134.22.131:8080/123456/123456/37696
-#EXTINF:-1 group-title="EX-YU",HR | LAUDATO TV
-http://185.134.22.131:8080/123456/123456/37697
-#EXTINF:-1 group-title="EX-YU",HR | MTV ADRIA
-http://185.134.22.131:8080/123456/123456/37698
-#EXTINF:-1 group-title="EX-YU",HR | N1 HRVATSKA
-http://185.134.22.131:8080/123456/123456/37699
-#EXTINF:-1 group-title="EX-YU",HR | NOVA TV
-http://185.134.22.131:8080/123456/123456/37700
-#EXTINF:-1 group-title="EX-YU",HR | RTL
-http://185.134.22.131:8080/123456/123456/37701
-#EXTINF:-1 group-title="EX-YU",HR | RTL 2
-http://185.134.22.131:8080/123456/123456/37702
-#EXTINF:-1 group-title="EX-YU",HR | RTL CRIME
-http://185.134.22.131:8080/123456/123456/37703
-#EXTINF:-1 group-title="EX-YU",HR | RTL KOCKICA
-http://185.134.22.131:8080/123456/123456/37704
-#EXTINF:-1 group-title="EX-YU",HR | RTL LIVING
-http://185.134.22.131:8080/123456/123456/37705
-#EXTINF:-1 group-title="EX-YU",HR | RTL PASSION
-http://185.134.22.131:8080/123456/123456/37706
-#EXTINF:-1 group-title="EX-YU",HR | RTL TELEVIZIJA
-http://185.134.22.131:8080/123456/123456/37707
-#EXTINF:-1 group-title="EX-YU",HR | RTV SLON
-http://185.134.22.131:8080/123456/123456/37708
-#EXTINF:-1 group-title="EX-YU",HR | Z 1
-http://185.134.22.131:8080/123456/123456/37709
-#EXTINF:-1 group-title="EX-YU",SR | 24 KITCHEN
-http://185.134.22.131:8080/123456/123456/37535
-#EXTINF:-1 group-title="EX-YU",SR | AMC
-http://185.134.22.131:8080/123456/123456/37536
-#EXTINF:-1 group-title="EX-YU",SR | ANIMAL PLANET
-http://185.134.22.131:8080/123456/123456/37537
-#EXTINF:-1 group-title="EX-YU",SR | BABY TV
-http://185.134.22.131:8080/123456/123456/37538
-#EXTINF:-1 group-title="EX-YU",SR | BALKANIKA
-http://185.134.22.131:8080/123456/123456/37539
-#EXTINF:-1 group-title="EX-YU",SR | BELLE AMIE
-http://185.134.22.131:8080/123456/123456/37540
-#EXTINF:-1 group-title="EX-YU",SR | BN MUSIC
-http://185.134.22.131:8080/123456/123456/37541
-#EXTINF:-1 group-title="EX-YU",SR | CINEMANIA
-http://185.134.22.131:8080/123456/123456/37542
-#EXTINF:-1 group-title="EX-YU",SR | CINEMAX 1
-http://185.134.22.131:8080/123456/123456/37543
-#EXTINF:-1 group-title="EX-YU",SR | CINEMAX 2
-http://185.134.22.131:8080/123456/123456/37544
-#EXTINF:-1 group-title="EX-YU",SR | CINESTAR
-http://185.134.22.131:8080/123456/123456/37545
-#EXTINF:-1 group-title="EX-YU",SR | CINESTAR ACTION
-http://185.134.22.131:8080/123456/123456/37546
-#EXTINF:-1 group-title="EX-YU",SR | CINESTAR FANTASY
-http://185.134.22.131:8080/123456/123456/37547
-#EXTINF:-1 group-title="EX-YU",SR | CINESTAR PREMIERE 1
-http://185.134.22.131:8080/123456/123456/37548
-#EXTINF:-1 group-title="EX-YU",SR | CINESTAR PREMIERE 2
-http://185.134.22.131:8080/123456/123456/37549
-#EXTINF:-1 group-title="EX-YU",SR | CMC
-http://185.134.22.131:8080/123456/123456/37550
-#EXTINF:-1 group-title="EX-YU",SR | CRIME & INVESTIGATION
-http://185.134.22.131:8080/123456/123456/37551
-#EXTINF:-1 group-title="EX-YU",SR | DA VINCI LEARNING
-http://185.134.22.131:8080/123456/123456/37552
-#EXTINF:-1 group-title="EX-YU",SR | DISCOVERY CHANNEL
-http://185.134.22.131:8080/123456/123456/37553
-#EXTINF:-1 group-title="EX-YU",SR | DISCOVERY SCIENCE
-http://185.134.22.131:8080/123456/123456/37554
-#EXTINF:-1 group-title="EX-YU",SR | DIVA CHANNEL
-http://185.134.22.131:8080/123456/123456/37555
-#EXTINF:-1 group-title="EX-YU",SR | DM SAT
-http://185.134.22.131:8080/123456/123456/37556
-#EXTINF:-1 group-title="EX-YU",SR | DOCU BOX
-http://185.134.22.131:8080/123456/123456/37557
-#EXTINF:-1 group-title="EX-YU",SR | DUGA TV
-http://185.134.22.131:8080/123456/123456/37558
-#EXTINF:-1 group-title="EX-YU",SR | E! ENTERTAINMENT
-http://185.134.22.131:8080/123456/123456/37559
-#EXTINF:-1 group-title="EX-YU",SR | FEN TV
-http://185.134.22.131:8080/123456/123456/37560
-#EXTINF:-1 group-title="EX-YU",SR | FILM BOX EXTRA
-http://185.134.22.131:8080/123456/123456/37561
-#EXTINF:-1 group-title="EX-YU",SR | FILM BOX PLUS
-http://185.134.22.131:8080/123456/123456/37562
-#EXTINF:-1 group-title="EX-YU",SR | FILM KLUB
-http://185.134.22.131:8080/123456/123456/37563
-#EXTINF:-1 group-title="EX-YU",SR | FOX
-http://185.134.22.131:8080/123456/123456/37564
-#EXTINF:-1 group-title="EX-YU",SR | FOX CRIME
-http://185.134.22.131:8080/123456/123456/37565
-#EXTINF:-1 group-title="EX-YU",SR | FOX LIFE
-http://185.134.22.131:8080/123456/123456/37566
-#EXTINF:-1 group-title="EX-YU",SR | FOX MOVIES
-http://185.134.22.131:8080/123456/123456/37567
-#EXTINF:-1 group-title="EX-YU",SR | GEM RTV
-http://185.134.22.131:8080/123456/123456/37568
-#EXTINF:-1 group-title="EX-YU",SR | GRAND TV 2
-http://185.134.22.131:8080/123456/123456/37569
-#EXTINF:-1 group-title="EX-YU",SR | GRAND TV
-http://185.134.22.131:8080/123456/123456/37570
-#EXTINF:-1 group-title="EX-YU",SR | HAPPY TV
-http://185.134.22.131:8080/123456/123456/37572
-#EXTINF:-1 group-title="EX-YU",SR | HBO 1
-http://185.134.22.131:8080/123456/123456/37573
-#EXTINF:-1 group-title="EX-YU",SR | HBO 2
-http://185.134.22.131:8080/123456/123456/37574
-#EXTINF:-1 group-title="EX-YU",SR | HBO 3
-http://185.134.22.131:8080/123456/123456/37575
-#EXTINF:-1 group-title="EX-YU",SR | HISTORY CHANNEL
-http://185.134.22.131:8080/123456/123456/37576
-#EXTINF:-1 group-title="EX-YU",SR | HISTORY CHANNEL 2
-http://185.134.22.131:8080/123456/123456/37577
-#EXTINF:-1 group-title="EX-YU",SR | HRAM TV
-http://185.134.22.131:8080/123456/123456/37578
-#EXTINF:-1 group-title="EX-YU",SR | ID DISCOVERY
-http://185.134.22.131:8080/123456/123456/37579
-#EXTINF:-1 group-title="EX-YU",SR | ID XTRA
-http://185.134.22.131:8080/123456/123456/37580
-#EXTINF:-1 group-title="EX-YU",SR | IDJ TV
-http://185.134.22.131:8080/123456/123456/37581
-#EXTINF:-1 group-title="EX-YU",SR | ISTOK TV
-http://185.134.22.131:8080/123456/123456/37583
-#EXTINF:-1 group-title="EX-YU",SR | JUGOTON TV
-http://185.134.22.131:8080/123456/123456/37585
-#EXTINF:-1 group-title="EX-YU",SR | KCN 1
-http://185.134.22.131:8080/123456/123456/37586
-#EXTINF:-1 group-title="EX-YU",SR | KCN 2
-http://185.134.22.131:8080/123456/123456/37587
-#EXTINF:-1 group-title="EX-YU",SR | KCN 3
-http://185.134.22.131:8080/123456/123456/37588
-#EXTINF:-1 group-title="EX-YU",SR | KINO TV
-http://185.134.22.131:8080/123456/123456/37589
-#EXTINF:-1 group-title="EX-YU",SR | LOV I RIBOLOV
-http://185.134.22.131:8080/123456/123456/37590
-#EXTINF:-1 group-title="EX-YU",SR | M1 FILM
-http://185.134.22.131:8080/123456/123456/37591
-#EXTINF:-1 group-title="EX-YU",SR | MINI TV
-http://185.134.22.131:8080/123456/123456/37593
-#EXTINF:-1 group-title="EX-YU",SR | MINI ULTRA TV
-http://185.134.22.131:8080/123456/123456/37594
-#EXTINF:-1 group-title="EX-YU",SR | MINIMAX
-http://185.134.22.131:8080/123456/123456/37595
-#EXTINF:-1 group-title="EX-YU",SR | MOJ KANAL
-http://185.134.22.131:8080/123456/123456/37596
-#EXTINF:-1 group-title="EX-YU",SR | N1 SERBIA
-http://185.134.22.131:8080/123456/123456/37597
-#EXTINF:-1 group-title="EX-YU",SR | NASHA TV
-http://185.134.22.131:8080/123456/123456/37598
-#EXTINF:-1 group-title="EX-YU",SR | NAT GEO WILD
-http://185.134.22.131:8080/123456/123456/37599
-#EXTINF:-1 group-title="EX-YU",SR | NATIONAL GEOGRAPHIC CHANNEL
-http://185.134.22.131:8080/123456/123456/37600
-#EXTINF:-1 group-title="EX-YU",SR | NICKELODEON
-http://185.134.22.131:8080/123456/123456/37601
-#EXTINF:-1 group-title="EX-YU",SR | NOVA RS
-http://185.134.22.131:8080/123456/123456/37602
-#EXTINF:-1 group-title="EX-YU",SR | NOVA S
-http://185.134.22.131:8080/123456/123456/37582
-#EXTINF:-1 group-title="EX-YU",SR | O2
-http://185.134.22.131:8080/123456/123456/37603
-#EXTINF:-1 group-title="EX-YU",SR | PALMA PLUS
-http://185.134.22.131:8080/123456/123456/37604
-#EXTINF:-1 group-title="EX-YU",SR | PICKBOX
-http://185.134.22.131:8080/123456/123456/37605
-#EXTINF:-1 group-title="EX-YU",SR | PIKABOO
-http://185.134.22.131:8080/123456/123456/37606
-#EXTINF:-1 group-title="EX-YU",SR | PINK
-http://185.134.22.131:8080/123456/123456/37607
-#EXTINF:-1 group-title="EX-YU",SR | PINK 2
-http://185.134.22.131:8080/123456/123456/37608
-#EXTINF:-1 group-title="EX-YU",SR | PINK 3
-http://185.134.22.131:8080/123456/123456/37609
-#EXTINF:-1 group-title="EX-YU",SR | PINK ACTION
-http://185.134.22.131:8080/123456/123456/37610
-#EXTINF:-1 group-title="EX-YU",SR | PINK CLASSIC
-http://185.134.22.131:8080/123456/123456/37613
-#EXTINF:-1 group-title="EX-YU",SR | PINK COMEDY
-http://185.134.22.131:8080/123456/123456/37614
-#EXTINF:-1 group-title="EX-YU" tvg-logo="http://epg.serbianforum.org/logo_znaci/Pink%20Crime%20&%20Mystery.png",SR | PINK CRIME & MYSTERY
-http://185.134.22.131:8080/123456/123456/37615
-#EXTINF:-1 group-title="EX-YU",SR | PINK EXTRA
-http://185.134.22.131:8080/123456/123456/37616
-#EXTINF:-1 group-title="EX-YU",SR | PINK FILM
-http://185.134.22.131:8080/123456/123456/37617
-#EXTINF:-1 group-title="EX-YU",SR | PINK FOLK 1
-http://185.134.22.131:8080/123456/123456/37618
-#EXTINF:-1 group-title="EX-YU",SR | PINK FOLK 2
-http://185.134.22.131:8080/123456/123456/37619
-#EXTINF:-1 group-title="EX-YU",SR | PINK HITS 2
-http://185.134.22.131:8080/123456/123456/37620
-#EXTINF:-1 group-title="EX-YU",SR | PINK HORROR
-http://185.134.22.131:8080/123456/123456/37621
-#EXTINF:-1 group-title="EX-YU",SR | PINK KIDS
-http://185.134.22.131:8080/123456/123456/37622
-#EXTINF:-1 group-title="EX-YU",SR | PINK KONCERT
-http://185.134.22.131:8080/123456/123456/37623
-#EXTINF:-1 group-title="EX-YU",SR | PINK KUVAR
-http://185.134.22.131:8080/123456/123456/37624
-#EXTINF:-1 group-title="EX-YU",SR | PINK LOL
-http://185.134.22.131:8080/123456/123456/37625
-#EXTINF:-1 group-title="EX-YU",SR | PINK MOVIES
-http://185.134.22.131:8080/123456/123456/37626
-#EXTINF:-1 group-title="EX-YU",SR | PINK MUSIC
-http://185.134.22.131:8080/123456/123456/37627
-#EXTINF:-1 group-title="EX-YU",SR | PINK MUSIC 2
-http://185.134.22.131:8080/123456/123456/37628
-#EXTINF:-1 group-title="EX-YU",SR | PINK PEDIA
-http://185.134.22.131:8080/123456/123456/37629
-#EXTINF:-1 group-title="EX-YU",SR | PINK PLUS
-http://185.134.22.131:8080/123456/123456/37630
-#EXTINF:-1 group-title="EX-YU",SR | PINK PREMIUM
-http://185.134.22.131:8080/123456/123456/37631
-#EXTINF:-1 group-title="EX-YU",SR | PINK REALITY
-http://185.134.22.131:8080/123456/123456/37632
-#EXTINF:-1 group-title="EX-YU",SR | PINK ROMANCE
-http://185.134.22.131:8080/123456/123456/37633
-#EXTINF:-1 group-title="EX-YU",SR | PINK SCI FI & FANTASY
-http://185.134.22.131:8080/123456/123456/37634
-#EXTINF:-1 group-title="EX-YU",SR | PINK SERIJE
-http://185.134.22.131:8080/123456/123456/37635
-#EXTINF:-1 group-title="EX-YU",SR | PINK SHOW
-http://185.134.22.131:8080/123456/123456/37636
-#EXTINF:-1 group-title="EX-YU",SR | PINK SOAP
-http://185.134.22.131:8080/123456/123456/37637
-#EXTINF:-1 group-title="EX-YU",SR | PINK THRILLER
-http://185.134.22.131:8080/123456/123456/37638
-#EXTINF:-1 group-title="EX-YU",SR | PINK WESTERN
-http://185.134.22.131:8080/123456/123456/37639
-#EXTINF:-1 group-title="EX-YU",SR | PINK WORLD CINEMA
-http://185.134.22.131:8080/123456/123456/37640
-#EXTINF:-1 group-title="EX-YU",SR | PINK WORLD CINEMA
-http://185.134.22.131:8080/123456/123456/37641
-#EXTINF:-1 group-title="EX-YU",SR | PINK ZABAVA
-http://185.134.22.131:8080/123456/123456/37642
-#EXTINF:-1 group-title="EX-YU",SR | PLANETA TV
-http://185.134.22.131:8080/123456/123456/37643
-#EXTINF:-1 group-title="EX-YU",SR | PRVA
-http://185.134.22.131:8080/123456/123456/37644
-#EXTINF:-1 group-title="EX-YU",SR | PRVA KICK
-http://185.134.22.131:8080/123456/123456/37645
-#EXTINF:-1 group-title="EX-YU",SR | PRVA MAX
-http://185.134.22.131:8080/123456/123456/37646
-#EXTINF:-1 group-title="EX-YU",SR | PRVA PLUS
-http://185.134.22.131:8080/123456/123456/37647
-#EXTINF:-1 group-title="EX-YU",SR | PRVA WORLD
-http://185.134.22.131:8080/123456/123456/37648
-#EXTINF:-1 group-title="EX-YU",SR | ROMA TV
-http://185.134.22.131:8080/123456/123456/37649
-#EXTINF:-1 group-title="EX-YU",SR | RTS 2
-http://185.134.22.131:8080/123456/123456/37651
-#EXTINF:-1 group-title="EX-YU",SR | RTS 3
-http://185.134.22.131:8080/123456/123456/37652
-#EXTINF:-1 group-title="EX-YU",SR | RTS
-http://185.134.22.131:8080/123456/123456/37653
-#EXTINF:-1 group-title="EX-YU",SR | RTS SATELIT
-http://185.134.22.131:8080/123456/123456/37655
-#EXTINF:-1 group-title="EX-YU",SR | RTS SVET
-http://185.134.22.131:8080/123456/123456/37656
-#EXTINF:-1 group-title="EX-YU",SR | RTS ZIVOT
-http://185.134.22.131:8080/123456/123456/37657
-#EXTINF:-1 group-title="EX-YU",SR | RTV BOR
-http://185.134.22.131:8080/123456/123456/37658
-#EXTINF:-1 group-title="EX-YU",SR | RTV MLAVA
-http://185.134.22.131:8080/123456/123456/37660
-#EXTINF:-1 group-title="EX-YU",SR | RTV NOVI PAZAR
-http://185.134.22.131:8080/123456/123456/37661
-#EXTINF:-1 group-title="EX-YU",SR | SCIFI
-http://185.134.22.131:8080/123456/123456/37663
-#EXTINF:-1 group-title="EX-YU",SR | SPORT KLUB 1
-http://185.134.22.131:8080/123456/123456/43092
-#EXTINF:-1 group-title="EX-YU",SR | SPORT KLUB 2
-http://185.134.22.131:8080/123456/123456/43093
-#EXTINF:-1 group-title="EX-YU",SR | SPORT KLUB 3
-http://185.134.22.131:8080/123456/123456/43094
-#EXTINF:-1 group-title="EX-YU",SR | SPORT KLUB 4
-http://185.134.22.131:8080/123456/123456/43095
-#EXTINF:-1 group-title="EX-YU",SR | SPORT KLUB 5
-http://185.134.22.131:8080/123456/123456/43096
-#EXTINF:-1 group-title="EX-YU",SR | SPORT KLUB 6
-http://185.134.22.131:8080/123456/123456/43097
-#EXTINF:-1 group-title="EX-YU",SR | STUDIO B
-http://185.134.22.131:8080/123456/123456/37666
-#EXTINF:-1 group-title="EX-YU",SR | SUPER KIDS
-http://185.134.22.131:8080/123456/123456/37667
-#EXTINF:-1 group-title="EX-YU",SR | TLC
-http://185.134.22.131:8080/123456/123456/37668
-#EXTINF:-1 group-title="EX-YU",SR | TOP SOUND
-http://185.134.22.131:8080/123456/123456/37670
-#EXTINF:-1 group-title="EX-YU",SR | TRAVEL CHANNEL
-http://185.134.22.131:8080/123456/123456/37671
-#EXTINF:-1 group-title="EX-YU",SR | TV 1000
-http://185.134.22.131:8080/123456/123456/37672
-#EXTINF:-1 group-title="EX-YU",SR | TV KLADOVO
-http://185.134.22.131:8080/123456/123456/37674
-#EXTINF:-1 group-title="EX-YU",SR | TV SEHARA
-http://185.134.22.131:8080/123456/123456/37675
-#EXTINF:-1 group-title="EX-YU",SR | ULTRA TV
-http://185.134.22.131:8080/123456/123456/37676
-#EXTINF:-1 group-title="EX-YU",SR | VH1 CLASSIC
-http://185.134.22.131:8080/123456/123456/37678
-#EXTINF:-1 group-title="EX-YU",SR | VIASAT EXPLORE
-http://185.134.22.131:8080/123456/123456/37679
-#EXTINF:-1 group-title="EX-YU",SR | VIASAT HISTORY
-http://185.134.22.131:8080/123456/123456/37680
-#EXTINF:-1 group-title="EX-YU",SR | VIASAT NATURE
-http://185.134.22.131:8080/123456/123456/37681
-#EXTINF:-1 group-title="EX-YU",SR | VOJVODINA 1
-http://185.134.22.131:8080/123456/123456/37682
-#EXTINF:-1 group-title="EX-YU",SR | VOJVODINA 2
-http://185.134.22.131:8080/123456/123456/37683
-#EXTINF:-1 group-title="EX-YU",SR | ZVEZDA
-http://185.134.22.131:8080/123456/123456/43091
-#EXTINF:-1 group-title="EX-YU",BH | A TV
-http://185.134.22.131:8080/123456/123456/37710
-#EXTINF:-1 group-title="KIDS" tvg-logo="https://i.ibb.co/h1ZySZt/500px-Family-Chrgd-logo-svg.png",CA | CHRGD
-http://185.134.22.131:8080/123456/123456/53801
-#EXTINF:-1 group-title="KIDS" tvg-logo="http://apk.eternaltv.net/icons/disneyhd.png",CA | DISNEY CHANNEL
-http://185.134.22.131:8080/123456/123456/6726
-#EXTINF:-1 group-title="KIDS" tvg-logo="http://apk.eternaltv.net/icons/ca/Disneyjunior.jpg",CA | DISNEY JR
-http://185.134.22.131:8080/123456/123456/6725
-#EXTINF:-1 group-title="KIDS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0c/Treehouse_TV_2013.png",CA | TREEHOUSE
-http://185.134.22.131:8080/123456/123456/6728
-#EXTINF:-1 group-title="KIDS" tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/canada/ytv-ca.png?raw=true",CA | YTV
-http://185.134.22.131:8080/123456/123456/41814
-#EXTINF:-1 group-title="KIDS" tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/united-kingdom/boomerang-uk.png?raw=true",UK | BOOMERANG
-http://185.134.22.131:8080/123456/123456/1398
-#EXTINF:-1 group-title="KIDS" tvg-logo="https://archive.org/download/cartoonito/cartoonito.png",UK | CARTOONITO
-http://185.134.22.131:8080/123456/123456/6724
-#EXTINF:-1 group-title="KIDS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/16/CBeebies.svg/1200px-CBeebies.svg.png",UK | CBEEBIES
-http://185.134.22.131:8080/123456/123456/21088
-#EXTINF:-1 group-title="KIDS" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/41DAgNJEGkL._SY355_.png",UK | NICK JR
-http://185.134.22.131:8080/123456/123456/6719
-#EXTINF:-1 group-title="KIDS" tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/united-kingdom/nick-jr-too-uk.png?raw=true",UK | NICK JR TOO
-http://185.134.22.131:8080/123456/123456/6720
-#EXTINF:-1 group-title="KIDS" tvg-logo="https://spng.pinpng.com/pngs/s/80-807607_nickelodeon-logo-png-transparent-nickelodeon-png-download.png",UK | NICKELODEON
-http://185.134.22.131:8080/123456/123456/6718
-#EXTINF:-1 group-title="KIDS" tvg-logo="https://www.directv.com/images/logos/channels/dark/large/557.png",UK | NICKTOONS
-http://185.134.22.131:8080/123456/123456/6717
-#EXTINF:-1 group-title="KIDS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/fa/RT%C3%89jr_logo.png/200px-RT%C3%89jr_logo.png",UK | RTE JR
-http://185.134.22.131:8080/123456/123456/1387
-#EXTINF:-1 group-title="KIDS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/02/New_Tiny_Pop_Logo_2018.png",UK | TINY POP
-http://185.134.22.131:8080/123456/123456/1291
-#EXTINF:-1 group-title="KIDS" tvg-logo="https://tinyurl.com/y3naqax8",USA | BABY FIRST
-http://185.134.22.131:8080/123456/123456/24748
-#EXTINF:-1 group-title="KIDS" tvg-logo="https://tinyurl.com/y233qeu2",USA | BABY TV
-http://185.134.22.131:8080/123456/123456/1107
-#EXTINF:-1 group-title="KIDS" tvg-logo="https://tinyurl.com/y3hyfxnl",USA | BOOMERANG
-http://185.134.22.131:8080/123456/123456/1092
-#EXTINF:-1 group-title="KIDS" tvg-logo="https://tinyurl.com/y2spdz7j",USA | CARTOON NETWORK
-http://185.134.22.131:8080/123456/123456/1084
-#EXTINF:-1 group-title="KIDS" tvg-logo="https://i.ibb.co/9gm4408/cartoon-network-us.png",USA | CARTOON NETWORK (WEST)
-http://185.134.22.131:8080/123456/123456/48279
-#EXTINF:-1 group-title="KIDS" tvg-logo="https://tinyurl.com/y55wuewq",USA | DISNEY CHANNEL (EAST)
-http://185.134.22.131:8080/123456/123456/1019
-#EXTINF:-1 group-title="KIDS" tvg-logo="https://tinyurl.com/y37rrvtk",USA | DISNEY JR (UNSTABLE)
-http://185.134.22.131:8080/123456/123456/1016
-#EXTINF:-1 group-title="KIDS" tvg-logo="https://tinyurl.com/y37rrvtk",USA | DISNEY JR (WEST)
-http://185.134.22.131:8080/123456/123456/1017
-#EXTINF:-1 group-title="KIDS" tvg-logo="https://tinyurl.com/yyhve9rd",USA | DISNEY XD
-http://185.134.22.131:8080/123456/123456/1014
-#EXTINF:-1 group-title="KIDS" tvg-logo="https://tinyurl.com/yyhve9rd",USA | DISNEY XD (WEST)
-http://185.134.22.131:8080/123456/123456/1015
-#EXTINF:-1 group-title="KIDS" tvg-logo="https://tinyurl.com/y3l8g9z5",USA | NICK JR
-http://185.134.22.131:8080/123456/123456/6310
-#EXTINF:-1 group-title="KIDS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/NickMusic.svg/512px-NickMusic.svg.png",USA | NICK MUSIC
-http://185.134.22.131:8080/123456/123456/10432
-#EXTINF:-1 group-title="KIDS" tvg-logo="https://tinyurl.com/yyuuupdf",USA | NICKELODEON
-http://185.134.22.131:8080/123456/123456/6612
-#EXTINF:-1 group-title="KIDS" tvg-logo="https://tinyurl.com/y2ockkmc",USA | NICKTOONS
-http://185.134.22.131:8080/123456/123456/6633
-#EXTINF:-1 group-title="KIDS" tvg-logo="https://tinyurl.com/y4usq5ns",USA | PBS KIDS
-http://185.134.22.131:8080/123456/123456/6649
-#EXTINF:-1 group-title="KIDS" tvg-logo="https://tinyurl.com/y2rdsn5e",USA | TEEN NICK
-http://185.134.22.131:8080/123456/123456/725
-#EXTINF:-1 group-title="KIDS" tvg-logo="https://i.ibb.co/fGrFqB8/teen-nick.png",USA | TEEN NICK (WEST)
-http://185.134.22.131:8080/123456/123456/54735
-#EXTINF:-1 group-title="KIDS" tvg-logo="https://tinyurl.com/yxmdxugv",USA | UNIVERSAL KIDS
-http://185.134.22.131:8080/123456/123456/695
-#EXTINF:-1 group-title="KIDS" tvg-logo="https://tinyurl.com/yxmdxugv",USA | UNIVERSAL KIDS (WEST)
-http://185.134.22.131:8080/123456/123456/696
-#EXTINF:-1 group-title="KIDS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/Animax.png",PH | ANIMAX
-http://185.134.22.131:8080/123456/123456/61141
+#EXTINF:-1,Pink 1
+http://fasttvuk.com:2086/DL/dl/65009
+#EXTINF:-1,Pink 2
+http://fasttvuk.com:2086/DL/dl/65010
+#EXTINF:-1,Pink 3
+http://fasttvuk.com:2086/DL/dl/65011
+#EXTINF:-1,Pink Show
+http://fasttvuk.com:2086/DL/dl/65012
+#EXTINF:-1,Pink Classic
+http://fasttvuk.com:2086/DL/dl/65013
+#EXTINF:-1,Pink Zabava
+http://fasttvuk.com:2086/DL/dl/65014
+#EXTINF:-1,Pink World Cinema
+http://fasttvuk.com:2086/DL/dl/65015
+#EXTINF:-1,Pink World
+http://fasttvuk.com:2086/DL/dl/65016
+#EXTINF:-1,Pink Western
+http://fasttvuk.com:2086/DL/dl/65017
+#EXTINF:-1,Pink Thriller
+http://fasttvuk.com:2086/DL/dl/65018
+#EXTINF:-1,Pink Soap
+http://fasttvuk.com:2086/DL/dl/65019
+#EXTINF:-1,Pink Serije
+http://fasttvuk.com:2086/DL/dl/65020
+#EXTINF:-1,Pink SciFi & Fantasy
+http://fasttvuk.com:2086/DL/dl/65021
+#EXTINF:-1,Pink Romance
+http://fasttvuk.com:2086/DL/dl/65022
+#EXTINF:-1,Pink Reality
+http://fasttvuk.com:2086/DL/dl/65023
+#EXTINF:-1,Pink Premium
+http://fasttvuk.com:2086/DL/dl/65024
+#EXTINF:-1,Pink Plus
+http://fasttvuk.com:2086/DL/dl/65025
+#EXTINF:-1,Pink Pedia
+http://fasttvuk.com:2086/DL/dl/65026
+#EXTINF:-1,Pink M
+http://fasttvuk.com:2086/DL/dl/65027
+#EXTINF:-1,Pink Music
+http://fasttvuk.com:2086/DL/dl/65028
+#EXTINF:-1,Pink Music 2
+http://fasttvuk.com:2086/DL/dl/65029
+#EXTINF:-1,Pink Movies
+http://fasttvuk.com:2086/DL/dl/65030
+#EXTINF:-1,Pink Kuvar
+http://fasttvuk.com:2086/DL/dl/65031
+#EXTINF:-1,Pink Koncert
+http://fasttvuk.com:2086/DL/dl/65032
+#EXTINF:-1,Pink Horror
+http://fasttvuk.com:2086/DL/dl/65033
+#EXTINF:-1,Pink Film
+http://fasttvuk.com:2086/DL/dl/65034
+#EXTINF:-1,Pink Extra
+http://fasttvuk.com:2086/DL/dl/65035
+#EXTINF:-1,Pink Crime & Mystery
+http://fasttvuk.com:2086/DL/dl/65036
+#EXTINF:-1,Pink Comedy
+http://fasttvuk.com:2086/DL/dl/65037
+#EXTINF:-1,Pink Action
+http://fasttvuk.com:2086/DL/dl/65038
+#EXTINF:-1,Pink & Roll
+http://fasttvuk.com:2086/DL/dl/65039
+#EXTINF:-1,Pink Style
+http://fasttvuk.com:2086/DL/dl/65040
+#EXTINF:-1,Pink LOL
+http://fasttvuk.com:2086/DL/dl/65041
+#EXTINF:-1,Pink Haha
+http://fasttvuk.com:2086/DL/dl/65042
+#EXTINF:-1,Pink Fashion
+http://fasttvuk.com:2086/DL/dl/65043
+#EXTINF:-1,Pink Media BiH
+http://fasttvuk.com:2086/DL/dl/65044
+#EXTINF:-1,Pink Family
+http://fasttvuk.com:2086/DL/dl/65045
+#EXTINF:-1,Pink Hits
+http://fasttvuk.com:2086/DL/dl/65046
+#EXTINF:-1,Pink Hits 2
+http://fasttvuk.com:2086/DL/dl/65047
+#EXTINF:-1,Pink Folk 1
+http://fasttvuk.com:2086/DL/dl/65048
+#EXTINF:-1,Pink Folk 2
+http://fasttvuk.com:2086/DL/dl/65049
+#EXTINF:-1,Pink Bravo
+http://fasttvuk.com:2086/DL/dl/65050
+#EXTINF:-1,Pink Zadruga 1
+http://fasttvuk.com:2086/DL/dl/65051
+#EXTINF:-1,Pink Zadruga 2
+http://fasttvuk.com:2086/DL/dl/65052
+#EXTINF:-1,Pink Zadruga 3
+http://fasttvuk.com:2086/DL/dl/65053
+#EXTINF:-1,Pink Zadruga 4
+http://fasttvuk.com:2086/DL/dl/65054
+#EXTINF:-1,Coronavirus Pandemic 1
+http://fasttvuk.com:2086/DL/dl/65933
+#EXTINF:-1,HRT 1 HD
+http://fasttvuk.com:2086/DL/dl/65935
+#EXTINF:-1,HRT 2 HD
+http://fasttvuk.com:2086/DL/dl/65937
+#EXTINF:-1,HRT 3 HD
+http://fasttvuk.com:2086/DL/dl/65939
+#EXTINF:-1,HRT 4 HD
+http://fasttvuk.com:2086/DL/dl/65941
+#EXTINF:-1,HRT 5 HD
+http://fasttvuk.com:2086/DL/dl/65943
+#EXTINF:-1,Nova TV HD
+http://fasttvuk.com:2086/DL/dl/65945
+#EXTINF:-1,RTL Televizija
+http://fasttvuk.com:2086/DL/dl/65946
+#EXTINF:-1,RTL Televizija HD
+http://fasttvuk.com:2086/DL/dl/65947
+#EXTINF:-1,RTL 2
+http://fasttvuk.com:2086/DL/dl/65948
+#EXTINF:-1,RTL Passion
+http://fasttvuk.com:2086/DL/dl/65949
+#EXTINF:-1,RTL Living
+http://fasttvuk.com:2086/DL/dl/65950
+#EXTINF:-1,RTL Crime
+http://fasttvuk.com:2086/DL/dl/65951
+#EXTINF:-1,RTL Kockica
+http://fasttvuk.com:2086/DL/dl/65952
+#EXTINF:-1,Doma TV HD
+http://fasttvuk.com:2086/DL/dl/65954
+#EXTINF:-1,N1 HR HD
+http://fasttvuk.com:2086/DL/dl/65956
+#EXTINF:-1,Jabuka TV
+http://fasttvuk.com:2086/DL/dl/65957
+#EXTINF:-1,Marija TV Medjugorje
+http://fasttvuk.com:2086/DL/dl/65958
+#EXTINF:-1,Narodna Televizija
+http://fasttvuk.com:2086/DL/dl/65959
+#EXTINF:-1,Laudato TV
+http://fasttvuk.com:2086/DL/dl/65960
+#EXTINF:-1,VTV Televizija
+http://fasttvuk.com:2086/DL/dl/65961
+#EXTINF:-1,Trend TV Karlovac
+http://fasttvuk.com:2086/DL/dl/65962
+#EXTINF:-1,Tv4r Karlovac
+http://fasttvuk.com:2086/DL/dl/65963
+#EXTINF:-1,Poljoprivredna TV
+http://fasttvuk.com:2086/DL/dl/65964
+#EXTINF:-1,TV Istra
+http://fasttvuk.com:2086/DL/dl/65965
+#EXTINF:-1,KanalR
+http://fasttvuk.com:2086/DL/dl/65966
+#EXTINF:-1,TV Zapad
+http://fasttvuk.com:2086/DL/dl/65967
+#EXTINF:-1,TV Sibenik
+http://fasttvuk.com:2086/DL/dl/65968
+#EXTINF:-1,TV Jadran
+http://fasttvuk.com:2086/DL/dl/65969
+#EXTINF:-1,TV Dubrovnik
+http://fasttvuk.com:2086/DL/dl/65970
+#EXTINF:-1,Mreza Zagreb
+http://fasttvuk.com:2086/DL/dl/65971
+#EXTINF:-1,Mreza Split
+http://fasttvuk.com:2086/DL/dl/65972
+#EXTINF:-1,Libertas TV
+http://fasttvuk.com:2086/DL/dl/65973
+#EXTINF:-1,RTV Banovina
+http://fasttvuk.com:2086/DL/dl/65974
+#EXTINF:-1,Vinkovacka TV
+http://fasttvuk.com:2086/DL/dl/65975
+#EXTINF:-1,STV Slavonija
+http://fasttvuk.com:2086/DL/dl/65976
+#EXTINF:-1,Osijecka TV
+http://fasttvuk.com:2086/DL/dl/65977
+#EXTINF:-1,SBTV
+http://fasttvuk.com:2086/DL/dl/65978
+#EXTINF:-1,Zdrava Televizija 7
+http://fasttvuk.com:2086/DL/dl/65979
+#EXTINF:-1,Z1
+http://fasttvuk.com:2086/DL/dl/65980
+#EXTINF:-1,TV Nova
+http://fasttvuk.com:2086/DL/dl/65981
+#EXTINF:-1,Ex-Yu: Pink 1
+http://fasttvuk.com:2086/DL/dl/95522
+#EXTINF:-1,Ex-Yu: Pink 2 (Red TV)
+http://fasttvuk.com:2086/DL/dl/95523
+#EXTINF:-1,Ex-Yu: Pink 3
+http://fasttvuk.com:2086/DL/dl/95524
+#EXTINF:-1,Ex-Yu: Pink Film
+http://fasttvuk.com:2086/DL/dl/95525
+#EXTINF:-1,Ex-Yu: Pink Serije
+http://fasttvuk.com:2086/DL/dl/95526
+#EXTINF:-1,Ex-Yu: Pink Movies
+http://fasttvuk.com:2086/DL/dl/95527
+#EXTINF:-1,Ex-Yu: Pink Action
+http://fasttvuk.com:2086/DL/dl/95528
+#EXTINF:-1,Ex-Yu: Pink Comedy
+http://fasttvuk.com:2086/DL/dl/95529
+#EXTINF:-1,Ex-Yu: Pink Horror
+http://fasttvuk.com:2086/DL/dl/95530
+#EXTINF:-1,Ex-Yu: Pink M
+http://fasttvuk.com:2086/DL/dl/95531
+#EXTINF:-1,Ex-Yu: Pink Classic
+http://fasttvuk.com:2086/DL/dl/95532
+#EXTINF:-1,Ex-Yu: Pink Crime & Mystery
+http://fasttvuk.com:2086/DL/dl/95533
+#EXTINF:-1,Ex-Yu: Pink Sci-Fi&Fantasy
+http://fasttvuk.com:2086/DL/dl/95534
+#EXTINF:-1,Ex-Yu:  Pink Thriller
+http://fasttvuk.com:2086/DL/dl/95535
+#EXTINF:-1,Ex-Yu: Pink Western
+http://fasttvuk.com:2086/DL/dl/95536
+#EXTINF:-1,Ex-Yu: Pink Kuvar
+http://fasttvuk.com:2086/DL/dl/95537
+#EXTINF:-1,Ex-Yu: Pink Pedia
+http://fasttvuk.com:2086/DL/dl/95538
+#EXTINF:-1,Ex-Yu: Pink Reality
+http://fasttvuk.com:2086/DL/dl/95539
+#EXTINF:-1,Ex-Yu: Pink Romance
+http://fasttvuk.com:2086/DL/dl/95540
+#EXTINF:-1,Ex-Yu: Pink Premium
+http://fasttvuk.com:2086/DL/dl/95541
+#EXTINF:-1,Ex-Yu: Pink World Cinema
+http://fasttvuk.com:2086/DL/dl/95542
+#EXTINF:-1,Ex-Yu: Pink World
+http://fasttvuk.com:2086/DL/dl/95543
+#EXTINF:-1,Ex-Yu: Pink Show
+http://fasttvuk.com:2086/DL/dl/95544
+#EXTINF:-1,Ex-Yu: Pink BH
+http://fasttvuk.com:2086/DL/dl/95545
+#EXTINF:-1,Ex-Yu: Pink Extra
+http://fasttvuk.com:2086/DL/dl/95546
+#EXTINF:-1,Ex-Yu: Pink Style
+http://fasttvuk.com:2086/DL/dl/95547
+#EXTINF:-1,Ex-Yu: Pink Soap
+http://fasttvuk.com:2086/DL/dl/95548
+#EXTINF:-1,Ex-Yu: Pink Plus
+http://fasttvuk.com:2086/DL/dl/95549
+#EXTINF:-1,Ex-Yu: Pink Fashion
+http://fasttvuk.com:2086/DL/dl/95550
+#EXTINF:-1,Ex-Yu: Pink HaHa
+http://fasttvuk.com:2086/DL/dl/95551
+#EXTINF:-1,Ex-Yu: Pink LoL
+http://fasttvuk.com:2086/DL/dl/95552
+#EXTINF:-1,Ex-Yu: Pink & Roll
+http://fasttvuk.com:2086/DL/dl/95553
+#EXTINF:-1,Ex-Yu: Pink Folk 1
+http://fasttvuk.com:2086/DL/dl/95554
+#EXTINF:-1,Ex-Yu: Pink Folk 2
+http://fasttvuk.com:2086/DL/dl/95555
+#EXTINF:-1,Ex-Yu: Pink Music
+http://fasttvuk.com:2086/DL/dl/95556
+#EXTINF:-1,Ex-Yu: Pink Music 2
+http://fasttvuk.com:2086/DL/dl/95557
+#EXTINF:-1,Ex-Yu: Pink Hits
+http://fasttvuk.com:2086/DL/dl/95558
+#EXTINF:-1,Ex-Yu: Pink Hits 2
+http://fasttvuk.com:2086/DL/dl/95559
+#EXTINF:-1,Ex-Yu: Pink Zabava
+http://fasttvuk.com:2086/DL/dl/95560
+#EXTINF:-1,Ex-Yu:  RTS 1
+http://fasttvuk.com:2086/DL/dl/95561
+#EXTINF:-1,Ex-Yu: RTS 1 HD
+http://fasttvuk.com:2086/DL/dl/95562
+#EXTINF:-1,Ex-Yu: RTS 2
+http://fasttvuk.com:2086/DL/dl/95563
+#EXTINF:-1,Ex-Yu: RTS 3
+http://fasttvuk.com:2086/DL/dl/95564
+#EXTINF:-1,Ex-Yu: RTRS
+http://fasttvuk.com:2086/DL/dl/95565
+#EXTINF:-1,Ex-Yu: RTRS Plus
+http://fasttvuk.com:2086/DL/dl/95566
+#EXTINF:-1,Ex-Yu: RTS Trezor
+http://fasttvuk.com:2086/DL/dl/95567
+#EXTINF:-1,Ex-Yu: RTS Svet
+http://fasttvuk.com:2086/DL/dl/95568
+#EXTINF:-1,Ex-Yu: RTS Muzika
+http://fasttvuk.com:2086/DL/dl/95569
+#EXTINF:-1,Ex-Yu: RTS Kolo
+http://fasttvuk.com:2086/DL/dl/95570
+#EXTINF:-1,Ex-Yu: RTS Zivot
+http://fasttvuk.com:2086/DL/dl/95571
+#EXTINF:-1,Ex-Yu: RTS Drama
+http://fasttvuk.com:2086/DL/dl/95572
+#EXTINF:-1,Ex-Yu: Prva TV
+http://fasttvuk.com:2086/DL/dl/95573
+#EXTINF:-1,Ex-Yu: Prva TV (HD)
+http://fasttvuk.com:2086/DL/dl/95574
+#EXTINF:-1,Ex-Yu: Prva Plus
+http://fasttvuk.com:2086/DL/dl/95575
+#EXTINF:-1,Ex-Yu: Prva Kick
+http://fasttvuk.com:2086/DL/dl/95576
+#EXTINF:-1,Ex-Yu: Prva Max
+http://fasttvuk.com:2086/DL/dl/95577
+#EXTINF:-1,Ex-Yu: Prva World
+http://fasttvuk.com:2086/DL/dl/95578
+#EXTINF:-1,Ex-Yu: Prva Files
+http://fasttvuk.com:2086/DL/dl/95579
+#EXTINF:-1,Ex-Yu: Nova M
+http://fasttvuk.com:2086/DL/dl/95580
+#EXTINF:-1,Ex-Yu: StarTV
+http://fasttvuk.com:2086/DL/dl/95581
+#EXTINF:-1,Ex-Yu: PickBox TV
+http://fasttvuk.com:2086/DL/dl/95582
+#EXTINF:-1,Ex-Yu: Narodna Televizija
+http://fasttvuk.com:2086/DL/dl/95583
+#EXTINF:-1,Ex-Yu: SOS Kanal
+http://fasttvuk.com:2086/DL/dl/95584
+#EXTINF:-1,Ex-Yu: TLC
+http://fasttvuk.com:2086/DL/dl/95585
+#EXTINF:-1,Ex-Yu: Studio B
+http://fasttvuk.com:2086/DL/dl/95586
+#EXTINF:-1,Ex-Yu:  b92
+http://fasttvuk.com:2086/DL/dl/95587
+#EXTINF:-1,Ex-Yu: Nova S
+http://fasttvuk.com:2086/DL/dl/95588
+#EXTINF:-1,Ex-Yu: SciFi
+http://fasttvuk.com:2086/DL/dl/95589
+#EXTINF:-1,Ex-Yu: Duga TV
+http://fasttvuk.com:2086/DL/dl/95590
+#EXTINF:-1,Ex-Yu: E!  Enteriament
+http://fasttvuk.com:2086/DL/dl/95591
+#EXTINF:-1,Ex-Yu: AMC
+http://fasttvuk.com:2086/DL/dl/95592
+#EXTINF:-1,Ex-Yu: RTV 1
+http://fasttvuk.com:2086/DL/dl/95593
+#EXTINF:-1,Ex-Yu: RTV 2
+http://fasttvuk.com:2086/DL/dl/95594
+#EXTINF:-1,Ex-Yu: OTV Valentino
+http://fasttvuk.com:2086/DL/dl/95595
+#EXTINF:-1,Ex-Yu: Happy TV
+http://fasttvuk.com:2086/DL/dl/95596
+#EXTINF:-1,Ex-Yu: Laudaato TV
+http://fasttvuk.com:2086/DL/dl/95597
+#EXTINF:-1,Ex-Yu: RTV Bor
+http://fasttvuk.com:2086/DL/dl/95598
+#EXTINF:-1,Ex-Yu: TV Balkan
+http://fasttvuk.com:2086/DL/dl/95599
+#EXTINF:-1,Ex-Yu: MAG TV
+http://fasttvuk.com:2086/DL/dl/95600
+#EXTINF:-1,Ex-Yu: Sandzacka TV Mreza
+http://fasttvuk.com:2086/DL/dl/95601
+#EXTINF:-1,Ex-Yu: Super SAT
+http://fasttvuk.com:2086/DL/dl/95602
+#EXTINF:-1,Ex-Yu: K1 TV
+http://fasttvuk.com:2086/DL/dl/95603
+#EXTINF:-1,Ex-Yu: Dobra Exlusive
+http://fasttvuk.com:2086/DL/dl/95604
+#EXTINF:-1,Ex-Yu: Zadruga 1 Live
+http://fasttvuk.com:2086/DL/dl/95605
+#EXTINF:-1,Ex-Yu: Zadruga 2 Live
+http://fasttvuk.com:2086/DL/dl/95606
+#EXTINF:-1,Ex-Yu: Zadruga Live 3
+http://fasttvuk.com:2086/DL/dl/95607
+#EXTINF:-1,Ex-Yu: Zadruga Live 4
+http://fasttvuk.com:2086/DL/dl/95608
+#EXTINF:-1,Ex-Yu: TV Parovi 24/7
+http://fasttvuk.com:2086/DL/dl/95609
+#EXTINF:-1,Ex-Yu: Happy Parovi Live 24/7
+http://fasttvuk.com:2086/DL/dl/95610
+#EXTINF:-1,Ex-Yu: N1
+http://fasttvuk.com:2086/DL/dl/95611
+#EXTINF:-1,Ex-Yu: Banovina TV
+http://fasttvuk.com:2086/DL/dl/95612
+#EXTINF:-1,Ex-Yu: MRT 1
+http://fasttvuk.com:2086/DL/dl/95613
+#EXTINF:-1,Ex-Yu: MRT 2
+http://fasttvuk.com:2086/DL/dl/95614
+#EXTINF:-1,Ex-Yu: SITEL (HD)
+http://fasttvuk.com:2086/DL/dl/95615
+#EXTINF:-1,Ex-Yu: SITEL
+http://fasttvuk.com:2086/DL/dl/95616
+#EXTINF:-1,Ex-Yu: MRT 3
+http://fasttvuk.com:2086/DL/dl/95617
+#EXTINF:-1,Ex-Yu: Kanal 5
+http://fasttvuk.com:2086/DL/dl/95618
+#EXTINF:-1,Ex-Yu: Alfa
+http://fasttvuk.com:2086/DL/dl/95619
+#EXTINF:-1,Ex-Yu: Telma
+http://fasttvuk.com:2086/DL/dl/95620
+#EXTINF:-1,Ex-Yu: 24 Vesti
+http://fasttvuk.com:2086/DL/dl/95621
+#EXTINF:-1,Ex-Yu: Shutel
+http://fasttvuk.com:2086/DL/dl/95622
+#EXTINF:-1,Ex-Yu: Nasa TV
+http://fasttvuk.com:2086/DL/dl/95623
+#EXTINF:-1,Ex-Yu: TV Sonce
+http://fasttvuk.com:2086/DL/dl/95624
+#EXTINF:-1,Ex-Yu: Macedonia Online
+http://fasttvuk.com:2086/DL/dl/95625
+#EXTINF:-1,Ex-Yu: Sobraniski Kanal
+http://fasttvuk.com:2086/DL/dl/95626
+#EXTINF:-1,Ex-Yu: Kanal 21
+http://fasttvuk.com:2086/DL/dl/95627
+#EXTINF:-1,Ex-Yu: TV Kumanovo
+http://fasttvuk.com:2086/DL/dl/95628
+#EXTINF:-1,Ex-Yu: Makedonska TV
+http://fasttvuk.com:2086/DL/dl/95629
+#EXTINF:-1,Ex-Yu: ALSAT M
+http://fasttvuk.com:2086/DL/dl/95630
+#EXTINF:-1,Ex-Yu: EDO
+http://fasttvuk.com:2086/DL/dl/95631
+#EXTINF:-1,Ex-Yu: Kanal 5 -Reserve
+http://fasttvuk.com:2086/DL/dl/95632
+#EXTINF:-1,Ex-Yu: MTM Skopska
+http://fasttvuk.com:2086/DL/dl/95633
+#EXTINF:-1,Ex-Yu: Hugo 1
+http://fasttvuk.com:2086/DL/dl/95634
+#EXTINF:-1,Ex-Yu: Hugo 2
+http://fasttvuk.com:2086/DL/dl/95635
+#EXTINF:-1,Ex-Yu: RTV USK
+http://fasttvuk.com:2086/DL/dl/95636
+#EXTINF:-1,Ex-Yu: TV Sarajevo
+http://fasttvuk.com:2086/DL/dl/95637
+#EXTINF:-1,Ex-Yu: Sehara Film
+http://fasttvuk.com:2086/DL/dl/95638
+#EXTINF:-1,Ex-Yu: O Kanal
+http://fasttvuk.com:2086/DL/dl/95639
+#EXTINF:-1,Ex-Yu: RTV Zenica
+http://fasttvuk.com:2086/DL/dl/95640
+#EXTINF:-1,Ex-Yu: Posavina TV
+http://fasttvuk.com:2086/DL/dl/95641
+#EXTINF:-1,Ex-Yu: OBN
+http://fasttvuk.com:2086/DL/dl/95642
+#EXTINF:-1,Ex-Yu: Novi Pazar
+http://fasttvuk.com:2086/DL/dl/95643
+#EXTINF:-1,Ex-Yu: Nova BiH
+http://fasttvuk.com:2086/DL/dl/95644
+#EXTINF:-1,Ex-Yu: N1
+http://fasttvuk.com:2086/DL/dl/95645
+#EXTINF:-1,Ex-Yu: MTV Igman
+http://fasttvuk.com:2086/DL/dl/95646
+#EXTINF:-1,Ex-Yu: TV TK
+http://fasttvuk.com:2086/DL/dl/95647
+#EXTINF:-1,Ex-Yu: Moj Kanal
+http://fasttvuk.com:2086/DL/dl/95648
+#EXTINF:-1,Ex-Yu: Izvorna TV
+http://fasttvuk.com:2086/DL/dl/95649
+#EXTINF:-1,Ex-Yu: Hayat TV
+http://fasttvuk.com:2086/DL/dl/95650
+#EXTINF:-1,Ex-Yu: Hayat Plus
+http://fasttvuk.com:2086/DL/dl/95651
+#EXTINF:-1,Ex-Yu: Glas Drine
+http://fasttvuk.com:2086/DL/dl/95652
+#EXTINF:-1,Ex-Yu: Federalna TV
+http://fasttvuk.com:2086/DL/dl/95653
+#EXTINF:-1,Ex-Yu: Face TV
+http://fasttvuk.com:2086/DL/dl/95654
+#EXTINF:-1,Ex-Yu: Diva
+http://fasttvuk.com:2086/DL/dl/95655
+#EXTINF:-1,Ex-Yu: BHT 1
+http://fasttvuk.com:2086/DL/dl/95656
+#EXTINF:-1,Ex-Yu: BN Televizija
+http://fasttvuk.com:2086/DL/dl/95657
+#EXTINF:-1,Ex-Yu: Alternativna TV
+http://fasttvuk.com:2086/DL/dl/95658
+#EXTINF:-1,Ex-Yu: Aljazeera Balkans
+http://fasttvuk.com:2086/DL/dl/95659
+#EXTINF:-1,CG: RTCG Sat
+http://fasttvuk.com:2086/DL/dl/95660
+#EXTINF:-1,CG: RTCG 2
+http://fasttvuk.com:2086/DL/dl/95661
+#EXTINF:-1,CG: RTCG 1
+http://fasttvuk.com:2086/DL/dl/95662
+#EXTINF:-1,CG: TV Vijesti
+http://fasttvuk.com:2086/DL/dl/95663
+#EXTINF:-1,Ex-Yu: HTV 1
+http://fasttvuk.com:2086/DL/dl/95664
+#EXTINF:-1,Ex-Yu: HTV 2
+http://fasttvuk.com:2086/DL/dl/95665
+#EXTINF:-1,Ex-Yu: HRT 3
+http://fasttvuk.com:2086/DL/dl/95666
+#EXTINF:-1,Ex-Yu: HRT 4
+http://fasttvuk.com:2086/DL/dl/95667
+#EXTINF:-1,Ex-Yu: HRT international
+http://fasttvuk.com:2086/DL/dl/95668
+#EXTINF:-1,Ex-Yu: RTL
+http://fasttvuk.com:2086/DL/dl/95669
+#EXTINF:-1,Ex-Yu: RTL 2
+http://fasttvuk.com:2086/DL/dl/95670
+#EXTINF:-1,Ex-Yu: RTL Crime
+http://fasttvuk.com:2086/DL/dl/95671
+#EXTINF:-1,Ex-Yu: RTL Living
+http://fasttvuk.com:2086/DL/dl/95672
+#EXTINF:-1,Ex-Yu: RTL Passion
+http://fasttvuk.com:2086/DL/dl/95673
+#EXTINF:-1,Ex-Yu: RTL Adria
+http://fasttvuk.com:2086/DL/dl/95674
+#EXTINF:-1,Ex-Yu: Nova TV (HD)
+http://fasttvuk.com:2086/DL/dl/95675
+#EXTINF:-1,Ex-Yu: NOVA
+http://fasttvuk.com:2086/DL/dl/95676
+#EXTINF:-1,Ex-Yu:  FOX
+http://fasttvuk.com:2086/DL/dl/95677
+#EXTINF:-1,Ex-Yu: FOX Life
+http://fasttvuk.com:2086/DL/dl/95678
+#EXTINF:-1,Ex-Yu: FOX Crime
+http://fasttvuk.com:2086/DL/dl/95679
+#EXTINF:-1,Ex-Yu: FOX Movies
+http://fasttvuk.com:2086/DL/dl/95680
+#EXTINF:-1,Ex-Yu: TV Palma Plus Jagodina
+http://fasttvuk.com:2086/DL/dl/95681
+#EXTINF:-1,Bravo Music
+http://fasttvuk.com:2086/DL/dl/95682
+#EXTINF:-1,Ex-Yu: Doma TV
+http://fasttvuk.com:2086/DL/dl/95683
+#EXTINF:-1,Ex-Yu: Z1
+http://fasttvuk.com:2086/DL/dl/95684
+#EXTINF:-1,Ex-Yu: Narodni TV
+http://fasttvuk.com:2086/DL/dl/95685
+#EXTINF:-1,Ex-Yu: HBO
+http://fasttvuk.com:2086/DL/dl/95686
+#EXTINF:-1,Ex-Yu: HBO 2
+http://fasttvuk.com:2086/DL/dl/95687
+#EXTINF:-1,Ex-Yu: HBO 3
+http://fasttvuk.com:2086/DL/dl/95688
+#EXTINF:-1,Ex-Yu: Kino TV
+http://fasttvuk.com:2086/DL/dl/95689
+#EXTINF:-1,Ex-Yu: Cinestar TV
+http://fasttvuk.com:2086/DL/dl/95690
+#EXTINF:-1,Ex-Yu: Cinemania
+http://fasttvuk.com:2086/DL/dl/95691
+#EXTINF:-1,Ex-Yu: Cinestar TV 2
+http://fasttvuk.com:2086/DL/dl/95692
+#EXTINF:-1,Ex-Yu: Cinestar Comedy
+http://fasttvuk.com:2086/DL/dl/95693
+#EXTINF:-1,Ex-Yu: Cinestar Premiere 1
+http://fasttvuk.com:2086/DL/dl/95694
+#EXTINF:-1,Ex-Yu: Cinestar Premiere 2
+http://fasttvuk.com:2086/DL/dl/95695
+#EXTINF:-1,Ex-Yu: Cinestar Action
+http://fasttvuk.com:2086/DL/dl/95696
+#EXTINF:-1,Ex-Yu: Cinestar Fantasy
+http://fasttvuk.com:2086/DL/dl/95697
+#EXTINF:-1,Ex-Yu: Film Klub
+http://fasttvuk.com:2086/DL/dl/95698
+#EXTINF:-1,Ex-Yu:  M1 Film
+http://fasttvuk.com:2086/DL/dl/95699
+#EXTINF:-1,FILM: M1 Film
+http://fasttvuk.com:2086/DL/dl/95700
+#EXTINF:-1,M1 Film Gold
+http://fasttvuk.com:2086/DL/dl/95701
+#EXTINF:-1,M1 Family
+http://fasttvuk.com:2086/DL/dl/95702
+#EXTINF:-1,Ex-Yu: TV 1000
+http://fasttvuk.com:2086/DL/dl/95703
+#EXTINF:-1,Ex-Yu: AXN
+http://fasttvuk.com:2086/DL/dl/95704
+#EXTINF:-1,Ex-Yu: AXN Spin
+http://fasttvuk.com:2086/DL/dl/95705
+#EXTINF:-1,Ex-Yu: Klasik TV
+http://fasttvuk.com:2086/DL/dl/95706
+#EXTINF:-1,Ex-Yu: Cinemax 1
+http://fasttvuk.com:2086/DL/dl/95707
+#EXTINF:-1,Ex-Yu: Filmbox Extra
+http://fasttvuk.com:2086/DL/dl/95709
+#EXTINF:-1,Ex-Yu: Filmbox Plus
+http://fasttvuk.com:2086/DL/dl/95710
+#EXTINF:-1,Ex-Yu: : Cineplex
+http://fasttvuk.com:2086/DL/dl/95711
+#EXTINF:-1,MAXCRO Select Gold
+http://fasttvuk.com:2086/DL/dl/95712
+#EXTINF:-1,MAXCRO Select Kino HD
+http://fasttvuk.com:2086/DL/dl/95713
+#EXTINF:-1,MAXCRO Select Horror HD
+http://fasttvuk.com:2086/DL/dl/95714
+#EXTINF:-1,Ex-Yu: MAXCRO Select 1
+http://fasttvuk.com:2086/DL/dl/95715
+#EXTINF:-1,Ex-Yu: MAXCRO Select 2
+http://fasttvuk.com:2086/DL/dl/95716
+#EXTINF:-1,Ex-Yu: MAXCRO Select 3
+http://fasttvuk.com:2086/DL/dl/95717
+#EXTINF:-1,Ex-Yu: MAXCRO Select 4
+http://fasttvuk.com:2086/DL/dl/95718
+#EXTINF:-1,Ex-Yu: MAXCRO Select 5
+http://fasttvuk.com:2086/DL/dl/95719
+#EXTINF:-1,Ex-Yu: MAXCRO Select  6
+http://fasttvuk.com:2086/DL/dl/95720
+#EXTINF:-1,Ex-Yu: MAXCRO Select 7
+http://fasttvuk.com:2086/DL/dl/95721
+#EXTINF:-1,Ex-Yu: MAXCRO Select 8
+http://fasttvuk.com:2086/DL/dl/95722
+#EXTINF:-1,Ex-Yu: National Geographic
+http://fasttvuk.com:2086/DL/dl/95723
+#EXTINF:-1,Ex-Yu: National Geographic Wild
+http://fasttvuk.com:2086/DL/dl/95724
+#EXTINF:-1,Ex-Yu: History Channel
+http://fasttvuk.com:2086/DL/dl/95725
+#EXTINF:-1,Ex-Yu: ID Xtra
+http://fasttvuk.com:2086/DL/dl/95726
+#EXTINF:-1,Ex-Yu: Crime & Investigation
+http://fasttvuk.com:2086/DL/dl/95727
+#EXTINF:-1,Ex-Yu: Lov & Ribolov
+http://fasttvuk.com:2086/DL/dl/95728
+#EXTINF:-1,Ex-Yu: CBS Reality
+http://fasttvuk.com:2086/DL/dl/95729
+#EXTINF:-1,Ex-Yu: DokuTV
+http://fasttvuk.com:2086/DL/dl/95730
+#EXTINF:-1,Ex-Yu: DocuBox
+http://fasttvuk.com:2086/DL/dl/95731
+#EXTINF:-1,Ex-Yu: Discovery Channel
+http://fasttvuk.com:2086/DL/dl/95732
+#EXTINF:-1,Ex-Yu: Discovery Science
+http://fasttvuk.com:2086/DL/dl/95733
+#EXTINF:-1,Ex-Yu: Animal Planet
+http://fasttvuk.com:2086/DL/dl/95734
+#EXTINF:-1,Ex-Yu: History 2
+http://fasttvuk.com:2086/DL/dl/95735
+#EXTINF:-1,Ex-Yu: 24 Kitchen
+http://fasttvuk.com:2086/DL/dl/95736
+#EXTINF:-1,Ex-Yu: Viasat Explore
+http://fasttvuk.com:2086/DL/dl/95737
+#EXTINF:-1,Ex-Yu: Viasat History
+http://fasttvuk.com:2086/DL/dl/95738
+#EXTINF:-1,Ex-Yu: Viasat Nature
+http://fasttvuk.com:2086/DL/dl/95739
+#EXTINF:-1,Ex-Yu: BBC Entertainment
+http://fasttvuk.com:2086/DL/dl/95740
+#EXTINF:-1,Ex-Yu: Da Vinci Learning
+http://fasttvuk.com:2086/DL/dl/95741
+#EXTINF:-1,VIP Arena Sport 1 srb FHD
+http://fasttvuk.com:2086/DL/dl/120120
+#EXTINF:-1,VIP Arena Sport 2 srb FHD
+http://fasttvuk.com:2086/DL/dl/120121
+#EXTINF:-1,VIP Arena Sport 3 srb FHD
+http://fasttvuk.com:2086/DL/dl/120123
+#EXTINF:-1,VIP Arena Sport 4 srb FHD
+http://fasttvuk.com:2086/DL/dl/120125
+#EXTINF:-1,VIP Arena Sport 5 srb FHD
+http://fasttvuk.com:2086/DL/dl/120126
+#EXTINF:-1,VIP Arena Sport 6 FHD
+http://fasttvuk.com:2086/DL/dl/120127
+#EXTINF:-1,Sport Klub HD HR
+http://fasttvuk.com:2086/DL/dl/120142
+#EXTINF:-1,Sport Klub 1 HR
+http://fasttvuk.com:2086/DL/dl/120143
+#EXTINF:-1,Sport Klub 2 HR
+http://fasttvuk.com:2086/DL/dl/120145
+#EXTINF:-1,Sport Klub 2 HR HD
+http://fasttvuk.com:2086/DL/dl/120146
+#EXTINF:-1,Sport Klub 3 HR
+http://fasttvuk.com:2086/DL/dl/120147
+#EXTINF:-1,Sport Klub 3 HR HD
+http://fasttvuk.com:2086/DL/dl/120149
+#EXTINF:-1,Sport Klub 4 HR
+http://fasttvuk.com:2086/DL/dl/120150
+#EXTINF:-1,Sport Klub 4 HR HD
+http://fasttvuk.com:2086/DL/dl/120151
+#EXTINF:-1,Sport Klub 5 HR
+http://fasttvuk.com:2086/DL/dl/120152
+#EXTINF:-1,Sport Klub 6 HR
+http://fasttvuk.com:2086/DL/dl/120153
+#EXTINF:-1,Sport Klub HD SR
+http://fasttvuk.com:2086/DL/dl/120154
+#EXTINF:-1,Sport Klub 1 SR
+http://fasttvuk.com:2086/DL/dl/120155
+#EXTINF:-1,Sport Klub 1 SR HD
+http://fasttvuk.com:2086/DL/dl/120156
+#EXTINF:-1,Sport Klub 2 SR
+http://fasttvuk.com:2086/DL/dl/120157
+#EXTINF:-1,Sport Klub 2 SR HD
+http://fasttvuk.com:2086/DL/dl/120158
+#EXTINF:-1,Sport Klub 3 SR
+http://fasttvuk.com:2086/DL/dl/120159
+#EXTINF:-1,Sport Klub 3 SR HD
+http://fasttvuk.com:2086/DL/dl/120160
+#EXTINF:-1,Sport Klub 4 SR
+http://fasttvuk.com:2086/DL/dl/120161
+#EXTINF:-1,Sport Klub 4 SR HD
+http://fasttvuk.com:2086/DL/dl/120162
+#EXTINF:-1,Sport Klub 5 SR
+http://fasttvuk.com:2086/DL/dl/120163
+#EXTINF:-1,Sport Klub 6 SR
+http://fasttvuk.com:2086/DL/dl/120164
+#EXTINF:-1,Sport Klub 7 SR
+http://fasttvuk.com:2086/DL/dl/120166
+#EXTINF:-1,Sport Klub 8 SR
+http://fasttvuk.com:2086/DL/dl/120167
+#EXTINF:-1,Sport Klub 9 SR
+http://fasttvuk.com:2086/DL/dl/120168
+#EXTINF:-1,Sport Klub 10 SR
+http://fasttvuk.com:2086/DL/dl/120169
