@@ -1,4 +1,836 @@
 #EXTM3U
+#EXTINF:-1 group-title="BIH / BOSNIA",FEDERALNA TV HD
+http://ott.dobratv.net:25461/emina/12345/14185
+#EXTINF:-1 group-title="PINK MEDIA" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/PINK-logo.jpg",PINK SRBIJA
+http://ott.dobratv.net:25461/emina/12345/6492
+#EXTINF:-1 group-title="PINK MEDIA",RED TV
+http://ott.dobratv.net:25461/emina/12345/7671
+#EXTINF:-1 group-title="PINK MEDIA",PINK VESTI
+http://ott.dobratv.net:25461/emina/12345/2185
+#EXTINF:-1 group-title="PINK MEDIA",PINK PLUS
+http://ott.dobratv.net:25461/emina/12345/2186
+#EXTINF:-1 group-title="PINK MEDIA",PINK SCI FI & FANTASY
+http://ott.dobratv.net:25461/emina/12345/2194
+#EXTINF:-1 group-title="PINK MEDIA",PINK ACTION
+http://ott.dobratv.net:25461/emina/12345/2337
+#EXTINF:-1 group-title="PINK MEDIA",PINK PREMIUM
+http://ott.dobratv.net:25461/emina/12345/2579
+#EXTINF:-1 group-title="PINK MEDIA",PINK THRILLER
+http://ott.dobratv.net:25461/emina/12345/6485
+#EXTINF:-1 group-title="PINK MEDIA",PINK WESTERN
+http://ott.dobratv.net:25461/emina/12345/2338
+#EXTINF:-1 group-title="PINK MEDIA",PINK FILM
+http://ott.dobratv.net:25461/emina/12345/2189
+#EXTINF:-1 group-title="PINK MEDIA",PINK HOROR
+http://ott.dobratv.net:25461/emina/12345/2190
+#EXTINF:-1 group-title="PINK MEDIA",PINK MOVIES
+http://ott.dobratv.net:25461/emina/12345/2191
+#EXTINF:-1 group-title="PINK MEDIA",PINK CRIME & MYSTERY
+http://ott.dobratv.net:25461/emina/12345/2192
+#EXTINF:-1 group-title="PINK MEDIA",PINK WORLD CINEMA
+http://ott.dobratv.net:25461/emina/12345/2200
+#EXTINF:-1 group-title="PINK MEDIA",PINK COMEDY
+http://ott.dobratv.net:25461/emina/12345/6484
+#EXTINF:-1 group-title="PINK MEDIA",PINK WORLD
+http://ott.dobratv.net:25461/emina/12345/2193
+#EXTINF:-1 group-title="PINK MEDIA",PINK CLASSIC
+http://ott.dobratv.net:25461/emina/12345/2195
+#EXTINF:-1 group-title="PINK MEDIA",PINK ROMANCE
+http://ott.dobratv.net:25461/emina/12345/2196
+#EXTINF:-1 group-title="PINK MEDIA",PINK ZABAVA
+http://ott.dobratv.net:25461/emina/12345/2197
+#EXTINF:-1 group-title="PINK MEDIA",PINK KUVAR
+http://ott.dobratv.net:25461/emina/12345/2198
+#EXTINF:-1 group-title="PINK MEDIA",PINK PEDIA
+http://ott.dobratv.net:25461/emina/12345/2201
+#EXTINF:-1 group-title="PINK MEDIA",PINK LOL
+http://ott.dobratv.net:25461/emina/12345/2202
+#EXTINF:-1 group-title="PINK MEDIA",PINK HAHA
+http://ott.dobratv.net:25461/emina/12345/2203
+#EXTINF:-1 group-title="PINK MEDIA",PINK FOLK 1
+http://ott.dobratv.net:25461/emina/12345/2205
+#EXTINF:-1 group-title="PINK MEDIA",PINK FOLK 2
+http://ott.dobratv.net:25461/emina/12345/2206
+#EXTINF:-1 group-title="PINK MEDIA",PINK EXTRA
+http://ott.dobratv.net:25461/emina/12345/6483
+#EXTINF:-1 group-title="PINK MEDIA",PINK SERIJE
+http://ott.dobratv.net:25461/emina/12345/6486
+#EXTINF:-1 group-title="PINK MEDIA",PINK FAMILLY
+http://ott.dobratv.net:25461/emina/12345/6487
+#EXTINF:-1 group-title="PINK MEDIA" tvg-logo="https://totaltv.tv/oec/images/tv_channels/966e01ecdb06508264819cee6202a559.png",PINK KONCERT
+http://ott.dobratv.net:25461/emina/12345/6490
+#EXTINF:-1 group-title="PINK MEDIA" tvg-logo="https://totaltv.tv/oec/images/tv_channels/9ff3c6a652c0fd68c1ce39d2d8ef712a.png",PINK HITS 2
+http://ott.dobratv.net:25461/emina/12345/6491
+#EXTINF:-1 group-title="PINK MEDIA" tvg-logo="https://w0.pngwave.com/png/325/552/satellite-television-pink-soap-rtv-pink-telemach-tv-program-logo-png-clip-art.png",PINK SOAP
+http://ott.dobratv.net:25461/emina/12345/7269
+#EXTINF:-1 group-title="PINK MEDIA",PINK REALITY
+http://ott.dobratv.net:25461/emina/12345/13758
+#EXTINF:-1 group-title="RADIO STANICE / STATIONS / EMISORAS",Radio Arberia
+http://ott.dobratv.net:25461/emina/12345/6528
+#EXTINF:-1 group-title="RADIO STANICE / STATIONS / EMISORAS",RADIO RED
+http://ott.dobratv.net:25461/emina/12345/13945
+#EXTINF:-1 group-title="FILMSKI / MOVIE /  PELÍCULA",MAXCRO SELECT 7 HD
+http://ott.dobratv.net:25461/emina/12345/14197
+#EXTINF:-1 group-title="FILMSKI / MOVIE /  PELÍCULA",MAXCRO PREMIUM HD
+http://ott.dobratv.net:25461/emina/12345/14198
+#EXTINF:-1 group-title="SHQIP / ALBANIAN / ALBANES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/89/KINO_TV_WERSJE-01.jpg",Film Aksion
+http://ott.dobratv.net:25461/emina/12345/7500
+#EXTINF:-1 group-title="SHQIP / ALBANIAN / ALBANES" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQrce-LopOnQedq85qwrNDicUXX1OBeZ2nvjH0p45bXTbWB6HzW8aLPQEuFA&s",Rtv Uskana
+http://ott.dobratv.net:25461/emina/12345/7507
+#EXTINF:-1 group-title="SHQIP / ALBANIAN / ALBANES" tvg-logo="http://www.albepg.com/tvlogi/Dasma%20TV.png",Tv Dasma
+http://ott.dobratv.net:25461/emina/12345/6785
+#EXTINF:-1 group-title="SHQIP / ALBANIAN / ALBANES" tvg-logo="https://imagehost.imageupload.net/2020/06/07/Screenshot_20200607-131906_DigitalTV.jpg",Albanian TV Chicago
+http://ott.dobratv.net:25461/emina/12345/7336
+#EXTINF:-1 group-title="SHQIP / ALBANIAN / ALBANES" tvg-logo="https://static.wixstatic.com/media/0e5f34_0a290ac05fe04ef3b9f8d4950eff04d0~mv2.png",Mtv Hits KS
+http://ott.dobratv.net:25461/emina/12345/7368
+#EXTINF:-1 group-title="SHQIP / ALBANIAN / ALBANES" tvg-logo="http://www.albepg.com/tvlogi/ERA%20TV.png",EraTV
+http://ott.dobratv.net:25461/emina/12345/7441
+#EXTINF:-1 group-title="AUSTRIJA / AUSTRIA",ORF 1
+http://ott.dobratv.net:25461/emina/12345/13038
+#EXTINF:-1 group-title="AUSTRIJA / AUSTRIA",ORF 2
+http://ott.dobratv.net:25461/emina/12345/13039
+#EXTINF:-1 group-title="AUSTRIJA / AUSTRIA",ORF 3
+http://ott.dobratv.net:25461/emina/12345/13040
+#EXTINF:-1 group-title="NJEMAČKI / GERMAN / ALEMANIA",RTL
+http://ott.dobratv.net:25461/emina/12345/14189
+#EXTINF:-1 group-title="NJEMAČKI / GERMAN / ALEMANIA",RTL 2
+http://ott.dobratv.net:25461/emina/12345/14190
+#EXTINF:-1 group-title="NJEMAČKI / GERMAN / ALEMANIA",SAT 1
+http://ott.dobratv.net:25461/emina/12345/14191
+#EXTINF:-1 group-title="NJEMAČKI / GERMAN / ALEMANIA",VOX TV
+http://ott.dobratv.net:25461/emina/12345/14192
+#EXTINF:-1 group-title="BIH / BOSNIA" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/hayat-hd_logo.png",HAYAT HD
+http://ott.dobratv.net:25461/emina/12345/104
+#EXTINF:-1 group-title="BIH / BOSNIA" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/TV_Slon_Extra_logo.png",RTV SLON HD
+http://ott.dobratv.net:25461/emina/12345/2223
+#EXTINF:-1 group-title="BIH / BOSNIA" tvg-logo="https://yt3.ggpht.com/a/AGF-l7_E9Pr0rbOyO-pEfHCp0ovTWrP45-nLMpBUZQ=s240-c-k-c0xffffffff-no-rj-mo",ELTA HD
+http://ott.dobratv.net:25461/emina/12345/6902
+#EXTINF:-1 group-title="BIH / BOSNIA",NTV JATA SREBRENIK
+http://ott.dobratv.net:25461/emina/12345/13952
+#EXTINF:-1 group-title="SRBIJA / SERBIA",O2 TV
+http://ott.dobratv.net:25461/emina/12345/13953
+#EXTINF:-1 group-title="BIH / BOSNIA",N1 BIH
+http://ott.dobratv.net:25461/emina/12345/14182
+#EXTINF:-1 group-title="BIH / BOSNIA",NOVA BH
+http://ott.dobratv.net:25461/emina/12345/14183
+#EXTINF:-1 group-title="SRBIJA / SERBIA" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/4/49/Prva_Max_%282016%29.svg/revision/latest/scale-to-width-down/340?cb=20200219163542",PRVA MAX
+http://ott.dobratv.net:25461/emina/12345/6917
+#EXTINF:-1 group-title="SRBIJA / SERBIA" tvg-logo="https://tvprofil.com/img/kanali-logo/PRVA-KICK_logo.png",PRVA KICK
+http://ott.dobratv.net:25461/emina/12345/6918
+#EXTINF:-1 group-title="SRBIJA / SERBIA",PRVA PLUS
+http://ott.dobratv.net:25461/emina/12345/6919
+#EXTINF:-1 group-title="SRBIJA / SERBIA" tvg-logo="https://tvprofil.com/img/kanali-logo/Prva_FILES_logo.png",PRVA FILES
+http://ott.dobratv.net:25461/emina/12345/6920
+#EXTINF:-1 group-title="SRBIJA / SERBIA" tvg-logo="https://tvprofil.com/img/kanali-logo/Prva_LIFE_logo.png",PRVA LIFE
+http://ott.dobratv.net:25461/emina/12345/6921
+#EXTINF:-1 group-title="SRBIJA / SERBIA" tvg-logo="https://lh3.googleusercontent.com/proxy/AB7MeRLuBYTiDuYBX3XxM4PFm4lOU9stK4OszMdVQNw324vrGuyx6Jko7Oj8zxIi0kkIXZUH2d4opBdw6160E7BLZI1-BgiDxCrQfv42ntXRVbriRFdK7JXRtsM",KCN 1
+http://ott.dobratv.net:25461/emina/12345/6950
+#EXTINF:-1 group-title="SRBIJA / SERBIA" tvg-logo="http://kliktv.rs/channels/kcn_2.png",KCN 2
+http://ott.dobratv.net:25461/emina/12345/6951
+#EXTINF:-1 group-title="SRBIJA / SERBIA" tvg-logo="http://kliktv.rs/channels/kcn_3.png",KCN 3
+http://ott.dobratv.net:25461/emina/12345/6952
+#EXTINF:-1 group-title="SRBIJA / SERBIA" tvg-logo="https://www.pikanal.rs/wp-content/uploads/2013/03/Picanal-logo.png",PI KANAL
+http://ott.dobratv.net:25461/emina/12345/7063
+#EXTINF:-1 group-title="SRBIJA / SERBIA",NOVA S
+http://ott.dobratv.net:25461/emina/12345/14201
+#EXTINF:-1 group-title="SRBIJA / SERBIA",KURIR TV
+http://ott.dobratv.net:25461/emina/12345/14202
+#EXTINF:-1 group-title="SRBIJA / SERBIA",N1 SRBIJA
+http://ott.dobratv.net:25461/emina/12345/14203
+#EXTINF:-1 group-title="HRVATSKA / CROATIA / CROACIA" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/z1-logo.png",Z1
+http://ott.dobratv.net:25461/emina/12345/6851
+#EXTINF:-1 group-title="HRVATSKA / CROATIA / CROACIA" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/kanalr-logo.png",KANAL RI
+http://ott.dobratv.net:25461/emina/12345/6852
+#EXTINF:-1 group-title="HRVATSKA / CROATIA / CROACIA",HRT 1
+http://ott.dobratv.net:25461/emina/12345/14178
+#EXTINF:-1 group-title="HRVATSKA / CROATIA / CROACIA",HRT 2
+http://ott.dobratv.net:25461/emina/12345/14179
+#EXTINF:-1 group-title="HRVATSKA / CROATIA / CROACIA",HRT 3
+http://ott.dobratv.net:25461/emina/12345/14180
+#EXTINF:-1 group-title="HRVATSKA / CROATIA / CROACIA",HRT 4
+http://ott.dobratv.net:25461/emina/12345/14181
+#EXTINF:-1 group-title="CRNA GORA / MONTENEGRO" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/Pink_M_logo.png",PINK M
+http://ott.dobratv.net:25461/emina/12345/2187
+#EXTINF:-1 group-title="CRNA GORA / MONTENEGRO",GRADSKA TV
+http://ott.dobratv.net:25461/emina/12345/14184
+#EXTINF:-1 group-title="MAKEDONIJA / MACEDONIA",MRT 3
+http://ott.dobratv.net:25461/emina/12345/13046
+#EXTINF:-1 group-title="MAKEDONIJA / MACEDONIA",H 1
+http://ott.dobratv.net:25461/emina/12345/13218
+#EXTINF:-1 group-title="MAKEDONIJA / MACEDONIA",H 2
+http://ott.dobratv.net:25461/emina/12345/13219
+#EXTINF:-1 group-title="MAKEDONIJA / MACEDONIA",H 3
+http://ott.dobratv.net:25461/emina/12345/13220
+#EXTINF:-1 group-title="MAKEDONIJA / MACEDONIA",H 4
+http://ott.dobratv.net:25461/emina/12345/13221
+#EXTINF:-1 group-title="SPORT / SPORTS / DEPORTES",SOS (SR)
+http://ott.dobratv.net:25461/emina/12345/7079
+#EXTINF:-1 group-title="DJEČIJI / KIDS / NIÑOS",PIKABOO
+http://ott.dobratv.net:25461/emina/12345/7039
+#EXTINF:-1 group-title="DJEČIJI / KIDS / NIÑOS",NICK JR (HR)
+http://ott.dobratv.net:25461/emina/12345/7041
+#EXTINF:-1 group-title="DJEČIJI / KIDS / NIÑOS",PINK KIDS
+http://ott.dobratv.net:25461/emina/12345/7045
+#EXTINF:-1 group-title="DJEČIJI / KIDS / NIÑOS",PINK SUPER KIDS
+http://ott.dobratv.net:25461/emina/12345/7046
+#EXTINF:-1 group-title="DJEČIJI / KIDS / NIÑOS",BABY TV
+http://ott.dobratv.net:25461/emina/12345/7047
+#EXTINF:-1 group-title="DJEČIJI / KIDS / NIÑOS",MINIMAX
+http://ott.dobratv.net:25461/emina/12345/7050
+#EXTINF:-1 group-title="MUZIČKI / MUSIC / MUSICAL",SEVDAH TV HD
+http://ott.dobratv.net:25461/emina/12345/112
+#EXTINF:-1 group-title="HOLANDSKI / HOLLAND / HOLANDES",NPO 1
+http://ott.dobratv.net:25461/emina/12345/14193
+#EXTINF:-1 group-title="HOLANDSKI / HOLLAND / HOLANDES",NPO 2
+http://ott.dobratv.net:25461/emina/12345/14194
+#EXTINF:-1 group-title="HOLANDSKI / HOLLAND / HOLANDES",NPO 3
+http://ott.dobratv.net:25461/emina/12345/14195
+#EXTINF:-1 group-title="HOLANDSKI / HOLLAND / HOLANDES",NPO NIEUWS
+http://ott.dobratv.net:25461/emina/12345/14196
+#EXTINF:-1 group-title="VIJESTI / NEWS / NOTICIAS",RUSSIA TODAY
+http://ott.dobratv.net:25461/emina/12345/14199
+#EXTINF:-1 group-title="DOKUMENTARNI / DOCUMENTARY / DOCUMENTAL",BBC EARTH
+http://ott.dobratv.net:25461/emina/12345/7010
+#EXTINF:-1 group-title="DOKUMENTARNI / DOCUMENTARY / DOCUMENTAL",TLC
+http://ott.dobratv.net:25461/emina/12345/7020
+#EXTINF:-1 group-title="DOKUMENTARNI / DOCUMENTARY / DOCUMENTAL",HISTORY HD
+http://ott.dobratv.net:25461/emina/12345/7026
+#EXTINF:-1 group-title="DOKUMENTARNI / DOCUMENTARY / DOCUMENTAL",HISTORY 2 HD
+http://ott.dobratv.net:25461/emina/12345/7027
+#EXTINF:-1 group-title="TURSKI / TURKISH / TURQUIA",FOX TV HD (TR)
+http://ott.dobratv.net:25461/emina/12345/6661
+#EXTINF:-1 group-title="ŠPANIJA / SPAIN / ESPAÑA",CANAL 24 HORAS
+http://ott.dobratv.net:25461/emina/12345/13306
+#EXTINF:-1 group-title="DOBRA / GOOD / BUENA TV",DOBRA INFO
+http://ott.dobratv.net:25461/emina/12345/1
+#EXTINF:-1 group-title="DOBRA / GOOD / BUENA TV" tvg-logo="https://static.wixstatic.com/media/0e5f34_e652aa1d6262417abd691a1a2991bd18~mv2.png",DOBRA BALKANSKA
+http://ott.dobratv.net:25461/emina/12345/2
+#EXTINF:-1 group-title="DOBRA / GOOD / BUENA TV" tvg-logo="https://static.wixstatic.com/media/0e5f34_0744f0ac88594af1b5ed238a4b6dbfd1~mv2.png",DOBRA HD
+http://ott.dobratv.net:25461/emina/12345/3
+#EXTINF:-1 group-title="DOBRA / GOOD / BUENA TV" tvg-logo="https://static.wixstatic.com/media/0e5f34_f15604899aac485fae5f410f96f07f02~mv2.png",DOBRA ISLAMSKA
+http://ott.dobratv.net:25461/emina/12345/6
+#EXTINF:-1 group-title="DOBRA / GOOD / BUENA TV" tvg-logo="https://static.wixstatic.com/media/0e5f34_0ecca07caedc4af094315e21a1f6101a~mv2.png",DOBRA CINEMA
+http://ott.dobratv.net:25461/emina/12345/7
+#EXTINF:-1 group-title="DOBRA / GOOD / BUENA TV" tvg-logo="https://static.wixstatic.com/media/0e5f34_62f3d9913c41494ea2b2af71e8ab43b1~mv2.png",GOOD INTERNATIONAL
+http://ott.dobratv.net:25461/emina/12345/13
+#EXTINF:-1 group-title="DOBRA / GOOD / BUENA TV" tvg-logo="https://static.wixstatic.com/media/0e5f34_e6cc546891ce47199beff291e3d1c864~mv2.png",DOBRA MUZICKA
+http://ott.dobratv.net:25461/emina/12345/16
+#EXTINF:-1 group-title="DOBRA / GOOD / BUENA TV" tvg-logo="https://static.wixstatic.com/media/0e5f34_b6b3a156c6aa4c61b4e0b5027e38b6b7~mv2.png",E MIRE SHQIPTARE
+http://ott.dobratv.net:25461/emina/12345/20
+#EXTINF:-1 group-title="DOBRA / GOOD / BUENA TV" tvg-logo="https://static.wixstatic.com/media/0e5f34_2bb657133c664802b1806a285f4532bc~mv2.png",DOBRA EXCLUSIVE
+http://ott.dobratv.net:25461/emina/12345/22
+#EXTINF:-1 group-title="VJERSKI / RELIGIOUS /  RELIGIOSO" tvg-logo="https://www.dawateislami.net/img/logo-dawat-e-islami_share.jpg",ISLAM MONTENEGRO
+http://ott.dobratv.net:25461/emina/12345/25
+#EXTINF:-1 group-title="BIH / BOSNIA" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/rtv-usk-logo.png",RTV USK
+http://ott.dobratv.net:25461/emina/12345/26
+#EXTINF:-1 group-title="SANDŽAK / SANJAK" tvg-logo="https://lh3.googleusercontent.com/proxy/3QTdPIckQEe7cJJSivb6oWKNbVYNCYlnnRX-nS3SwPV3suZldiZ578K7oxAkUmdBx_wEMyKszJUOM7cOqdn1sHbvS-ZhvQ",BNV TV
+http://ott.dobratv.net:25461/emina/12345/33
+#EXTINF:-1 group-title="MUZIČKI / MUSIC / MUSICAL",SEHARA TV
+http://ott.dobratv.net:25461/emina/12345/37
+#EXTINF:-1 group-title="BIH / BOSNIA" tvg-logo="https://www.supertelevizija.com/wp-content/uploads/2020/01/SUPER-MEDIA-TV-9-mala.png",SUPER TV EUROPA HD
+http://ott.dobratv.net:25461/emina/12345/40
+#EXTINF:-1 group-title="BIH / BOSNIA" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/alfatvlogo.png",ALFA TELEVIZIJA HD
+http://ott.dobratv.net:25461/emina/12345/44
+#EXTINF:-1 group-title="ŠPANIJA / SPAIN / ESPAÑA",MAR TV BARCELONA
+http://ott.dobratv.net:25461/emina/12345/49
+#EXTINF:-1 group-title="SANDŽAK / SANJAK" tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/rs-sandzak-tv.jpg",SANDZAK TV SD
+http://ott.dobratv.net:25461/emina/12345/51
+#EXTINF:-1 group-title="SANDŽAK / SANJAK" tvg-logo="https://yt3.ggpht.com/a/AGF-l79cRbdowubobjEIRpws5pjougHaalUQN7CBag=s900-c-k-c0xffffffff-no-rj-mo",SANDZACKA RTV MREZA
+http://ott.dobratv.net:25461/emina/12345/65
+#EXTINF:-1 group-title="MUZIČKI / MUSIC / MUSICAL",TOP SOUND TV
+http://ott.dobratv.net:25461/emina/12345/68
+#EXTINF:-1 group-title="VJERSKI / RELIGIOUS /  RELIGIOSO" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/favicon-www.televizija5.ba.png",TELEVIZIJA 5
+http://ott.dobratv.net:25461/emina/12345/85
+#EXTINF:-1 group-title="BIH / BOSNIA" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/rtv7.jpg",TV 7 TUZLA
+http://ott.dobratv.net:25461/emina/12345/100
+#EXTINF:-1 group-title="BIH / BOSNIA" tvg-logo="https://lh6.googleusercontent.com/proxy/ft4u7_Dr69NOsSApRIi38V6EDnqRx-ElVzlfy_RstHHUIIAR9diHjYN4TbTsIm5N5038Cx0tWEq3x2u6LAC0co4DBBwHY4ry3xrugGpDsyhzSDRF",RTV PODRINJE
+http://ott.dobratv.net:25461/emina/12345/121
+#EXTINF:-1 group-title="BIH / BOSNIA",GLAS DRINE
+http://ott.dobratv.net:25461/emina/12345/124
+#EXTINF:-1 group-title="BIH / BOSNIA" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/tvsa-logo.png",TV SARAJEVO
+http://ott.dobratv.net:25461/emina/12345/126
+#EXTINF:-1 group-title="BIH / BOSNIA" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/Pink_BH_logo.png",PINK BIH
+http://ott.dobratv.net:25461/emina/12345/159
+#EXTINF:-1 group-title="CRNA GORA / MONTENEGRO" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/RTCG1-logo.jpg",RTCG 1
+http://ott.dobratv.net:25461/emina/12345/161
+#EXTINF:-1 group-title="CRNA GORA / MONTENEGRO" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/RTCG2-logo.jpg",RTCG 2
+http://ott.dobratv.net:25461/emina/12345/162
+#EXTINF:-1 group-title="CRNA GORA / MONTENEGRO" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/prvacg.jpg",PRVA CG
+http://ott.dobratv.net:25461/emina/12345/163
+#EXTINF:-1 group-title="CRNA GORA / MONTENEGRO" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f3/Tvvijesti.jpg",TV VIJESTI
+http://ott.dobratv.net:25461/emina/12345/164
+#EXTINF:-1 group-title="MUZIČKI / MUSIC / MUSICAL",OTV VALENTINO MUSIC
+http://ott.dobratv.net:25461/emina/12345/174
+#EXTINF:-1 group-title="BIH / BOSNIA" tvg-logo="https://www.b1tv.ba/wp-content/uploads/2018/12/pozadina-web-stranica.png",B1 TV GRADACAC SD
+http://ott.dobratv.net:25461/emina/12345/2022
+#EXTINF:-1 group-title="BIH / BOSNIA" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/rtvvisoko.jpg",TV VISOKO
+http://ott.dobratv.net:25461/emina/12345/2029
+#EXTINF:-1 group-title="BIH / BOSNIA" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/RTRS_PLUS_logo.png",RTRS PLUS
+http://ott.dobratv.net:25461/emina/12345/2039
+#EXTINF:-1 group-title="VJERSKI / RELIGIOUS /  RELIGIOSO" tvg-logo="https://pbs.twimg.com/profile_images/522300135435300864/DBKSoD0U_400x400.jpeg",ZDRAVA TV
+http://ott.dobratv.net:25461/emina/12345/2129
+#EXTINF:-1 group-title="HRVATSKA / CROATIA / CROACIA" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/poljoprivredna_tv_logo.png",POLJOPRIVREDNA TV
+http://ott.dobratv.net:25461/emina/12345/2121
+#EXTINF:-1 group-title="SRBIJA / SERBIA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/RTS1_logo.png",RTS 1
+http://ott.dobratv.net:25461/emina/12345/2143
+#EXTINF:-1 group-title="SRBIJA / SERBIA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT0vci0c6l56n8k5TDyeLdaik_OazRhjxF8FoIoSJ8gmcpnlFXy&usqp=CAU",RTS 2 HD
+http://ott.dobratv.net:25461/emina/12345/2144
+#EXTINF:-1 group-title="SRBIJA / SERBIA" tvg-logo="https://www.ion.tv/canada/img/logoch/balkan22.jpg",RTV 1
+http://ott.dobratv.net:25461/emina/12345/2154
+#EXTINF:-1 group-title="SRBIJA / SERBIA" tvg-logo="https://www.ion.tv/australia/img/logoch/rtv2.jpg",RTV 2
+http://ott.dobratv.net:25461/emina/12345/2155
+#EXTINF:-1 group-title="SRBIJA / SERBIA" tvg-logo="https://www.b92.net/news/pics/2020/03/01/4660219225e5bf8a63d1f3355840670_v4big.jpg",B92 TV
+http://ott.dobratv.net:25461/emina/12345/2156
+#EXTINF:-1 group-title="SRBIJA / SERBIA" tvg-logo="https://jefimija.tv/wp-content/uploads/2016/09/logo21.png",JEFIMIJA TV
+http://ott.dobratv.net:25461/emina/12345/2177
+#EXTINF:-1 group-title="SRBIJA / SERBIA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b5/NTV_logo.png",NTV
+http://ott.dobratv.net:25461/emina/12345/2166
+#EXTINF:-1 group-title="VJERSKI / RELIGIOUS /  RELIGIOSO" tvg-logo="https://www.diosteve.org/img/p/360-240/1.jpg",Dios Te Ve
+http://ott.dobratv.net:25461/emina/12345/2425
+#EXTINF:-1 group-title="VJERSKI / RELIGIOUS /  RELIGIOSO" tvg-logo="https://tvmak.com/img/tv/rtvpendimi.png",RTV PENDIMI
+http://ott.dobratv.net:25461/emina/12345/2430
+#EXTINF:-1 group-title="MAKEDONIJA / MACEDONIA" tvg-logo="https://tvmak.com/img/tv/tvuskana.png",TV USKANA
+http://ott.dobratv.net:25461/emina/12345/6475
+#EXTINF:-1 group-title="MAKEDONIJA / MACEDONIA" tvg-logo="https://ekipa.mk/wp-content/uploads/2020/04/mrt.jpg",MRT
+http://ott.dobratv.net:25461/emina/12345/6504
+#EXTINF:-1 group-title="MAKEDONIJA / MACEDONIA" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/sitel-logo.png",SITEL
+http://ott.dobratv.net:25461/emina/12345/6505
+#EXTINF:-1 group-title="MAKEDONIJA / MACEDONIA" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/alfa-tv-logo.png",ALFA MKD
+http://ott.dobratv.net:25461/emina/12345/6506
+#EXTINF:-1 group-title="MAKEDONIJA / MACEDONIA" tvg-logo="https://24.mk/images/vesti24_logo.png",24 VESTI
+http://ott.dobratv.net:25461/emina/12345/6507
+#EXTINF:-1 group-title="MAKEDONIJA / MACEDONIA" tvg-logo="https://w0.pngwave.com/png/605/900/skopje-tv-telma-television-channel-sitel-others-png-clip-art.png",TELMA
+http://ott.dobratv.net:25461/emina/12345/6508
+#EXTINF:-1 group-title="DOBRA / GOOD / BUENA TV" tvg-logo="https://static.wixstatic.com/media/0e5f34_853e7cb909ec41208560b853c04b623b~mv2.png",DOBRA RUSKA
+http://ott.dobratv.net:25461/emina/12345/6574
+#EXTINF:-1 group-title="VJERSKI / RELIGIOUS /  RELIGIOSO" tvg-logo="https://sj0292nqbq42lklxrpimpr5b-wpengine.netdna-ssl.com/wp-content/uploads/2016/07/weblogo_sm_1.0.png",MARRY TV MEDJUGORJE
+http://ott.dobratv.net:25461/emina/12345/6577
+#EXTINF:-1 group-title="MUZIČKI / MUSIC / MUSICAL",SEZAM TV
+http://ott.dobratv.net:25461/emina/12345/6584
+#EXTINF:-1 group-title="NJEMAČKI / GERMAN / ALEMANIA",DAS ERSTE HD (DE)
+http://ott.dobratv.net:25461/emina/12345/6590
+#EXTINF:-1 group-title="NJEMAČKI / GERMAN / ALEMANIA",ZDF HD (DE)
+http://ott.dobratv.net:25461/emina/12345/6591
+#EXTINF:-1 group-title="NJEMAČKI / GERMAN / ALEMANIA",3SAT HD (DE)
+http://ott.dobratv.net:25461/emina/12345/6592
+#EXTINF:-1 group-title="NJEMAČKI / GERMAN / ALEMANIA",N-TV (DE)
+http://ott.dobratv.net:25461/emina/12345/6600
+#EXTINF:-1 group-title="NJEMAČKI / GERMAN / ALEMANIA",TAGESSCHAU 24 HD (DE)
+http://ott.dobratv.net:25461/emina/12345/6601
+#EXTINF:-1 group-title="NJEMAČKI / GERMAN / ALEMANIA",ARTE HD (DE)
+http://ott.dobratv.net:25461/emina/12345/6603
+#EXTINF:-1 group-title="NJEMAČKI / GERMAN / ALEMANIA",PHOENIX (DE)
+http://ott.dobratv.net:25461/emina/12345/6604
+#EXTINF:-1 group-title="NJEMAČKI / GERMAN / ALEMANIA",ZDF NEO (DE)
+http://ott.dobratv.net:25461/emina/12345/6605
+#EXTINF:-1 group-title="NJEMAČKI / GERMAN / ALEMANIA",ZDF INFO (DE)
+http://ott.dobratv.net:25461/emina/12345/6606
+#EXTINF:-1 group-title="NJEMAČKI / GERMAN / ALEMANIA",N24 HD (DE)
+http://ott.dobratv.net:25461/emina/12345/6607
+#EXTINF:-1 group-title="NJEMAČKI / GERMAN / ALEMANIA",RBB BERLIN TV (DE)
+http://ott.dobratv.net:25461/emina/12345/6620
+#EXTINF:-1 group-title="NJEMAČKI / GERMAN / ALEMANIA",HR FERNSEHEN HD (DE)
+http://ott.dobratv.net:25461/emina/12345/6619
+#EXTINF:-1 group-title="NJEMAČKI / GERMAN / ALEMANIA",MUNCHEN TV HD (DE)
+http://ott.dobratv.net:25461/emina/12345/6621
+#EXTINF:-1 group-title="NJEMAČKI / GERMAN / ALEMANIA",TELE 5 HD (DE)
+http://ott.dobratv.net:25461/emina/12345/6622
+#EXTINF:-1 group-title="NJEMAČKI / GERMAN / ALEMANIA",NDR FERNSEHEN HD (DE)
+http://ott.dobratv.net:25461/emina/12345/6623
+#EXTINF:-1 group-title="NJEMAČKI / GERMAN / ALEMANIA",WDR HD (DE)
+http://ott.dobratv.net:25461/emina/12345/6624
+#EXTINF:-1 group-title="NJEMAČKI / GERMAN / ALEMANIA",MDR HD (DE)
+http://ott.dobratv.net:25461/emina/12345/6625
+#EXTINF:-1 group-title="NJEMAČKI / GERMAN / ALEMANIA",WELT HD (DE)
+http://ott.dobratv.net:25461/emina/12345/6626
+#EXTINF:-1 group-title="TURSKI / TURKISH / TURQUIA" tvg-logo="https://seeklogo.com/images/T/trt-1-logo-31D17FC8D3-seeklogo.com.gif",TRT 1 HD (TR)
+http://ott.dobratv.net:25461/emina/12345/6629
+#EXTINF:-1 group-title="TURSKI / TURKISH / TURQUIA",TRT HABER HD (TR)
+http://ott.dobratv.net:25461/emina/12345/6630
+#EXTINF:-1 group-title="TURSKI / TURKISH / TURQUIA",TRT MUZIK (TR)
+http://ott.dobratv.net:25461/emina/12345/6631
+#EXTINF:-1 group-title="TURSKI / TURKISH / TURQUIA",TRT AVAZ HD (TR)
+http://ott.dobratv.net:25461/emina/12345/6632
+#EXTINF:-1 group-title="TURSKI / TURKISH / TURQUIA",TRT T
+http://ott.dobratv.net:25461/emina/12345/6633
+#EXTINF:-1 group-title="TURSKI / TURKISH / TURQUIA",HABER TURK (TR)
+http://ott.dobratv.net:25461/emina/12345/6638
+#EXTINF:-1 group-title="TURSKI / TURKISH / TURQUIA",SEMERKAND HD (TR)
+http://ott.dobratv.net:25461/emina/12345/6639
+#EXTINF:-1 group-title="TURSKI / TURKISH / TURQUIA",TV 8 (TR)
+http://ott.dobratv.net:25461/emina/12345/6640
+#EXTINF:-1 group-title="TURSKI / TURKISH / TURQUIA",24 TV (TR)
+http://ott.dobratv.net:25461/emina/12345/6641
+#EXTINF:-1 group-title="TURSKI / TURKISH / TURQUIA",KANAL D HD (TR)
+http://ott.dobratv.net:25461/emina/12345/6637
+#EXTINF:-1 group-title="TURSKI / TURKISH / TURQUIA",A HABER HD (TR)
+http://ott.dobratv.net:25461/emina/12345/6642
+#EXTINF:-1 group-title="TURSKI / TURKISH / TURQUIA",ATV HD (TR)
+http://ott.dobratv.net:25461/emina/12345/6643
+#EXTINF:-1 group-title="TURSKI / TURKISH / TURQUIA",CNN TURK (TR)
+http://ott.dobratv.net:25461/emina/12345/6644
+#EXTINF:-1 group-title="TURSKI / TURKISH / TURQUIA",SHOW TV (TR)
+http://ott.dobratv.net:25461/emina/12345/6648
+#EXTINF:-1 group-title="TURSKI / TURKISH / TURQUIA",STAR TV HD (TR)
+http://ott.dobratv.net:25461/emina/12345/6650
+#EXTINF:-1 group-title="TURSKI / TURKISH / TURQUIA",TV8.5 HD (TR)
+http://ott.dobratv.net:25461/emina/12345/6652
+#EXTINF:-1 group-title="TURSKI / TURKISH / TURQUIA",NTV HABER HD (TR)
+http://ott.dobratv.net:25461/emina/12345/6653
+#EXTINF:-1 group-title="TURSKI / TURKISH / TURQUIA",TRT COCUK (TR)
+http://ott.dobratv.net:25461/emina/12345/6663
+#EXTINF:-1 group-title="SHQIP / ALBANIAN / ALBANES" tvg-logo="http://www.albepg.com/tvlogi/RTK%201.png",RTK 1
+http://ott.dobratv.net:25461/emina/12345/6713
+#EXTINF:-1 group-title="SHQIP / ALBANIAN / ALBANES" tvg-logo="http://www.albepg.com/tvlogi/RTK%202.png",RTK 2
+http://ott.dobratv.net:25461/emina/12345/6714
+#EXTINF:-1 group-title="SHQIP / ALBANIAN / ALBANES" tvg-logo="http://www.albepg.com/tvlogi/RTK%203.png",RTK 3
+http://ott.dobratv.net:25461/emina/12345/6715
+#EXTINF:-1 group-title="SHQIP / ALBANIAN / ALBANES" tvg-logo="http://www.albepg.com/tvlogi/RTK%204.png",RTK 4
+http://ott.dobratv.net:25461/emina/12345/6716
+#EXTINF:-1 group-title="SHQIP / ALBANIAN / ALBANES" tvg-logo="http://www.albepg.com/tvlogi/Shenja%20TV.png",Shenja TV
+http://ott.dobratv.net:25461/emina/12345/6726
+#EXTINF:-1 group-title="SHQIP / ALBANIAN / ALBANES" tvg-logo="http://www.albepg.com/tvlogi/Koha%20TV.png",Tv Koha
+http://ott.dobratv.net:25461/emina/12345/6729
+#EXTINF:-1 group-title="SHQIP / ALBANIAN / ALBANES" tvg-logo="http://www.albepg.com/tvlogi/ABC%20News.png",ABC News
+http://ott.dobratv.net:25461/emina/12345/6735
+#EXTINF:-1 group-title="SHQIP / ALBANIAN / ALBANES" tvg-logo="http://www.albepg.com/tvlogi/RTSH%2024.png",RTSH 24
+http://ott.dobratv.net:25461/emina/12345/6742
+#EXTINF:-1 group-title="SHQIP / ALBANIAN / ALBANES" tvg-logo="http://www.albepg.com/tvlogi/RTSH1%20HD.png",RTSH 1
+http://ott.dobratv.net:25461/emina/12345/6752
+#EXTINF:-1 group-title="SHQIP / ALBANIAN / ALBANES" tvg-logo="http://www.albepg.com/tvlogi/Report%20TV.png",Report TV
+http://ott.dobratv.net:25461/emina/12345/6760
+#EXTINF:-1 group-title="SHQIP / ALBANIAN / ALBANES" tvg-logo="http://www.albepg.com/tvlogi/Ora%20News.png",Ora News
+http://ott.dobratv.net:25461/emina/12345/6774
+#EXTINF:-1 group-title="VJERSKI / RELIGIOUS /  RELIGIOSO" tvg-logo="https://image.ibb.co/bvdVMT/islam.png",RTV ISLAM
+http://ott.dobratv.net:25461/emina/12345/6810
+#EXTINF:-1 group-title="SHQIP / ALBANIAN / ALBANES" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTA9mJunVXs_leAjhoH2JdwlVW2l4Ipe8cTs_xvOU7n_Q&s",Syri News
+http://ott.dobratv.net:25461/emina/12345/6811
+#EXTINF:-1 group-title="HRVATSKA / CROATIA / CROACIA" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/HRTint_logo.png",HRT INT. HD
+http://ott.dobratv.net:25461/emina/12345/6836
+#EXTINF:-1 group-title="HRVATSKA / CROATIA / CROACIA" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/TV-Istra_logo.png",TV ISTRA
+http://ott.dobratv.net:25461/emina/12345/6853
+#EXTINF:-1 group-title="HRVATSKA / CROATIA / CROACIA" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/jabukatv-logo.png",JABUKA TV
+http://ott.dobratv.net:25461/emina/12345/6854
+#EXTINF:-1 group-title="HRVATSKA / CROATIA / CROACIA" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/sbtv.jpg",SB TV
+http://ott.dobratv.net:25461/emina/12345/6856
+#EXTINF:-1 group-title="HRVATSKA / CROATIA / CROACIA" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/Plava_Vinkovacka_logo.png",VINKOVACKA TV
+http://ott.dobratv.net:25461/emina/12345/6858
+#EXTINF:-1 group-title="HRVATSKA / CROATIA / CROACIA" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/ostv-logo.png",OSJECKA TV
+http://ott.dobratv.net:25461/emina/12345/6859
+#EXTINF:-1 group-title="HRVATSKA / CROATIA / CROACIA" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/vtv-logo.png",VTV TV
+http://ott.dobratv.net:25461/emina/12345/6860
+#EXTINF:-1 group-title="HRVATSKA / CROATIA / CROACIA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQetWSEr2gqQDSE5AbN42jJsEa5N0AN587bNadt0EkpJYmcyH_C&usqp=CAU",TV BANOVINA
+http://ott.dobratv.net:25461/emina/12345/6861
+#EXTINF:-1 group-title="HRVATSKA / CROATIA / CROACIA" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/MrezaST_logo.png",MREZA SPLIT
+http://ott.dobratv.net:25461/emina/12345/6864
+#EXTINF:-1 group-title="HRVATSKA / CROATIA / CROACIA" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/tv-jadran-logo.png",TV JADRAN
+http://ott.dobratv.net:25461/emina/12345/6865
+#EXTINF:-1 group-title="HRVATSKA / CROATIA / CROACIA" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/TrendTV-logo_logo.png",TREND TV
+http://ott.dobratv.net:25461/emina/12345/6869
+#EXTINF:-1 group-title="BIH / BOSNIA" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/BHT1_logo.png",BHT 1
+http://ott.dobratv.net:25461/emina/12345/6870
+#EXTINF:-1 group-title="BIH / BOSNIA" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/FederalnaTV_logo.png",FEDERALNA TV
+http://ott.dobratv.net:25461/emina/12345/6871
+#EXTINF:-1 group-title="BIH / BOSNIA" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/OBN-logo.png",OBN
+http://ott.dobratv.net:25461/emina/12345/6873
+#EXTINF:-1 group-title="BIH / BOSNIA" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/hayatplus_logo.png",HAYAT PLUS
+http://ott.dobratv.net:25461/emina/12345/6874
+#EXTINF:-1 group-title="BIH / BOSNIA" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/face-tv-logo.png",FACE HD
+http://ott.dobratv.net:25461/emina/12345/6877
+#EXTINF:-1 group-title="BIH / BOSNIA" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/9f/Al_Jazeera_Balkans.png",AL JAZEERA BALKANS HD
+http://ott.dobratv.net:25461/emina/12345/6878
+#EXTINF:-1 group-title="BIH / BOSNIA" tvg-logo="http://balkans.aljazeera.net/sites/default/files/styles/d8/public/herceg-bosna.jpg",RTV HERCEG BOSNE
+http://ott.dobratv.net:25461/emina/12345/6879
+#EXTINF:-1 group-title="BIH / BOSNIA" tvg-logo="https://totaltv.tv/oec/images/tv_channels/213a031ce88f91a5484fbbd57a21d831.png",CITY TV
+http://ott.dobratv.net:25461/emina/12345/6881
+#EXTINF:-1 group-title="BIH / BOSNIA" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/o_kanal_widelogo.png",O KANAL HD
+http://ott.dobratv.net:25461/emina/12345/6882
+#EXTINF:-1 group-title="BIH / BOSNIA" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/bn_televizija_zemaljski.jpg",BN HD
+http://ott.dobratv.net:25461/emina/12345/6883
+#EXTINF:-1 group-title="BIH / BOSNIA" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/rtrs-logo.png",RTRS
+http://ott.dobratv.net:25461/emina/12345/6884
+#EXTINF:-1 group-title="BIH / BOSNIA" tvg-logo="https://www.slusaj-radio.com/medias/thumbnail/95/200-radio-posavina.jpg",TV POSAVINA
+http://ott.dobratv.net:25461/emina/12345/6885
+#EXTINF:-1 group-title="BIH / BOSNIA" tvg-logo="https://www.rtvhit.com/wp-content/uploads/2015/02/hitlogofinal.png",HIT BRCKO TV
+http://ott.dobratv.net:25461/emina/12345/6887
+#EXTINF:-1 group-title="BIH / BOSNIA" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1a/Logo_of_RTV_TK.png",RTV TK
+http://ott.dobratv.net:25461/emina/12345/6892
+#EXTINF:-1 group-title="BIH / BOSNIA" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/rtv-ze-logo.png",RTV ZENICA
+http://ott.dobratv.net:25461/emina/12345/6893
+#EXTINF:-1 group-title="BIH / BOSNIA" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e9/Logo_of_RTV_Cazin.jpg",TV CAZIN HD
+http://ott.dobratv.net:25461/emina/12345/6894
+#EXTINF:-1 group-title="BIH / BOSNIA" tvg-logo="https://www.b1tv.ba/wp-content/uploads/2018/12/pozadina-web-stranica.png",B1 TV GRADACAC HD
+http://ott.dobratv.net:25461/emina/12345/6896
+#EXTINF:-1 group-title="BIH / BOSNIA" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/ntv-ic-logo.png",NTV IC KAKANJ
+http://ott.dobratv.net:25461/emina/12345/6897
+#EXTINF:-1 group-title="BIH / BOSNIA" tvg-logo="https://www.tatabrada.tv/wp-content/uploads/2019/07/TATABRADA-LOGO-NOVI-okt-2018-copy.png",TATABRADA TV
+http://ott.dobratv.net:25461/emina/12345/6898
+#EXTINF:-1 group-title="MUZIČKI / MUSIC / MUSICAL",OTV VALENTINO
+http://ott.dobratv.net:25461/emina/12345/6899
+#EXTINF:-1 group-title="BIH / BOSNIA" tvg-logo="https://yt3.ggpht.com/a/AGF-l7-vp3LhoLeENQ8zpx0RJX_X5p5uP14iRahHGA=s900-c-k-c0xffffffff-no-rj-mo",HEMA TV
+http://ott.dobratv.net:25461/emina/12345/6900
+#EXTINF:-1 group-title="BIH / BOSNIA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRFnOM249EbPCzzDjNxf3a9cfjReYHK9uVSMqJOvHQRPXlGhOwD&usqp=CAU",MG TV
+http://ott.dobratv.net:25461/emina/12345/6901
+#EXTINF:-1 group-title="BIH / BOSNIA" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/082013/elta2_logo.png?itok=k2bXlPPK",ELTA 2
+http://ott.dobratv.net:25461/emina/12345/6903
+#EXTINF:-1 group-title="BIH / BOSNIA" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/kanal6-logo.png",KANAL 6 HD
+http://ott.dobratv.net:25461/emina/12345/6905
+#EXTINF:-1 group-title="BIH / BOSNIA",RTV SANA
+http://ott.dobratv.net:25461/emina/12345/6908
+#EXTINF:-1 group-title="SRBIJA / SERBIA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Radio-Televizija-Srbije-Logo.svg/1200px-Radio-Televizija-Srbije-Logo.svg.png",RTS HD
+http://ott.dobratv.net:25461/emina/12345/6909
+#EXTINF:-1 group-title="SRBIJA / SERBIA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/RTS_3_logo.svg/1280px-RTS_3_logo.svg.png",RTS 3 HD
+http://ott.dobratv.net:25461/emina/12345/6910
+#EXTINF:-1 group-title="SRBIJA / SERBIA" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/RTS_Drama_logo.png",RTS DRAMA
+http://ott.dobratv.net:25461/emina/12345/6911
+#EXTINF:-1 group-title="SRBIJA / SERBIA" tvg-logo="https://tvprofil.com/img/kanali-logo/RTS_Trezor_logo.png",RTS TREZOR
+http://ott.dobratv.net:25461/emina/12345/6912
+#EXTINF:-1 group-title="SRBIJA / SERBIA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/ff/Logo_rts_svet.png",RTS SVET
+http://ott.dobratv.net:25461/emina/12345/6913
+#EXTINF:-1 group-title="SRBIJA / SERBIA" tvg-logo="https://tvprofil.com/img/kanali-logo/RTS_Zivot_logo.png",RTS ZIVOT
+http://ott.dobratv.net:25461/emina/12345/6914
+#EXTINF:-1 group-title="SRBIJA / SERBIA" tvg-logo="https://www.b92.net/news/pics/2020/04/17/11660656685e99f0a9bfc03454035335_v4_big.jpeg",PRVA
+http://ott.dobratv.net:25461/emina/12345/6916
+#EXTINF:-1 group-title="SRBIJA / SERBIA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f9/Tv-belle-amie-logo.png",BELLE AMIE
+http://ott.dobratv.net:25461/emina/12345/6922
+#EXTINF:-1 group-title="SRBIJA / SERBIA" tvg-logo="https://tvaurora.tv/wp-content/uploads/2020/03/Logo-480-7.png",AURORA TV HD
+http://ott.dobratv.net:25461/emina/12345/6924
+#EXTINF:-1 group-title="SRBIJA / SERBIA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f1/HappyTV_Logo.png",HAPPY TV
+http://ott.dobratv.net:25461/emina/12345/6925
+#EXTINF:-1 group-title="SRBIJA / SERBIA" tvg-logo="https://happytv.rs/upload/Show/Image/2019-12/PAROVI%20WEB%202.jpeg",HAPPY PAROVI 7/24
+http://ott.dobratv.net:25461/emina/12345/6926
+#EXTINF:-1 group-title="SRBIJA / SERBIA" tvg-logo="https://serbia.mom-rsf.org/typo3temp/_processed_/0/3/csm_5023-835_import_73528b3fcd.png",STUDIO B
+http://ott.dobratv.net:25461/emina/12345/6927
+#EXTINF:-1 group-title="SRBIJA / SERBIA" tvg-logo="https://media-exp1.licdn.com/dms/image/C560BAQFqsyEU4KEQAA/company-logo_200_200/0?e=2159024400&v=beta&t=4o5IDjsmSmclOqOejykZa0TNq1z_a5cig7q3CWG8I-I",PALMA PLUS
+http://ott.dobratv.net:25461/emina/12345/6931
+#EXTINF:-1 group-title="SRBIJA / SERBIA" tvg-logo="https://www.bor030.net/wp-content/slike/rtv-bor-logo.jpg",RTV BOR
+http://ott.dobratv.net:25461/emina/12345/6932
+#EXTINF:-1 group-title="VJERSKI / RELIGIOUS /  RELIGIOSO" tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/rs-tv-hra-3775.jpg",HRAM TV
+http://ott.dobratv.net:25461/emina/12345/6936
+#EXTINF:-1 group-title="SANDŽAK / SANJAK" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcS9jZCH8DJuddnDV3xPluajbf-yk3UjHgCo5FqjwGLYETpre6wU&usqp=CAU",RTV NOVI PAZAR
+http://ott.dobratv.net:25461/emina/12345/6938
+#EXTINF:-1 group-title="SRBIJA / SERBIA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT5PoovGwdsF32oreWSHLFLU2rSP_Q-vuX3H7EpxGSlUTWfARd0&usqp=CAU",MLAVA TV
+http://ott.dobratv.net:25461/emina/12345/6939
+#EXTINF:-1 group-title="SRBIJA / SERBIA" tvg-logo="https://yt3.ggpht.com/-DZ-psqqoFpI/AAAAAAAAAAI/AAAAAAAAAAA/HttdaRZHIvA/s900-c-k-no-mo-rj-c0xffffff/photo.jpg",TV ISTOK
+http://ott.dobratv.net:25461/emina/12345/6953
+#EXTINF:-1 group-title="DJEČIJI / KIDS / NIÑOS",MASA I MEDO HD
+http://ott.dobratv.net:25461/emina/12345/7042
+#EXTINF:-1 group-title="DJEČIJI / KIDS / NIÑOS",HAYATOVCI
+http://ott.dobratv.net:25461/emina/12345/7044
+#EXTINF:-1 group-title="DJEČIJI / KIDS / NIÑOS",TOM & JERRY CHANNEL 2 HD
+http://ott.dobratv.net:25461/emina/12345/7054
+#EXTINF:-1 group-title="DJEČIJI / KIDS / NIÑOS",TNT KIDS
+http://ott.dobratv.net:25461/emina/12345/7056
+#EXTINF:-1 group-title="MUZIČKI / MUSIC / MUSICAL",BN MUSIC
+http://ott.dobratv.net:25461/emina/12345/7093
+#EXTINF:-1 group-title="BIH / BOSNIA" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/07/Logo_of_Herceg_TV.png",HERCEG TV
+http://ott.dobratv.net:25461/emina/12345/7145
+#EXTINF:-1 group-title="VIJESTI / NEWS / NOTICIAS",AL JAZEERA INTERNATIONAL
+http://ott.dobratv.net:25461/emina/12345/7156
+#EXTINF:-1 group-title="SHQIP / ALBANIAN / ALBANES" tvg-logo="http://www.albepg.com/tvlogi/ALBUK%20TV.png",ALBUK TV
+http://ott.dobratv.net:25461/emina/12345/7161
+#EXTINF:-1 group-title="MUZIČKI / MUSIC / MUSICAL",ROMA TV
+http://ott.dobratv.net:25461/emina/12345/7180
+#EXTINF:-1 group-title="MUZIČKI / MUSIC / MUSICAL",BUJRUM TV
+http://ott.dobratv.net:25461/emina/12345/7181
+#EXTINF:-1 group-title="SHQIP / ALBANIAN / ALBANES" tvg-logo="http://46.101.142.56/wp-content/uploads/2018/05/TEMA-LLOGO-60x60-TIK.png",MRT 2
+http://ott.dobratv.net:25461/emina/12345/7208
+#EXTINF:-1 group-title="SHQIP / ALBANIAN / ALBANES" tvg-logo="http://www.albepg.com/tvlogi/PRIME.png",Tv Llapi
+http://ott.dobratv.net:25461/emina/12345/7247
+#EXTINF:-1 group-title="SHQIP / ALBANIAN / ALBANES" tvg-logo="https://tvmak.com/img/tv/aanewyorktv.png",AA TV Newyork
+http://ott.dobratv.net:25461/emina/12345/7248
+#EXTINF:-1 group-title="VJERSKI / RELIGIOUS /  RELIGIOSO" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/mtv-igman-logo.png",MTV IGMAN
+http://ott.dobratv.net:25461/emina/12345/7268
+#EXTINF:-1 group-title="RADIO STANICE / STATIONS / EMISORAS",RADIO BIR
+http://ott.dobratv.net:25461/emina/12345/7276
+#EXTINF:-1 group-title="RADIO STANICE / STATIONS / EMISORAS",RADIO MIR MEDJUGORJE
+http://ott.dobratv.net:25461/emina/12345/7277
+#EXTINF:-1 group-title="RADIO STANICE / STATIONS / EMISORAS",RADIO DIOS TE VE
+http://ott.dobratv.net:25461/emina/12345/7278
+#EXTINF:-1 group-title="RADIO STANICE / STATIONS / EMISORAS",RADIO SEHARA
+http://ott.dobratv.net:25461/emina/12345/7281
+#EXTINF:-1 group-title="RADIO STANICE / STATIONS / EMISORAS",RADIO LAS PALMAS
+http://ott.dobratv.net:25461/emina/12345/7282
+#EXTINF:-1 group-title="RADIO STANICE / STATIONS / EMISORAS",RADIO CARSIJA
+http://ott.dobratv.net:25461/emina/12345/7283
+#EXTINF:-1 group-title="RADIO STANICE / STATIONS / EMISORAS",INOLVIDABLE FM
+http://ott.dobratv.net:25461/emina/12345/7285
+#EXTINF:-1 group-title="RADIO STANICE / STATIONS / EMISORAS",RADIO FREE EUROPE
+http://ott.dobratv.net:25461/emina/12345/7286
+#EXTINF:-1 group-title="RADIO STANICE / STATIONS / EMISORAS",RADIO AVAZ
+http://ott.dobratv.net:25461/emina/12345/7287
+#EXTINF:-1 group-title="RADIO STANICE / STATIONS / EMISORAS",RADIO BN BIJELJINA
+http://ott.dobratv.net:25461/emina/12345/7288
+#EXTINF:-1 group-title="RADIO STANICE / STATIONS / EMISORAS",RADIO DJ
+http://ott.dobratv.net:25461/emina/12345/7289
+#EXTINF:-1 group-title="RADIO STANICE / STATIONS / EMISORAS",RADIO ANTENA
+http://ott.dobratv.net:25461/emina/12345/7290
+#EXTINF:-1 group-title="RADIO STANICE / STATIONS / EMISORAS",RADIO 8
+http://ott.dobratv.net:25461/emina/12345/7292
+#EXTINF:-1 group-title="RADIO STANICE / STATIONS / EMISORAS",HRVATSKI RADIO FRANKFURT
+http://ott.dobratv.net:25461/emina/12345/7293
+#EXTINF:-1 group-title="RADIO STANICE / STATIONS / EMISORAS",RADIO MIX BIH
+http://ott.dobratv.net:25461/emina/12345/7294
+#EXTINF:-1 group-title="RADIO STANICE / STATIONS / EMISORAS",RSG RADIO
+http://ott.dobratv.net:25461/emina/12345/7295
+#EXTINF:-1 group-title="RADIO STANICE / STATIONS / EMISORAS",RADIO SLON
+http://ott.dobratv.net:25461/emina/12345/7297
+#EXTINF:-1 group-title="RADIO STANICE / STATIONS / EMISORAS",RADIO MILJACKA
+http://ott.dobratv.net:25461/emina/12345/7299
+#EXTINF:-1 group-title="RADIO STANICE / STATIONS / EMISORAS",HOUSE RADIO ESPAÑA
+http://ott.dobratv.net:25461/emina/12345/7301
+#EXTINF:-1 group-title="VJERSKI / RELIGIOUS /  RELIGIOSO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6e/Peacetv_albanian_logo.png",PEACE TV ISLAM
+http://ott.dobratv.net:25461/emina/12345/7376
+#EXTINF:-1 group-title="VJERSKI / RELIGIOUS /  RELIGIOSO" tvg-logo="https://cdnuploads.aa.com.tr/uploads/Contents/2020/04/20/thumbs_b_c_68e1b25a194bd27ba77b073c86aa908b.jpg?v=164212",TV BIR
+http://ott.dobratv.net:25461/emina/12345/7375
+#EXTINF:-1 group-title="MAKEDONIJA / MACEDONIA" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/mrt2-logo.png",MRT 2
+http://ott.dobratv.net:25461/emina/12345/7371
+#EXTINF:-1 group-title="MAKEDONIJA / MACEDONIA" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/mrt1-logo.png",MRT 1
+http://ott.dobratv.net:25461/emina/12345/7344
+#EXTINF:-1 group-title="CRNA GORA / MONTENEGRO" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/RTCG-Sat-logo.jpg",RTCG SAT
+http://ott.dobratv.net:25461/emina/12345/7377
+#EXTINF:-1 group-title="SHQIP / ALBANIAN / ALBANES" tvg-logo="http://www.albepg.com/tvlogi/Klan%20Plus.png",Klan Plus
+http://ott.dobratv.net:25461/emina/12345/7401
+#EXTINF:-1 group-title="SHQIP / ALBANIAN / ALBANES" tvg-logo="http://www.albepg.com/tvlogi/Koha%20Vision%20HD.png",KTV AL
+http://ott.dobratv.net:25461/emina/12345/7402
+#EXTINF:-1 group-title="SHQIP / ALBANIAN / ALBANES" tvg-logo="http://www.albepg.com/tvlogi/RTV%2021%20MK.png",RTV 21 MK
+http://ott.dobratv.net:25461/emina/12345/7403
+#EXTINF:-1 group-title="SHQIP / ALBANIAN / ALBANES" tvg-logo="http://www.albepg.com/tvlogi/RTSH2%20HD.png",RTSH 2
+http://ott.dobratv.net:25461/emina/12345/7422
+#EXTINF:-1 group-title="SHQIP / ALBANIAN / ALBANES" tvg-logo="http://www.albepg.com/tvlogi/RTSH%20Shqip.png",RTSH Shqip
+http://ott.dobratv.net:25461/emina/12345/7424
+#EXTINF:-1 group-title="SRBIJA / SERBIA" tvg-logo="https://tsd-tv.com/wp-content/uploads/2019/10/cropped-android-chrome-512x512.png",TSD - TELEVIZIJA SRPSKE DIJASPORE
+http://ott.dobratv.net:25461/emina/12345/7442
+#EXTINF:-1 group-title="BIH / BOSNIA",NEON TV
+http://ott.dobratv.net:25461/emina/12345/7447
+#EXTINF:-1 group-title="HRVATSKA / CROATIA / CROACIA" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/stv-logo.png",STV
+http://ott.dobratv.net:25461/emina/12345/7449
+#EXTINF:-1 group-title="BIH / BOSNIA",Tk Tuzla
+http://ott.dobratv.net:25461/emina/12345/7453
+#EXTINF:-1 group-title="FILMSKI / MOVIE /  PELÍCULA",SEHARA ONLINE
+http://ott.dobratv.net:25461/emina/12345/7461
+#EXTINF:-1 group-title="SHQIP / ALBANIAN / ALBANES" tvg-logo="https://imagehost.imageupload.net/2020/06/13/20200614_005851.jpg",Ulqini TV
+http://ott.dobratv.net:25461/emina/12345/7541
+#EXTINF:-1 group-title="RADIO STANICE / STATIONS / EMISORAS",DEEJAY RADIO CROATIA
+http://ott.dobratv.net:25461/emina/12345/7545
+#EXTINF:-1 group-title="ŠPANIJA / SPAIN / ESPAÑA" tvg-logo="https://static.wixstatic.com/media/0e5f34_96e8d6cdf2304b0bbc627c90f5020e62~mv2.png",MAR TV 2
+http://ott.dobratv.net:25461/emina/12345/7663
+#EXTINF:-1 group-title="ŠPANIJA / SPAIN / ESPAÑA",UNO TV LATINA
+http://ott.dobratv.net:25461/emina/12345/7667
+#EXTINF:-1 group-title="ŠPANIJA / SPAIN / ESPAÑA",MAR TV SARAJEVO
+http://ott.dobratv.net:25461/emina/12345/13199
+#EXTINF:-1 group-title="SHQIP / ALBANIAN / ALBANES" tvg-logo="data:image/jpeg;base64,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",Turbo Channel
+http://ott.dobratv.net:25461/emina/12345/13205
+#EXTINF:-1 group-title="SHQIP / ALBANIAN / ALBANES" tvg-logo="http://www.albepg.com/tvlogi/MTV%20Kosova.png",Mtv Kosova
+http://ott.dobratv.net:25461/emina/12345/13206
+#EXTINF:-1 group-title="SANDŽAK / SANJAK",SANDZAK TV HD
+http://ott.dobratv.net:25461/emina/12345/13216
+#EXTINF:-1 group-title="VIJESTI / NEWS / NOTICIAS",CURRENT TV
+http://ott.dobratv.net:25461/emina/12345/13224
+#EXTINF:-1 group-title="IR IRAN",IFilm Balkan
+http://ott.dobratv.net:25461/emina/12345/13237
+#EXTINF:-1 group-title="BIH / BOSNIA",RTV VOGOŠĆA
+http://ott.dobratv.net:25461/emina/12345/13240
+#EXTINF:-1 group-title="VIJESTI / NEWS / NOTICIAS",EURONEWS
+http://ott.dobratv.net:25461/emina/12345/13309
+#EXTINF:-1 group-title="SRBIJA / SERBIA",KRISTAL TV
+http://ott.dobratv.net:25461/emina/12345/13314
+#EXTINF:-1 group-title="CRNA GORA / MONTENEGRO" tvg-logo="http://proxiapp.me/logo/cg/Sun.png",TV Sun
+http://ott.dobratv.net:25461/emina/12345/13329
+#EXTINF:-1 group-title="CRNA GORA / MONTENEGRO",RTV CORONA
+http://ott.dobratv.net:25461/emina/12345/13752
+#EXTINF:-1 group-title="BIH / BOSNIA",TV ŽIVINICE
+http://ott.dobratv.net:25461/emina/12345/13755
+#EXTINF:-1 ,Radio Deshira
+http://ott.dobratv.net:25461/emina/12345/13676
+#EXTINF:-1 group-title="BIH / BOSNIA",ATV BANJA LUKA
+http://ott.dobratv.net:25461/emina/12345/13951
+#EXTINF:-1 group-title="DOBRA / GOOD / BUENA TV",DOBRA SEVDAH
+http://ott.dobratv.net:25461/emina/12345/13954
+#EXTINF:-1 ,Radio Red Tetove
+http://ott.dobratv.net:25461/emina/12345/13944
+#EXTINF:-1 group-title="DOBRA / GOOD / BUENA TV",DOBRA BOŠNJAČKA
+http://ott.dobratv.net:25461/emina/12345/14140
+#EXTINF:-1 group-title="DOBRA / GOOD / BUENA TV",DOBRA SPORTSKA
+http://ott.dobratv.net:25461/emina/12345/14141
+#EXTINF:-1 group-title="DOBRA / GOOD / BUENA TV",BUENA LATINA
+http://ott.dobratv.net:25461/emina/12345/14142
+#EXTINF:-1 group-title="DOBRA / GOOD / BUENA TV",BUENA ESPANOLA
+http://ott.dobratv.net:25461/emina/12345/14143
+#EXTINF:-1 group-title="CRNA GORA / MONTENEGRO",MONTELUX TV
+http://ott.dobratv.net:25461/emina/12345/14144
+#EXTINF:-1 group-title="DOBRA / GOOD / BUENA TV",DOBRA TRAVEL
+http://ott.dobratv.net:25461/emina/12345/14145
+#EXTINF:-1 group-title="DOBRA / GOOD / BUENA TV",DOBRA PRAVOSLAVNA
+http://ott.dobratv.net:25461/emina/12345/14146
+#EXTINF:-1 group-title="DOBRA / GOOD / BUENA TV",DOBRA DJEČIJA
+http://ott.dobratv.net:25461/emina/12345/14147
+#EXTINF:-1 group-title="DOBRA / GOOD / BUENA TV",ILLYRIA TV
+http://ott.dobratv.net:25461/emina/12345/14148
+#EXTINF:-1 group-title="DOBRA / GOOD / BUENA TV",DOBRA PLUS
+http://ott.dobratv.net:25461/emina/12345/14149
+#EXTINF:-1 group-title="DOBRA / GOOD / BUENA TV",IYI TURK
+http://ott.dobratv.net:25461/emina/12345/14150
+#EXTINF:-1 group-title="DOBRA / GOOD / BUENA TV",DOBRA SVADBA
+http://ott.dobratv.net:25461/emina/12345/14151
+#EXTINF:-1 group-title="DOBRA / GOOD / BUENA TV",BNN TV
+http://ott.dobratv.net:25461/emina/12345/14152
+#EXTINF:-1 group-title="DOBRA / GOOD / BUENA TV",DOBRA SRPSKA
+http://ott.dobratv.net:25461/emina/12345/14153
+#EXTINF:-1 group-title="DOBRA / GOOD / BUENA TV",DOBRA CRNOGORSKA
+http://ott.dobratv.net:25461/emina/12345/14154
+#EXTINF:-1 group-title="DOBRA / GOOD / BUENA TV",DOBRA WORLD MUSIC
+http://ott.dobratv.net:25461/emina/12345/14155
+#EXTINF:-1 group-title="DOBRA / GOOD / BUENA TV",DOBRA HRVATSKA
+http://ott.dobratv.net:25461/emina/12345/14157
+#EXTINF:-1 group-title="VJERSKI / RELIGIOUS /  RELIGIOSO",MEKKA TV
+http://ott.dobratv.net:25461/emina/12345/14158
+#EXTINF:-1 group-title="FILMSKI / MOVIE /  PELÍCULA",MaxCro Select 1 HD
+http://ott.dobratv.net:25461/emina/12345/14159
+#EXTINF:-1 group-title="FILMSKI / MOVIE /  PELÍCULA",MaxCro Select 2 HD
+http://ott.dobratv.net:25461/emina/12345/14160
+#EXTINF:-1 group-title="FILMSKI / MOVIE /  PELÍCULA",MaxCro Select 3 HD
+http://ott.dobratv.net:25461/emina/12345/14161
+#EXTINF:-1 group-title="FILMSKI / MOVIE /  PELÍCULA",MaxCro Select 4 HD
+http://ott.dobratv.net:25461/emina/12345/14162
+#EXTINF:-1 group-title="FILMSKI / MOVIE /  PELÍCULA",MaxCro Select 5 HD
+http://ott.dobratv.net:25461/emina/12345/14163
+#EXTINF:-1 group-title="FILMSKI / MOVIE /  PELÍCULA",MaxCro Select 6 HD
+http://ott.dobratv.net:25461/emina/12345/14164
+#EXTINF:-1 group-title="FILMSKI / MOVIE /  PELÍCULA",MaxCro Select 8 HD
+http://ott.dobratv.net:25461/emina/12345/14165
+#EXTINF:-1 group-title="FILMSKI / MOVIE /  PELÍCULA",MaxCro Select 9 HD
+http://ott.dobratv.net:25461/emina/12345/14166
+#EXTINF:-1 group-title="FILMSKI / MOVIE /  PELÍCULA",MaxCro Select 10 HD
+http://ott.dobratv.net:25461/emina/12345/14167
+#EXTINF:-1 group-title="FILMSKI / MOVIE /  PELÍCULA",iFILM BALKAN 2
+http://ott.dobratv.net:25461/emina/12345/14168
+#EXTINF:-1 group-title="DOBRA / GOOD / BUENA TV",DOBRA MAKEDONSKA
+http://ott.dobratv.net:25461/emina/12345/14186
+#EXTINF:-1 group-title="IR IRAN",TV SAHAR
+http://ott.dobratv.net:25461/emina/12345/14187
+#EXTINF:-1 group-title="BRAZIL / BRASIL",ELEMENTAL TV
+http://ott.dobratv.net:25461/emina/12345/13950
+#EXTINF:-1  tvg-logo="http://ott.dobratv.net:25461/images/12939aefa5070e38ceb3282acbdf87bb.jpg",Matador S01 E01
+http://ott.dobratv.net:25461/series/emina/12345/2518.mp4
+#EXTINF:-1  tvg-logo="http://ott.dobratv.net:25461/images/12939aefa5070e38ceb3282acbdf87bb.jpg",Matador S01 E02
+http://ott.dobratv.net:25461/series/emina/12345/2519.mp4
+#EXTINF:-1  tvg-logo="http://ott.dobratv.net:25461/images/12939aefa5070e38ceb3282acbdf87bb.jpg",Matador S01 E03
+http://ott.dobratv.net:25461/series/emina/12345/2520.mp4
+#EXTINF:-1  tvg-logo="http://ott.dobratv.net:25461/images/12939aefa5070e38ceb3282acbdf87bb.jpg",Matador S01 E04
+http://ott.dobratv.net:25461/series/emina/12345/2521.mp4
+#EXTINF:-1  tvg-logo="http://ott.dobratv.net:25461/images/12939aefa5070e38ceb3282acbdf87bb.jpg",Matador S01 E05
+http://ott.dobratv.net:25461/series/emina/12345/2522.mp4
+#EXTINF:-1  tvg-logo="http://ott.dobratv.net:25461/images/12939aefa5070e38ceb3282acbdf87bb.jpg",Matador S01 E06
+http://ott.dobratv.net:25461/series/emina/12345/2523.mp4
+#EXTINF:-1  tvg-logo="http://ott.dobratv.net:25461/images/12939aefa5070e38ceb3282acbdf87bb.jpg",Matador S01 E07
+http://ott.dobratv.net:25461/series/emina/12345/2524.mp4
+#EXTINF:-1  tvg-logo="http://ott.dobratv.net:25461/images/12939aefa5070e38ceb3282acbdf87bb.jpg",Matador S01 E08
+http://ott.dobratv.net:25461/series/emina/12345/2525.mp4
+#EXTINF:-1  tvg-logo="http://ott.dobratv.net:25461/images/12939aefa5070e38ceb3282acbdf87bb.jpg",Matador S01 E09
+http://ott.dobratv.net:25461/series/emina/12345/2526.mp4
+#EXTINF:-1  tvg-logo="http://ott.dobratv.net:25461/images/12939aefa5070e38ceb3282acbdf87bb.jpg",Matador S01 E10
+http://ott.dobratv.net:25461/series/emina/12345/2527.mp4
+#EXTINF:-1  tvg-logo="http://ott.dobratv.net:25461/images/a6b536efcb51918e50deb6ba80621e00.jpg",Crna pamet S01 E01
+http://ott.dobratv.net:25461/series/emina/12345/2540.mp4
+#EXTINF:-1  tvg-logo="http://ott.dobratv.net:25461/images/a6b536efcb51918e50deb6ba80621e00.jpg",Crna pamet S01 E02
+http://ott.dobratv.net:25461/series/emina/12345/2551.mp4
+#EXTINF:-1  tvg-logo="http://ott.dobratv.net:25461/images/a6b536efcb51918e50deb6ba80621e00.jpg",Crna pamet S01 E03
+http://ott.dobratv.net:25461/series/emina/12345/2550.mp4
+#EXTINF:-1  tvg-logo="http://ott.dobratv.net:25461/images/a6b536efcb51918e50deb6ba80621e00.jpg",Crna pamet S01 E04
+http://ott.dobratv.net:25461/series/emina/12345/2549.mp4
+#EXTINF:-1  tvg-logo="http://ott.dobratv.net:25461/images/a6b536efcb51918e50deb6ba80621e00.jpg",Crna pamet S01 E05
+http://ott.dobratv.net:25461/series/emina/12345/2548.mp4
+#EXTINF:-1  tvg-logo="http://ott.dobratv.net:25461/images/a6b536efcb51918e50deb6ba80621e00.jpg",Crna pamet S01 E06
+http://ott.dobratv.net:25461/series/emina/12345/2547.mp4
+#EXTINF:-1  tvg-logo="http://ott.dobratv.net:25461/images/a6b536efcb51918e50deb6ba80621e00.jpg",Crna pamet S01 E07
+http://ott.dobratv.net:25461/series/emina/12345/2546.mp4
+#EXTINF:-1  tvg-logo="http://ott.dobratv.net:25461/images/a6b536efcb51918e50deb6ba80621e00.jpg",Crna pamet S01 E08
+http://ott.dobratv.net:25461/series/emina/12345/2545.mp4
+#EXTINF:-1  tvg-logo="http://ott.dobratv.net:25461/images/a6b536efcb51918e50deb6ba80621e00.jpg",Crna pamet S01 E09
+http://ott.dobratv.net:25461/series/emina/12345/2544.mp4
+#EXTINF:-1  tvg-logo="http://ott.dobratv.net:25461/images/a6b536efcb51918e50deb6ba80621e00.jpg",Crna pamet S01 E10
+http://ott.dobratv.net:25461/series/emina/12345/2543.mp4
+#EXTINF:-1  tvg-logo="http://ott.dobratv.net:25461/images/a6b536efcb51918e50deb6ba80621e00.jpg",Crna pamet S01 E11
+http://ott.dobratv.net:25461/series/emina/12345/2542.mp4
+#EXTINF:-1  tvg-logo="http://ott.dobratv.net:25461/images/a6b536efcb51918e50deb6ba80621e00.jpg",Crna pamet S01 E12
+http://ott.dobratv.net:25461/series/emina/12345/2541.mp4
+#EXTINF:-1  tvg-logo="http://ott.dobratv.net:25461/images/a6b536efcb51918e50deb6ba80621e00.jpg",Crna pamet S01 E13
+http://ott.dobratv.net:25461/series/emina/12345/2528.mp4
+#EXTINF:-1  tvg-logo="http://ott.dobratv.net:25461/images/a6b536efcb51918e50deb6ba80621e00.jpg",Crna pamet S01 E14
+http://ott.dobratv.net:25461/series/emina/12345/2539.mp4
+#EXTINF:-1  tvg-logo="http://ott.dobratv.net:25461/images/a6b536efcb51918e50deb6ba80621e00.jpg",Crna pamet S01 E15
+http://ott.dobratv.net:25461/series/emina/12345/2538.mp4
+#EXTINF:-1  tvg-logo="http://ott.dobratv.net:25461/images/a6b536efcb51918e50deb6ba80621e00.jpg",Crna pamet S01 E16
+http://ott.dobratv.net:25461/series/emina/12345/2537.mp4
+#EXTINF:-1  tvg-logo="http://ott.dobratv.net:25461/images/a6b536efcb51918e50deb6ba80621e00.jpg",Crna pamet S01 E17
+http://ott.dobratv.net:25461/series/emina/12345/2536.mp4
+#EXTINF:-1  tvg-logo="http://ott.dobratv.net:25461/images/a6b536efcb51918e50deb6ba80621e00.jpg",Crna pamet S01 E18
+http://ott.dobratv.net:25461/series/emina/12345/2535.mp4
+#EXTINF:-1  tvg-logo="http://ott.dobratv.net:25461/images/a6b536efcb51918e50deb6ba80621e00.jpg",Crna pamet S01 E19
+http://ott.dobratv.net:25461/series/emina/12345/2534.mp4
+#EXTINF:-1  tvg-logo="http://ott.dobratv.net:25461/images/a6b536efcb51918e50deb6ba80621e00.jpg",Crna pamet S01 E20
+http://ott.dobratv.net:25461/series/emina/12345/2533.mp4
+#EXTINF:-1  tvg-logo="http://ott.dobratv.net:25461/images/a6b536efcb51918e50deb6ba80621e00.jpg",Crna pamet S01 E21
+http://ott.dobratv.net:25461/series/emina/12345/2532.mp4
+#EXTINF:-1  tvg-logo="http://ott.dobratv.net:25461/images/a6b536efcb51918e50deb6ba80621e00.jpg",Crna pamet S01 E22
+http://ott.dobratv.net:25461/series/emina/12345/2531.mp4
+#EXTINF:-1  tvg-logo="http://ott.dobratv.net:25461/images/a6b536efcb51918e50deb6ba80621e00.jpg",Crna pamet S01 E23
+http://ott.dobratv.net:25461/series/emina/12345/2530.mp4
+#EXTINF:-1  tvg-logo="http://ott.dobratv.net:25461/images/a6b536efcb51918e50deb6ba80621e00.jpg",Crna pamet S01 E24
+http://ott.dobratv.net:25461/series/emina/12345/2529.mp4
+#EXTINF:-1  tvg-logo="https://media.parstoday.com/image/4bmze855d71194tjj0_800C450.jpg",Obrnuto tumacenje jednog sna S01 E01
+http://ott.dobratv.net:25461/series/emina/12345/2565.mp4
+#EXTINF:-1  tvg-logo="https://media.parstoday.com/image/4bmze855d71194tjj0_800C450.jpg",Obrnuto tumacenje jednog sna S01 E02
+http://ott.dobratv.net:25461/series/emina/12345/2575.mp4
+#EXTINF:-1  tvg-logo="https://media.parstoday.com/image/4bmze855d71194tjj0_800C450.jpg",Obrnuto tumacenje jednog sna S01 E03
+http://ott.dobratv.net:25461/series/emina/12345/2576.mp4
+#EXTINF:-1  tvg-logo="https://media.parstoday.com/image/4bmze855d71194tjj0_800C450.jpg",Obrnuto tumacenje jednog sna S01 E04
+http://ott.dobratv.net:25461/series/emina/12345/2577.mp4
+#EXTINF:-1  tvg-logo="https://media.parstoday.com/image/4bmze855d71194tjj0_800C450.jpg",Obrnuto tumacenje jednog sna S01 E05
+http://ott.dobratv.net:25461/series/emina/12345/2574.mp4
+#EXTINF:-1  tvg-logo="https://media.parstoday.com/image/4bmze855d71194tjj0_800C450.jpg",Obrnuto tumacenje jednog sna S01 E06
+http://ott.dobratv.net:25461/series/emina/12345/2573.mp4
+#EXTINF:-1  tvg-logo="https://media.parstoday.com/image/4bmze855d71194tjj0_800C450.jpg",Obrnuto tumacenje jednog sna S01 E07
+http://ott.dobratv.net:25461/series/emina/12345/2572.mp4
+#EXTINF:-1  tvg-logo="https://media.parstoday.com/image/4bmze855d71194tjj0_800C450.jpg",Obrnuto tumacenje jednog sna S01 E08
+http://ott.dobratv.net:25461/series/emina/12345/2571.mp4
+#EXTINF:-1  tvg-logo="https://media.parstoday.com/image/4bmze855d71194tjj0_800C450.jpg",Obrnuto tumacenje jednog sna S01 E09
+http://ott.dobratv.net:25461/series/emina/12345/2570.mp4
+#EXTINF:-1  tvg-logo="https://media.parstoday.com/image/4bmze855d71194tjj0_800C450.jpg",Obrnuto tumacenje jednog sna S01 E10
+http://ott.dobratv.net:25461/series/emina/12345/2569.mp4
+#EXTINF:-1  tvg-logo="https://media.parstoday.com/image/4bmze855d71194tjj0_800C450.jpg",Obrnuto tumacenje jednog sna S01 E11
+http://ott.dobratv.net:25461/series/emina/12345/2568.mp4
+#EXTINF:-1  tvg-logo="https://media.parstoday.com/image/4bmze855d71194tjj0_800C450.jpg",Obrnuto tumacenje jednog sna S01 E12
+http://ott.dobratv.net:25461/series/emina/12345/2567.mp4
+#EXTINF:-1  tvg-logo="https://media.parstoday.com/image/4bmze855d71194tjj0_800C450.jpg",Obrnuto tumacenje jednog sna S01 E13
+http://ott.dobratv.net:25461/series/emina/12345/2566.mp4
+#EXTINF:-1  tvg-logo="https://media.parstoday.com/image/4bmze855d71194tjj0_800C450.jpg",Obrnuto tumacenje jednog sna S01 E14
+http://ott.dobratv.net:25461/series/emina/12345/2552.mp4
+#EXTINF:-1  tvg-logo="https://media.parstoday.com/image/4bmze855d71194tjj0_800C450.jpg",Obrnuto tumacenje jednog sna S01 E15
+http://ott.dobratv.net:25461/series/emina/12345/2564.mp4
+#EXTINF:-1  tvg-logo="https://media.parstoday.com/image/4bmze855d71194tjj0_800C450.jpg",Obrnuto tumacenje jednog sna S01 E16
+http://ott.dobratv.net:25461/series/emina/12345/2563.mp4
+#EXTINF:-1  tvg-logo="https://media.parstoday.com/image/4bmze855d71194tjj0_800C450.jpg",Obrnuto tumacenje jednog sna S01 E17
+http://ott.dobratv.net:25461/series/emina/12345/2562.mp4
+#EXTINF:-1  tvg-logo="https://media.parstoday.com/image/4bmze855d71194tjj0_800C450.jpg",Obrnuto tumacenje jednog sna S01 E18
+http://ott.dobratv.net:25461/series/emina/12345/2561.mp4
+#EXTINF:-1  tvg-logo="https://media.parstoday.com/image/4bmze855d71194tjj0_800C450.jpg",Obrnuto tumacenje jednog sna S01 E19
+http://ott.dobratv.net:25461/series/emina/12345/2560.mp4
+#EXTINF:-1  tvg-logo="https://media.parstoday.com/image/4bmze855d71194tjj0_800C450.jpg",Obrnuto tumacenje jednog sna S01 E20
+http://ott.dobratv.net:25461/series/emina/12345/2559.mp4
+#EXTINF:-1  tvg-logo="https://media.parstoday.com/image/4bmze855d71194tjj0_800C450.jpg",Obrnuto tumacenje jednog sna S01 E21
+http://ott.dobratv.net:25461/series/emina/12345/2558.mp4
+#EXTINF:-1  tvg-logo="https://media.parstoday.com/image/4bmze855d71194tjj0_800C450.jpg",Obrnuto tumacenje jednog sna S01 E22
+http://ott.dobratv.net:25461/series/emina/12345/2557.mp4
+#EXTINF:-1  tvg-logo="https://media.parstoday.com/image/4bmze855d71194tjj0_800C450.jpg",Obrnuto tumacenje jednog sna S01 E23
+http://ott.dobratv.net:25461/series/emina/12345/2556.mp4
+#EXTINF:-1  tvg-logo="https://media.parstoday.com/image/4bmze855d71194tjj0_800C450.jpg",Obrnuto tumacenje jednog sna S01 E24
+http://ott.dobratv.net:25461/series/emina/12345/2555.mp4
+#EXTINF:-1  tvg-logo="https://media.parstoday.com/image/4bmze855d71194tjj0_800C450.jpg",Obrnuto tumacenje jednog sna S01 E25
+http://ott.dobratv.net:25461/series/emina/12345/2554.mp4
+#EXTINF:-1  tvg-logo="https://media.parstoday.com/image/4bmze855d71194tjj0_800C450.jpg",Obrnuto tumacenje jednog sna S01 E26
+http://ott.dobratv.net:25461/series/emina/12345/2553.mp4
 #EXTINF:-1,Pink 1
 http://fasttvuk.com:2086/DL/dl/65009
 #EXTINF:-1,Pink 2
