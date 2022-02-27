@@ -1,4 +1,308 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="EX YU: CINEMAX 1" tvg-logo="https://i.pinimg.com/originals/fe/93/64/fe9364c419ad8abed018dbed7774aa0d.png" group-title="EX-YU KANALI",EX YU: CINEMAX 1
+http://163.172.57.208:25461/besplatnalista/fKOUBLJpgV/1
+#EXTINF:-1 tvg-id="" tvg-name="EX YU: CINEMAX-2" tvg-logo="https://i.pinimg.com/originals/fe/93/64/fe9364c419ad8abed018dbed7774aa0d.png" group-title="EX-YU KANALI",EX YU: CINEMAX-2
+http://163.172.57.208:25461/besplatnalista/fKOUBLJpgV/2
+#EXTINF:-1 tvg-id="" tvg-name="EX YU: DOMA-TV" tvg-logo="http://195.154.156.100:88/EXYU.Logo/NOVA-tv%20LOGO.png" group-title="EX-YU KANALI",EX YU: DOMA-TV
+http://163.172.57.208:25461/besplatnalista/fKOUBLJpgV/3
+#EXTINF:-1 tvg-id="" tvg-name="EX YU: Happy tv" tvg-logo="https://i.pinimg.com/originals/11/92/f1/1192f18ee554959a6d23bcbb6d432d3d.jpg" group-title="EX-YU KANALI",EX YU: Happy tv
+http://163.172.57.208:25461/besplatnalista/fKOUBLJpgV/4
+#EXTINF:-1 tvg-id="" tvg-name="EX YU: HBO 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/67/HBO_New_Logo.png" group-title="EX-YU KANALI",EX YU: HBO 2
+http://163.172.57.208:25461/besplatnalista/fKOUBLJpgV/5
+#EXTINF:-1 tvg-id="" tvg-name="EX YU: HBO 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/67/HBO_New_Logo.png" group-title="EX-YU KANALI",EX YU: HBO 3
+http://163.172.57.208:25461/besplatnalista/fKOUBLJpgV/6
+#EXTINF:-1 tvg-id="" tvg-name="EX YU: HBO Adria" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/67/HBO_New_Logo.png" group-title="EX-YU KANALI",EX YU: HBO Adria
+http://163.172.57.208:25461/besplatnalista/fKOUBLJpgV/7
+#EXTINF:-1 tvg-id="" tvg-name="EX YU: HISTORY CHANNEL" tvg-logo="https://seeklogo.com/images/T/the-history-channel-logo-A5BA467B18-seeklogo.com.png" group-title="EX-YU KANALI",EX YU: HISTORY CHANNEL
+http://163.172.57.208:25461/besplatnalista/fKOUBLJpgV/8
+#EXTINF:-1 tvg-id="" tvg-name="EX YU: HRT 2" tvg-logo="http://zipzap.ba/wp-content/uploads/2014/12/hrt2.png" group-title="EX-YU KANALI",EX YU: HRT 2
+http://163.172.57.208:25461/besplatnalista/fKOUBLJpgV/9
+#EXTINF:-1 tvg-id="" tvg-name="EX YU: HRT 3" tvg-logo="http://zipzap.ba/wp-content/uploads/2014/12/hrt3.png" group-title="EX-YU KANALI",EX YU: HRT 3
+http://163.172.57.208:25461/besplatnalista/fKOUBLJpgV/10
+#EXTINF:-1 tvg-id="" tvg-name="EX YU: HRT 4" tvg-logo="http://zipzap.ba/wp-content/uploads/2014/12/hrt4.png" group-title="EX-YU KANALI",EX YU: HRT 4
+http://163.172.57.208:25461/besplatnalista/fKOUBLJpgV/11
+#EXTINF:-1 tvg-id="" tvg-name="EX YU: NOVA TV HR" tvg-logo="http://195.154.156.100:88/EXYU.Logo/NOVA-tv%20LOGO.png" group-title="EX-YU KANALI",EX YU: NOVA TV HR
+http://163.172.57.208:25461/besplatnalista/fKOUBLJpgV/12
+#EXTINF:-1 tvg-id="" tvg-name="EX YU: RTL 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/RTL_logo.svg/1280px-RTL_logo.svg.png" group-title="EX-YU KANALI",EX YU: RTL 2
+http://163.172.57.208:25461/besplatnalista/fKOUBLJpgV/13
+#EXTINF:-1 tvg-id="" tvg-name="EX YU: Vinkovacka TV" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/3/39/VKTV_2014.jpg/revision/latest/scale-to-width-down/220?cb=20141027110917" group-title="EX-YU KANALI",EX YU: Vinkovacka TV
+http://163.172.57.208:25461/besplatnalista/fKOUBLJpgV/14
+#EXTINF:-1 tvg-id="" tvg-name="EX-YU: Al Jazeera Balkan" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/Ladyalbania.al_LOGO.jpg" group-title="EX-YU KANALI",EX-YU: Al Jazeera Balkan
+http://163.172.57.208:25461/besplatnalista/fKOUBLJpgV/15
+#EXTINF:-1 tvg-id="" tvg-name="EX-YU: Alfa" tvg-logo="https://seeklogo.com/images/A/alfa-logo-D2755700B7-seeklogo.com.gif" group-title="EX-YU KANALI",EX-YU: Alfa
+http://163.172.57.208:25461/besplatnalista/fKOUBLJpgV/16
+#EXTINF:-1 tvg-id="" tvg-name="EX-YU: ANIMAL PLANET" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Animal_Planet_logo.svg/797px-Animal_Planet_logo.svg.png" group-title="EX-YU KANALI",EX-YU: ANIMAL PLANET
+http://163.172.57.208:25461/besplatnalista/fKOUBLJpgV/17
+#EXTINF:-1 tvg-id="" tvg-name="EX-YU: AXN" tvg-logo="https://seeklogo.net/wp-content/uploads/2015/11/axn-logo-vector-download.jpg" group-title="EX-YU KANALI",EX-YU: AXN
+http://163.172.57.208:25461/besplatnalista/fKOUBLJpgV/18
+#EXTINF:-1 tvg-id="" tvg-name="EX-YU: B92" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Logo_of_B92_%282020-present%29.svg/1200px-Logo_of_B92_%282020-present%29.svg.png" group-title="EX-YU KANALI",EX-YU: B92
+http://163.172.57.208:25461/besplatnalista/fKOUBLJpgV/19
+#EXTINF:-1 tvg-id="" tvg-name="EX-YU: BHT" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/ce/BHT_1_logo.png" group-title="EX-YU KANALI",EX-YU: BHT
+http://163.172.57.208:25461/besplatnalista/fKOUBLJpgV/20
+#EXTINF:-1 tvg-id="" tvg-name="EX-YU: BHT 1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/ce/BHT_1_logo.png" group-title="EX-YU KANALI",EX-YU: BHT 1 HD
+http://163.172.57.208:25461/besplatnalista/fKOUBLJpgV/21
+#EXTINF:-1 tvg-id="" tvg-name="EX-YU: BN" tvg-logo="http://logowiki.net/wp-content/uploads/2017/11/BN-TV-Logo-1-5705.jpg" group-title="EX-YU KANALI",EX-YU: BN
+http://163.172.57.208:25461/besplatnalista/fKOUBLJpgV/22
+#EXTINF:-1 tvg-id="" tvg-name="EX-YU: BN Music" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/99/BNMusiclogo.jpg" group-title="EX-YU KANALI",EX-YU: BN Music
+http://163.172.57.208:25461/besplatnalista/fKOUBLJpgV/23
+#EXTINF:-1 tvg-id="" tvg-name="EX-YU: BN SAT" tvg-logo="http://logowiki.net/wp-content/uploads/2017/11/BN-TV-Logo-1-5705.jpg" group-title="EX-YU KANALI",EX-YU: BN SAT
+http://163.172.57.208:25461/besplatnalista/fKOUBLJpgV/24
+#EXTINF:-1 tvg-id="" tvg-name="EX-YU: Cinestar Action" tvg-logo="https://www.pngkit.com/png/detail/282-2821087_cinestar-cinestar-action.png" group-title="EX-YU KANALI",EX-YU: Cinestar Action
+http://163.172.57.208:25461/besplatnalista/fKOUBLJpgV/25
+#EXTINF:-1 tvg-id="" tvg-name="EX-YU: Cinestar Premier 2" tvg-logo="http://static.ybox.vn/2019/2/4/1550727506083-Cinestar.png" group-title="EX-YU KANALI",EX-YU: Cinestar Premier 2
+http://163.172.57.208:25461/besplatnalista/fKOUBLJpgV/26
+#EXTINF:-1 tvg-id="" tvg-name="EX-YU: Cinestar Premiere 1" tvg-logo="https://tvprofil.com/img/kanali-logo/CineStar_TV_premiere_1_logo.png" group-title="EX-YU KANALI",EX-YU: Cinestar Premiere 1
+http://163.172.57.208:25461/besplatnalista/fKOUBLJpgV/27
+#EXTINF:-1 tvg-id="" tvg-name="EX-YU: CMC" tvg-logo="http://4.bp.blogspot.com/-BF_cF01UkTg/Vh6eLkdFqvI/AAAAAAAADcM/yB8sPhSBLbg/s1600/cmc.PNG" group-title="EX-YU KANALI",EX-YU: CMC
+http://163.172.57.208:25461/besplatnalista/fKOUBLJpgV/28
+#EXTINF:-1 tvg-id="" tvg-name="EX-YU: Discovery" tvg-logo="https://oes.vn/wp-content/uploads/2016/03/Discovery-channel-logo-old-1024x768.png" group-title="EX-YU KANALI",EX-YU: Discovery
+http://163.172.57.208:25461/besplatnalista/fKOUBLJpgV/29
+#EXTINF:-1 tvg-id="" tvg-name="EX-YU: DM Sat" tvg-logo="https://www.dmsat.tv/download/DMSAT_LOGO_3D_BIG.jpg" group-title="EX-YU KANALI",EX-YU: DM Sat
+http://163.172.57.208:25461/besplatnalista/fKOUBLJpgV/30
+#EXTINF:-1 tvg-id="" tvg-name="EX-YU: Eurosport 1" tvg-logo="https://layout.eurosport.com/i/v8/logo/logo-esp-og-new.jpg" group-title="EX-YU KANALI",EX-YU: Eurosport 1
+http://163.172.57.208:25461/besplatnalista/fKOUBLJpgV/31
+#EXTINF:-1 tvg-id="" tvg-name="EX-YU: Eurosport 2" tvg-logo="https://layout.eurosport.com/i/v8/logo/logo-esp-og-new.jpg" group-title="EX-YU KANALI",EX-YU: Eurosport 2
+http://163.172.57.208:25461/besplatnalista/fKOUBLJpgV/32
+#EXTINF:-1 tvg-id="" tvg-name="EX-YU: FACE TV" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/022013/facetv_hd_logo.png?itok=UtkN9Tgn" group-title="EX-YU KANALI",EX-YU: FACE TV
+http://163.172.57.208:25461/besplatnalista/fKOUBLJpgV/33
+#EXTINF:-1 tvg-id="" tvg-name="EX-YU: Federalna TV" tvg-logo="https://s19532.pcdn.co/wp-content/uploads/2019/03/Federal-Tire-logo.png" group-title="EX-YU KANALI",EX-YU: Federalna TV
+http://163.172.57.208:25461/besplatnalista/fKOUBLJpgV/34
+#EXTINF:-1 tvg-id="" tvg-name="EX-YU: Fightbox" tvg-logo="http://channels.roku.com/images/91e7216f1f864ec88f812b0a49f1e38a-hd.jpg" group-title="EX-YU KANALI",EX-YU: Fightbox
+http://163.172.57.208:25461/besplatnalista/fKOUBLJpgV/35
+#EXTINF:-1 tvg-id="" tvg-name="EX-YU: FilmBox Extra" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Filmbox_extra_pl.png/1200px-Filmbox_extra_pl.png" group-title="EX-YU KANALI",EX-YU: FilmBox Extra
+http://163.172.57.208:25461/besplatnalista/fKOUBLJpgV/36
+#EXTINF:-1 tvg-id="" tvg-name="EX-YU: FOX" tvg-logo="https://previews.123rf.com/images/ahmadbrutalism666/ahmadbrutalism6661812/ahmadbrutalism666181200016/113105631-fox-logo-mascot-design-vector-with-modern-and-emblem-style-fox-head-illustration-for-sport-team-and-.jpg" group-title="EX-YU KANALI",EX-YU: FOX
+http://163.172.57.208:25461/besplatnalista/fKOUBLJpgV/37
+#EXTINF:-1 tvg-id="" tvg-name="EX-YU: Fox Crime" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSz-FIPmKPFkjkDfBH0QlU4no9d0LKq39ML5oGLf64-VoVUzXVb" group-title="EX-YU KANALI",EX-YU: Fox Crime
+http://163.172.57.208:25461/besplatnalista/fKOUBLJpgV/38
+#EXTINF:-1 tvg-id="" tvg-name="EX-YU: Fox Life" tvg-logo="http://lichtruyenhinh.com/wp-content/uploads/2018/12/lich-phat-song-fox-life-www.lichtruyenhinh.com_.jpg" group-title="EX-YU KANALI",EX-YU: Fox Life
+http://163.172.57.208:25461/besplatnalista/fKOUBLJpgV/39
+#EXTINF:-1 tvg-id="" tvg-name="EX-YU: Fox Movies" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Fox_Movies_%28Asia%29_logo.svg/1200px-Fox_Movies_%28Asia%29_logo.svg.png" group-title="EX-YU KANALI",EX-YU: Fox Movies
+http://163.172.57.208:25461/besplatnalista/fKOUBLJpgV/40
+#EXTINF:-1 tvg-id="" tvg-name="EX-YU: GRAND TV" tvg-logo="https://pbs.twimg.com/profile_images/641182312206594048/dE-O-ye4.png" group-title="EX-YU KANALI",EX-YU: GRAND TV
+http://163.172.57.208:25461/besplatnalista/fKOUBLJpgV/41
+#EXTINF:-1 tvg-id="" tvg-name="EX-YU: Grand TV 2" tvg-logo="https://pbs.twimg.com/profile_images/641182312206594048/dE-O-ye4.png" group-title="EX-YU KANALI",EX-YU: Grand TV 2
+http://163.172.57.208:25461/besplatnalista/fKOUBLJpgV/42
+#EXTINF:-1 tvg-id="" tvg-name="EX-YU: Happy Parovi" tvg-logo="http://images.happytv.tv/var/albums/Rijaliti/SSSSSS.jpg?m=1464397696" group-title="EX-YU KANALI",EX-YU: Happy Parovi
+http://163.172.57.208:25461/besplatnalista/fKOUBLJpgV/43
+#EXTINF:-1 tvg-id="" tvg-name="EX-YU: Happy Parovi TV 2" tvg-logo="https://pbs.twimg.com/profile_images/1220929049/logotwitter_400x400.png" group-title="EX-YU KANALI",EX-YU: Happy Parovi TV 2
+http://163.172.57.208:25461/besplatnalista/fKOUBLJpgV/44
+#EXTINF:-1 tvg-id="" tvg-name="EX-YU: HAYAT" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/0013/4842/brand.gif?itok=AidyT3iC" group-title="EX-YU KANALI",EX-YU: HAYAT
+http://163.172.57.208:25461/besplatnalista/fKOUBLJpgV/45
+#EXTINF:-1 tvg-id="" tvg-name="EX-YU: HAYAT FOLK" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/0013/4842/brand.gif?itok=AidyT3iC" group-title="EX-YU KANALI",EX-YU: HAYAT FOLK
+http://163.172.57.208:25461/besplatnalista/fKOUBLJpgV/46
+#EXTINF:-1 tvg-id="" tvg-name="EX-YU: HAYAT PLUS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f2/Hayat_Plus.jpg" group-title="EX-YU KANALI",EX-YU: HAYAT PLUS
+http://163.172.57.208:25461/besplatnalista/fKOUBLJpgV/47
+#EXTINF:-1 tvg-id="" tvg-name="EX-YU: HRT 1" tvg-logo="https://escbubble.com/wp-content/uploads/2014/08/Croatia-HRT-TV.gif" group-title="EX-YU KANALI",EX-YU: HRT 1
+http://163.172.57.208:25461/besplatnalista/fKOUBLJpgV/48
+#EXTINF:-1 tvg-id="" tvg-name="EX-YU: KCN 1" tvg-logo="http://3.bp.blogspot.com/-35sg5UENRYA/Ulae99k8_nI/AAAAAAAAAAc/fnt9eD7pgxE/s1600/Logo+2+PNG.png" group-title="EX-YU KANALI",EX-YU: KCN 1
+http://163.172.57.208:25461/besplatnalista/fKOUBLJpgV/49
+#EXTINF:-1 tvg-id="" tvg-name="EX-YU: KCN 2" tvg-logo="http://3.bp.blogspot.com/-35sg5UENRYA/Ulae99k8_nI/AAAAAAAAAAc/fnt9eD7pgxE/s1600/Logo+2+PNG.png" group-title="EX-YU KANALI",EX-YU: KCN 2
+http://163.172.57.208:25461/besplatnalista/fKOUBLJpgV/50
+#EXTINF:-1 tvg-id="" tvg-name="EX-YU: KCN 3" tvg-logo="https://www.ion.tv/america/img/logoch/balkan30.jpg" group-title="EX-YU KANALI",EX-YU: KCN 3
+http://163.172.57.208:25461/besplatnalista/fKOUBLJpgV/51
+#EXTINF:-1 tvg-id="" tvg-name="EX-YU: KLASIK TV" tvg-logo="http://www.pays-tcheques.com/biere/marques/klasik-logo.jpg" group-title="EX-YU KANALI",EX-YU: KLASIK TV
+http://163.172.57.208:25461/besplatnalista/fKOUBLJpgV/52
+#EXTINF:-1 tvg-id="" tvg-name="EX-YU: LOV I RIBOLOV" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/lov_i_ribolov.png" group-title="EX-YU KANALI",EX-YU: LOV I RIBOLOV
+http://163.172.57.208:25461/besplatnalista/fKOUBLJpgV/53
+#EXTINF:-1 tvg-id="" tvg-name="EX-YU: MGM" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/29/MGM_Channel.png" group-title="EX-YU KANALI",EX-YU: MGM
+http://163.172.57.208:25461/besplatnalista/fKOUBLJpgV/54
+#EXTINF:-1 tvg-id="" tvg-name="EX-YU: Mini TV" tvg-logo="https://www.hrvatskitelekom.hr/webresources/images/maxtv-new/programi/minitv.png" group-title="EX-YU KANALI",EX-YU: Mini TV
+http://163.172.57.208:25461/besplatnalista/fKOUBLJpgV/55
+#EXTINF:-1 tvg-id="" tvg-name="EX-YU: Mini TV HR" tvg-logo="https://www.hrvatskitelekom.hr/webresources/images/maxtv-new/programi/minitv.png" group-title="EX-YU KANALI",EX-YU: Mini TV HR
+http://163.172.57.208:25461/besplatnalista/fKOUBLJpgV/56
+#EXTINF:-1 tvg-id="" tvg-name="EX-YU: MRT 1 (local)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Logo_of_MRT_1_%282012-%29.svg/1200px-Logo_of_MRT_1_%282012-%29.svg.png" group-title="EX-YU KANALI",EX-YU: MRT 1 (local)
+http://163.172.57.208:25461/besplatnalista/fKOUBLJpgV/57
+#EXTINF:-1 tvg-id="" tvg-name="EX-YU: MRT 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Logo_of_MRT_2_%282012-%29.svg/1200px-Logo_of_MRT_2_%282012-%29.svg.png" group-title="EX-YU KANALI",EX-YU: MRT 2
+http://163.172.57.208:25461/besplatnalista/fKOUBLJpgV/58
+#EXTINF:-1 tvg-id="" tvg-name="EX-YU: MRTV 3 MK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Logo_of_MRT_3_%282020-%29.svg/1200px-Logo_of_MRT_3_%282020-%29.svg.png" group-title="EX-YU KANALI",EX-YU: MRTV 3 MK
+http://163.172.57.208:25461/besplatnalista/fKOUBLJpgV/59
+#EXTINF:-1 tvg-id="" tvg-name="EX-YU: MTV Adria" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/0015/5461/brand.gif?itok=rxcFiZwh" group-title="EX-YU KANALI",EX-YU: MTV Adria
+http://163.172.57.208:25461/besplatnalista/fKOUBLJpgV/60
+#EXTINF:-1 tvg-id="" tvg-name="EX-YU: MTV Igman" tvg-logo="http://zipzap.ba/wp-content/uploads/2014/12/mtv_igman.png" group-title="EX-YU KANALI",EX-YU: MTV Igman
+http://163.172.57.208:25461/besplatnalista/fKOUBLJpgV/61
+#EXTINF:-1 tvg-id="" tvg-name="EX-YU: N1" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/25/N1_%28company%29_logo.svg/1200px-N1_%28company%29_logo.svg.png" group-title="EX-YU KANALI",EX-YU: N1
+http://163.172.57.208:25461/besplatnalista/fKOUBLJpgV/62
+#EXTINF:-1 tvg-id="" tvg-name="EX-YU: N1 Bosna" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/0015/0166/brand.gif?itok=EW5VkObe" group-title="EX-YU KANALI",EX-YU: N1 Bosna
+http://163.172.57.208:25461/besplatnalista/fKOUBLJpgV/63
+#EXTINF:-1 tvg-id="" tvg-name="EX-YU: Nat Geo Wild" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/Nat_Geo_Wild_logo.png" group-title="EX-YU KANALI",EX-YU: Nat Geo Wild
+http://163.172.57.208:25461/besplatnalista/fKOUBLJpgV/64
+#EXTINF:-1 tvg-id="" tvg-name="EX-YU: National Geographic" tvg-logo="https://i.pinimg.com/originals/3c/05/34/3c05349836951714d4bfe8dde344a2dd.jpg" group-title="EX-YU KANALI",EX-YU: National Geographic
+http://163.172.57.208:25461/besplatnalista/fKOUBLJpgV/65
+#EXTINF:-1 tvg-id="" tvg-name="EX-YU: Nickelodeon" tvg-logo="https://www.multichannel.com/.image/t_share/MTU0MDY0OTgyODY4NDM2NzMx/nickelodeonpng.png" group-title="EX-YU KANALI",EX-YU: Nickelodeon
+http://163.172.57.208:25461/besplatnalista/fKOUBLJpgV/66
+#EXTINF:-1 tvg-id="" tvg-name="EX-YU: NOVA RS pub" tvg-logo="http://logovectorseek.com/wp-content/uploads/2019/08/nova-tv-logo-vector-xs.png" group-title="EX-YU KANALI",EX-YU: NOVA RS pub
+http://163.172.57.208:25461/besplatnalista/fKOUBLJpgV/67
+#EXTINF:-1 tvg-id="" tvg-name="EX-YU: NOVA TV HR" tvg-logo="http://logovectorseek.com/wp-content/uploads/2019/08/nova-tv-logo-vector-xs.png" group-title="EX-YU KANALI",EX-YU: NOVA TV HR
+http://163.172.57.208:25461/besplatnalista/fKOUBLJpgV/68
+#EXTINF:-1 tvg-id="" tvg-name="EX-YU: OBN" tvg-logo="https://mediapool-content.de/wp-content/uploads/2020/02/OBN-TV.jpg" group-title="EX-YU KANALI",EX-YU: OBN
+http://163.172.57.208:25461/besplatnalista/fKOUBLJpgV/69
+#EXTINF:-1 tvg-id="" tvg-name="EX-YU: Otv Valentino" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5a/Logo_of_OTV_Valentino.png" group-title="EX-YU KANALI",EX-YU: Otv Valentino
+http://163.172.57.208:25461/besplatnalista/fKOUBLJpgV/70
+#EXTINF:-1 tvg-id="" tvg-name="EX-YU: Pink & Roll" tvg-logo="https://marketing.dcassetcdn.com/blog/2019/02/32-pink-logos/Model.jpg" group-title="EX-YU KANALI",EX-YU: Pink & Roll
+http://163.172.57.208:25461/besplatnalista/fKOUBLJpgV/71
+#EXTINF:-1 tvg-id="" tvg-name="EX-YU: Pink 1" tvg-logo="https://marketing.dcassetcdn.com/blog/2019/02/32-pink-logos/Model.jpg" group-title="EX-YU KANALI",EX-YU: Pink 1
+http://163.172.57.208:25461/besplatnalista/fKOUBLJpgV/72
+#EXTINF:-1 tvg-id="" tvg-name="EX-YU: Pink 2" tvg-logo="https://marketing.dcassetcdn.com/blog/2019/02/32-pink-logos/Model.jpg" group-title="EX-YU KANALI",EX-YU: Pink 2
+http://163.172.57.208:25461/besplatnalista/fKOUBLJpgV/73
+#EXTINF:-1 tvg-id="" tvg-name="EX-YU: PINK 3" tvg-logo="https://marketing.dcassetcdn.com/blog/2019/02/32-pink-logos/Model.jpg" group-title="EX-YU KANALI",EX-YU: PINK 3
+http://163.172.57.208:25461/besplatnalista/fKOUBLJpgV/74
+#EXTINF:-1 tvg-id="" tvg-name="EX-YU: PINK 3" tvg-logo="https://marketing.dcassetcdn.com/blog/2019/02/32-pink-logos/Model.jpg" group-title="EX-YU KANALI",EX-YU: PINK 3
+http://163.172.57.208:25461/besplatnalista/fKOUBLJpgV/75
+#EXTINF:-1 tvg-id="" tvg-name="EX-YU: Pink Action" tvg-logo="https://marketing.dcassetcdn.com/blog/2019/02/32-pink-logos/Model.jpg" group-title="EX-YU KANALI",EX-YU: Pink Action
+http://163.172.57.208:25461/besplatnalista/fKOUBLJpgV/76
+#EXTINF:-1 tvg-id="" tvg-name="EX-YU: Pink BH" tvg-logo="https://marketing.dcassetcdn.com/blog/2019/02/32-pink-logos/Model.jpg" group-title="EX-YU KANALI",EX-YU: Pink BH
+http://163.172.57.208:25461/besplatnalista/fKOUBLJpgV/77
+#EXTINF:-1 tvg-id="" tvg-name="EX-YU: Pink Comedy" tvg-logo="https://marketing.dcassetcdn.com/blog/2019/02/32-pink-logos/Model.jpg" group-title="EX-YU KANALI",EX-YU: Pink Comedy
+http://163.172.57.208:25461/besplatnalista/fKOUBLJpgV/78
+#EXTINF:-1 tvg-id="" tvg-name="EX-YU: Pink Crime  & Mistery" tvg-logo="https://marketing.dcassetcdn.com/blog/2019/02/32-pink-logos/Model.jpg" group-title="EX-YU KANALI",EX-YU: Pink Crime  & Mistery
+http://163.172.57.208:25461/besplatnalista/fKOUBLJpgV/79
+#EXTINF:-1 tvg-id="" tvg-name="EX-YU: Pink Crime & Mystery" tvg-logo="https://marketing.dcassetcdn.com/blog/2019/02/32-pink-logos/Model.jpg" group-title="EX-YU KANALI",EX-YU: Pink Crime & Mystery
+http://163.172.57.208:25461/besplatnalista/fKOUBLJpgV/80
+#EXTINF:-1 tvg-id="" tvg-name="EX-YU: Pink Extra" tvg-logo="https://marketing.dcassetcdn.com/blog/2019/02/32-pink-logos/Model.jpg" group-title="EX-YU KANALI",EX-YU: Pink Extra
+http://163.172.57.208:25461/besplatnalista/fKOUBLJpgV/81
+#EXTINF:-1 tvg-id="" tvg-name="EX-YU: Pink Film" tvg-logo="https://marketing.dcassetcdn.com/blog/2019/02/32-pink-logos/Model.jpg" group-title="EX-YU KANALI",EX-YU: Pink Film
+http://163.172.57.208:25461/besplatnalista/fKOUBLJpgV/82
+#EXTINF:-1 tvg-id="" tvg-name="EX-YU: Pink Folk" tvg-logo="https://marketing.dcassetcdn.com/blog/2019/02/32-pink-logos/Model.jpg" group-title="EX-YU KANALI",EX-YU: Pink Folk
+http://163.172.57.208:25461/besplatnalista/fKOUBLJpgV/83
+#EXTINF:-1 tvg-id="" tvg-name="EX-YU: Pink Folk 2" tvg-logo="https://marketing.dcassetcdn.com/blog/2019/02/32-pink-logos/Model.jpg" group-title="EX-YU KANALI",EX-YU: Pink Folk 2
+http://163.172.57.208:25461/besplatnalista/fKOUBLJpgV/84
+#EXTINF:-1 tvg-id="" tvg-name="EX-YU: Pink Hits 2" tvg-logo="https://marketing.dcassetcdn.com/blog/2019/02/32-pink-logos/Model.jpg" group-title="EX-YU KANALI",EX-YU: Pink Hits 2
+http://163.172.57.208:25461/besplatnalista/fKOUBLJpgV/85
+#EXTINF:-1 tvg-id="" tvg-name="EX-YU: Pink Horror" tvg-logo="https://marketing.dcassetcdn.com/blog/2019/02/32-pink-logos/Model.jpg" group-title="EX-YU KANALI",EX-YU: Pink Horror
+http://163.172.57.208:25461/besplatnalista/fKOUBLJpgV/86
+#EXTINF:-1 tvg-id="" tvg-name="EX-YU: Pink Kids" tvg-logo="https://marketing.dcassetcdn.com/blog/2019/02/32-pink-logos/Model.jpg" group-title="EX-YU KANALI",EX-YU: Pink Kids
+http://163.172.57.208:25461/besplatnalista/fKOUBLJpgV/87
+#EXTINF:-1 tvg-id="" tvg-name="EX-YU: Pink Koncert" tvg-logo="https://marketing.dcassetcdn.com/blog/2019/02/32-pink-logos/Model.jpg" group-title="EX-YU KANALI",EX-YU: Pink Koncert
+http://163.172.57.208:25461/besplatnalista/fKOUBLJpgV/88
+#EXTINF:-1 tvg-id="" tvg-name="EX-YU: Pink Kuvar" tvg-logo="https://marketing.dcassetcdn.com/blog/2019/02/32-pink-logos/Model.jpg" group-title="EX-YU KANALI",EX-YU: Pink Kuvar
+http://163.172.57.208:25461/besplatnalista/fKOUBLJpgV/89
+#EXTINF:-1 tvg-id="" tvg-name="EX-YU: Pink M" tvg-logo="https://marketing.dcassetcdn.com/blog/2019/02/32-pink-logos/Model.jpg" group-title="EX-YU KANALI",EX-YU: Pink M
+http://163.172.57.208:25461/besplatnalista/fKOUBLJpgV/90
+#EXTINF:-1 tvg-id="" tvg-name="EX-YU: Pink Movies" tvg-logo="https://marketing.dcassetcdn.com/blog/2019/02/32-pink-logos/Model.jpg" group-title="EX-YU KANALI",EX-YU: Pink Movies
+http://163.172.57.208:25461/besplatnalista/fKOUBLJpgV/91
+#EXTINF:-1 tvg-id="" tvg-name="EX-YU: Pink Music" tvg-logo="https://marketing.dcassetcdn.com/blog/2019/02/32-pink-logos/Model.jpg" group-title="EX-YU KANALI",EX-YU: Pink Music
+http://163.172.57.208:25461/besplatnalista/fKOUBLJpgV/92
+#EXTINF:-1 tvg-id="" tvg-name="EX-YU: Pink Music 2" tvg-logo="https://marketing.dcassetcdn.com/blog/2019/02/32-pink-logos/Model.jpg" group-title="EX-YU KANALI",EX-YU: Pink Music 2
+http://163.172.57.208:25461/besplatnalista/fKOUBLJpgV/93
+#EXTINF:-1 tvg-id="" tvg-name="EX-YU: Pink Pedia" tvg-logo="https://marketing.dcassetcdn.com/blog/2019/02/32-pink-logos/Model.jpg" group-title="EX-YU KANALI",EX-YU: Pink Pedia
+http://163.172.57.208:25461/besplatnalista/fKOUBLJpgV/94
+#EXTINF:-1 tvg-id="" tvg-name="EX-YU: Pink Plus" tvg-logo="https://marketing.dcassetcdn.com/blog/2019/02/32-pink-logos/Model.jpg" group-title="EX-YU KANALI",EX-YU: Pink Plus
+http://163.172.57.208:25461/besplatnalista/fKOUBLJpgV/95
+#EXTINF:-1 tvg-id="" tvg-name="EX-YU: Pink Premium" tvg-logo="https://marketing.dcassetcdn.com/blog/2019/02/32-pink-logos/Model.jpg" group-title="EX-YU KANALI",EX-YU: Pink Premium
+http://163.172.57.208:25461/besplatnalista/fKOUBLJpgV/96
+#EXTINF:-1 tvg-id="" tvg-name="EX-YU: Pink Reality" tvg-logo="https://marketing.dcassetcdn.com/blog/2019/02/32-pink-logos/Model.jpg" group-title="EX-YU KANALI",EX-YU: Pink Reality
+http://163.172.57.208:25461/besplatnalista/fKOUBLJpgV/97
+#EXTINF:-1 tvg-id="" tvg-name="EX-YU: Pink Romance" tvg-logo="https://marketing.dcassetcdn.com/blog/2019/02/32-pink-logos/Model.jpg" group-title="EX-YU KANALI",EX-YU: Pink Romance
+http://163.172.57.208:25461/besplatnalista/fKOUBLJpgV/98
+#EXTINF:-1 tvg-id="" tvg-name="EX-YU: Pink Sci-Fi & Fantasy" tvg-logo="https://marketing.dcassetcdn.com/blog/2019/02/32-pink-logos/Model.jpg" group-title="EX-YU KANALI",EX-YU: Pink Sci-Fi & Fantasy
+http://163.172.57.208:25461/besplatnalista/fKOUBLJpgV/99
+#EXTINF:-1 tvg-id="" tvg-name="EX-YU: Pink Sci-Fi&Fantasy" tvg-logo="https://marketing.dcassetcdn.com/blog/2019/02/32-pink-logos/Model.jpg" group-title="EX-YU KANALI",EX-YU: Pink Sci-Fi&Fantasy
+http://163.172.57.208:25461/besplatnalista/fKOUBLJpgV/100
+#EXTINF:-1 tvg-id="" tvg-name="EX-YU: Pink Serije" tvg-logo="https://marketing.dcassetcdn.com/blog/2019/02/32-pink-logos/Model.jpg" group-title="EX-YU KANALI",EX-YU: Pink Serije
+http://163.172.57.208:25461/besplatnalista/fKOUBLJpgV/101
+#EXTINF:-1 tvg-id="" tvg-name="EX-YU: Pink Show" tvg-logo="https://marketing.dcassetcdn.com/blog/2019/02/32-pink-logos/Model.jpg" group-title="EX-YU KANALI",EX-YU: Pink Show
+http://163.172.57.208:25461/besplatnalista/fKOUBLJpgV/102
+#EXTINF:-1 tvg-id="" tvg-name="EX-YU: Pink Soap" tvg-logo="https://marketing.dcassetcdn.com/blog/2019/02/32-pink-logos/Model.jpg" group-title="EX-YU KANALI",EX-YU: Pink Soap
+http://163.172.57.208:25461/besplatnalista/fKOUBLJpgV/103
+#EXTINF:-1 tvg-id="" tvg-name="EX-YU: Pink Super Kids" tvg-logo="https://marketing.dcassetcdn.com/blog/2019/02/32-pink-logos/Model.jpg" group-title="EX-YU KANALI",EX-YU: Pink Super Kids
+http://163.172.57.208:25461/besplatnalista/fKOUBLJpgV/104
+#EXTINF:-1 tvg-id="" tvg-name="EX-YU: Pink Thriller" tvg-logo="https://marketing.dcassetcdn.com/blog/2019/02/32-pink-logos/Model.jpg" group-title="EX-YU KANALI",EX-YU: Pink Thriller
+http://163.172.57.208:25461/besplatnalista/fKOUBLJpgV/105
+#EXTINF:-1 tvg-id="" tvg-name="EX-YU: Pink Western" tvg-logo="https://marketing.dcassetcdn.com/blog/2019/02/32-pink-logos/Model.jpg" group-title="EX-YU KANALI",EX-YU: Pink Western
+http://163.172.57.208:25461/besplatnalista/fKOUBLJpgV/106
+#EXTINF:-1 tvg-id="" tvg-name="EX-YU: Pink World" tvg-logo="https://marketing.dcassetcdn.com/blog/2019/02/32-pink-logos/Model.jpg" group-title="EX-YU KANALI",EX-YU: Pink World
+http://163.172.57.208:25461/besplatnalista/fKOUBLJpgV/107
+#EXTINF:-1 tvg-id="" tvg-name="EX-YU: Pink Zabava" tvg-logo="https://marketing.dcassetcdn.com/blog/2019/02/32-pink-logos/Model.jpg" group-title="EX-YU KANALI",EX-YU: Pink Zabava
+http://163.172.57.208:25461/besplatnalista/fKOUBLJpgV/108
+#EXTINF:-1 tvg-id="" tvg-name="EX-YU: Prva" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/44/Prva_Logo.jpg" group-title="EX-YU KANALI",EX-YU: Prva
+http://163.172.57.208:25461/besplatnalista/fKOUBLJpgV/109
+#EXTINF:-1 tvg-id="" tvg-name="EX-YU: Prva Plus" tvg-logo="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/355d8831032129.563ddd1c8000c.jpg" group-title="EX-YU KANALI",EX-YU: Prva Plus
+http://163.172.57.208:25461/besplatnalista/fKOUBLJpgV/110
+#EXTINF:-1 tvg-id="" tvg-name="EX-YU: Prva TV Montenegro" tvg-logo="https://serbia.mom-rsf.org/uploads/tx_lfrogmom/media/5024-835_import.jpg" group-title="EX-YU KANALI",EX-YU: Prva TV Montenegro
+http://163.172.57.208:25461/besplatnalista/fKOUBLJpgV/111
+#EXTINF:-1 tvg-id="" tvg-name="EX-YU: RTCG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/07/RTCG.png" group-title="EX-YU KANALI",EX-YU: RTCG
+http://163.172.57.208:25461/besplatnalista/fKOUBLJpgV/112
+#EXTINF:-1 tvg-id="" tvg-name="EX-YU: RTCG 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/07/RTCG.png" group-title="EX-YU KANALI",EX-YU: RTCG 1
+http://163.172.57.208:25461/besplatnalista/fKOUBLJpgV/113
+#EXTINF:-1 tvg-id="" tvg-name="EX-YU: RTCG 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/07/RTCG.png" group-title="EX-YU KANALI",EX-YU: RTCG 2
+http://163.172.57.208:25461/besplatnalista/fKOUBLJpgV/114
+#EXTINF:-1 tvg-id="" tvg-name="EX-YU: RTCG SAT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/07/RTCG.png" group-title="EX-YU KANALI",EX-YU: RTCG SAT
+http://163.172.57.208:25461/besplatnalista/fKOUBLJpgV/115
+#EXTINF:-1 tvg-id="" tvg-name="Ex-Yu: RTL Crime" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2d/RTL_Crime_Logo_2015.png" group-title="EX-YU KANALI",Ex-Yu: RTL Crime
+http://163.172.57.208:25461/besplatnalista/fKOUBLJpgV/116
+#EXTINF:-1 tvg-id="" tvg-name="EX-YU: RTL HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/RTL_logo.svg/1280px-RTL_logo.svg.png" group-title="EX-YU KANALI",EX-YU: RTL HD
+http://163.172.57.208:25461/besplatnalista/fKOUBLJpgV/117
+#EXTINF:-1 tvg-id="" tvg-name="EX-YU: RTL Living" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4c/RTL_living_Logo_2015.png" group-title="EX-YU KANALI",EX-YU: RTL Living
+http://163.172.57.208:25461/besplatnalista/fKOUBLJpgV/118
+#EXTINF:-1 tvg-id="" tvg-name="Ex-Yu: RTL Passion" tvg-logo="https://tvprofil.com/img/kanali-logo/RTL_Passion_logo.png" group-title="EX-YU KANALI",Ex-Yu: RTL Passion
+http://163.172.57.208:25461/besplatnalista/fKOUBLJpgV/119
+#EXTINF:-1 tvg-id="" tvg-name="EX-YU: RTRS" tvg-logo="https://certifications.controlunion.com/storage/configurations/certificationspetersoncontrolunioncomaccnakijkennl/generated/73a7420df1708cdab5550f201b3f2506-certification-28-200-200.png" group-title="EX-YU KANALI",EX-YU: RTRS
+http://163.172.57.208:25461/besplatnalista/fKOUBLJpgV/120
+#EXTINF:-1 tvg-id="" tvg-name="EX-YU: RTRS HD" tvg-logo="https://certifications.controlunion.com/storage/configurations/certificationspetersoncontrolunioncomaccnakijkennl/generated/73a7420df1708cdab5550f201b3f2506-certification-28-200-200.png" group-title="EX-YU KANALI",EX-YU: RTRS HD
+http://163.172.57.208:25461/besplatnalista/fKOUBLJpgV/121
+#EXTINF:-1 tvg-id="" tvg-name="EX-YU: RTS 1 (local)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/13/Rts_logo.png" group-title="EX-YU KANALI",EX-YU: RTS 1 (local)
+http://163.172.57.208:25461/besplatnalista/fKOUBLJpgV/122
+#EXTINF:-1 tvg-id="" tvg-name="EX-YU: RTS 2 (local)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/13/Rts_logo.png" group-title="EX-YU KANALI",EX-YU: RTS 2 (local)
+http://163.172.57.208:25461/besplatnalista/fKOUBLJpgV/123
+#EXTINF:-1 tvg-id="" tvg-name="EX-YU: RTS 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/13/Rts_logo.png" group-title="EX-YU KANALI",EX-YU: RTS 3
+http://163.172.57.208:25461/besplatnalista/fKOUBLJpgV/124
+#EXTINF:-1 tvg-id="" tvg-name="EX-YU: RTS HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/13/Rts_logo.png" group-title="EX-YU KANALI",EX-YU: RTS HD
+http://163.172.57.208:25461/besplatnalista/fKOUBLJpgV/125
+#EXTINF:-1 tvg-id="" tvg-name="EX-YU: RTV BANOVINA" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1f/KMBH_RTV_logo.jpg" group-title="EX-YU KANALI",EX-YU: RTV BANOVINA
+http://163.172.57.208:25461/besplatnalista/fKOUBLJpgV/126
+#EXTINF:-1 tvg-id="" tvg-name="EX-YU: RTV Zenica" tvg-logo="https://safejournalists.net/wp-content/uploads/2019/09/rtvze-logo-945x652-700x483.png" group-title="EX-YU KANALI",EX-YU: RTV Zenica
+http://163.172.57.208:25461/besplatnalista/fKOUBLJpgV/128
+#EXTINF:-1 tvg-id="" tvg-name="EX-YU: Sandzak TV" tvg-logo="https://i.pinimg.com/736x/5d/c4/36/5dc436cc9083915cab9f22b002fb171e.jpg" group-title="EX-YU KANALI",EX-YU: Sandzak TV
+http://163.172.57.208:25461/besplatnalista/fKOUBLJpgV/129
+#EXTINF:-1 tvg-id="" tvg-name="EX-YU: Sitel 3 Mk" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/5/5a/Logo_Sitel.jpg" group-title="EX-YU KANALI",EX-YU: Sitel 3 Mk
+http://163.172.57.208:25461/besplatnalista/fKOUBLJpgV/130
+#EXTINF:-1 tvg-id="" tvg-name="EX-YU: Sitel Tv Mk" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/5/5a/Logo_Sitel.jpg" group-title="EX-YU KANALI",EX-YU: Sitel Tv Mk
+http://163.172.57.208:25461/besplatnalista/fKOUBLJpgV/131
+#EXTINF:-1 tvg-id="" tvg-name="EX-YU: Sport Klub 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Sportklub_Logo.svg/1200px-Sportklub_Logo.svg.png" group-title="EX-YU KANALI",EX-YU: Sport Klub 1
+http://163.172.57.208:25461/besplatnalista/fKOUBLJpgV/132
+#EXTINF:-1 tvg-id="" tvg-name="EX-YU: Sport Klub 2" tvg-logo="https://sport-tv-guide.live/images/stations/a342.png" group-title="EX-YU KANALI",EX-YU: Sport Klub 2
+http://163.172.57.208:25461/besplatnalista/fKOUBLJpgV/133
+#EXTINF:-1 tvg-id="" tvg-name="EX-YU: Sport Klub 3" tvg-logo="https://i.ytimg.com/vi/VJVgNPcMMqY/maxresdefault.jpg" group-title="EX-YU KANALI",EX-YU: Sport Klub 3
+http://163.172.57.208:25461/besplatnalista/fKOUBLJpgV/134
+#EXTINF:-1 tvg-id="" tvg-name="EX-YU: SPORTKLUB 4 SD" tvg-logo="https://sport-tv-guide.live/images/stations/a344.png" group-title="EX-YU KANALI",EX-YU: SPORTKLUB 4 SD
+http://163.172.57.208:25461/besplatnalista/fKOUBLJpgV/135
+#EXTINF:-1 tvg-id="" tvg-name="EX-YU: SPORTKLUB 5 SD" tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/ag0paq1604074082.png" group-title="EX-YU KANALI",EX-YU: SPORTKLUB 5 SD
+http://163.172.57.208:25461/besplatnalista/fKOUBLJpgV/136
+#EXTINF:-1 tvg-id="" tvg-name="EX-YU: SPORTKLUB 6 SD" tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/tl27mw1604074101.png" group-title="EX-YU KANALI",EX-YU: SPORTKLUB 6 SD
+http://163.172.57.208:25461/besplatnalista/fKOUBLJpgV/137
+#EXTINF:-1 tvg-id="" tvg-name="EX-YU: Sportska TV" tvg-logo="https://image.shutterstock.com/image-vector/sports-tv-logo-vector-260nw-1724791816.jpg" group-title="EX-YU KANALI",EX-YU: Sportska TV
+http://163.172.57.208:25461/besplatnalista/fKOUBLJpgV/138
+#EXTINF:-1 tvg-id="" tvg-name="EX-YU: TV Istok 1" tvg-logo="https://yt3.ggpht.com/a/AGF-l7-O1bpF8fLshDKBtJu7BqAQhBlrHqci-CjY0g=s900-c-k-c0xffffffff-no-rj-mo" group-title="EX-YU KANALI",EX-YU: TV Istok 1
+http://163.172.57.208:25461/besplatnalista/fKOUBLJpgV/139
+#EXTINF:-1 tvg-id="" tvg-name="EX-YU: TV Istok 2" tvg-logo="https://yt3.ggpht.com/a/AGF-l7-O1bpF8fLshDKBtJu7BqAQhBlrHqci-CjY0g=s900-c-k-c0xffffffff-no-rj-mo" group-title="EX-YU KANALI",EX-YU: TV Istok 2
+http://163.172.57.208:25461/besplatnalista/fKOUBLJpgV/140
+#EXTINF:-1 tvg-id="" tvg-name="Ex-Yu: TV1" tvg-logo="https://upload.wikimedia.org/wikipedia/en/archive/4/40/20130407041256%21TV1_Logo_2011.png" group-title="EX-YU KANALI",Ex-Yu: TV1
+http://163.172.57.208:25461/besplatnalista/fKOUBLJpgV/141
+#EXTINF:-1 tvg-id="" tvg-name="EX-YU: USK BH" tvg-logo="https://www.rtvusk.ba/images/logo_foo.png" group-title="EX-YU KANALI",EX-YU: USK BH
+http://163.172.57.208:25461/besplatnalista/fKOUBLJpgV/142
+#EXTINF:-1 tvg-id="" tvg-name="EX-YU: Viasat History" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f2/Viasat_History_Logo.jpg" group-title="EX-YU KANALI",EX-YU: Viasat History
+http://163.172.57.208:25461/besplatnalista/fKOUBLJpgV/143
+#EXTINF:-1 tvg-id="" tvg-name="EX-YU: Viasat nature" tvg-logo="https://logonoid.com/images/viasat-nature-logo.jpg" group-title="EX-YU KANALI",EX-YU: Viasat nature
+http://163.172.57.208:25461/besplatnalista/fKOUBLJpgV/144
+#EXTINF:-1 tvg-id="" tvg-name="SR: Arenasport 1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8a/Arena_sport_logo.png" group-title="EX-YU KANALI",SR: Arenasport 1 HD
+http://163.172.57.208:25461/besplatnalista/fKOUBLJpgV/145
+#EXTINF:-1 tvg-id="" tvg-name="SR: Arenasport 3 HD" tvg-logo="https://www.thesportsdb.com/images/media/logo/Arena_Sport_3.png" group-title="EX-YU KANALI",SR: Arenasport 3 HD
+http://163.172.57.208:25461/besplatnalista/fKOUBLJpgV/146
+#EXTINF:-1 tvg-id="" tvg-name="SR: Arenasport 4 HD" tvg-logo="https://www.thesportsdb.com/images/media/logo/Arena_Sport_4.png" group-title="EX-YU KANALI",SR: Arenasport 4 HD
+http://163.172.57.208:25461/besplatnalista/fKOUBLJpgV/147
+#EXTINF:-1 tvg-id="" tvg-name="SR: Arenasport 5 HD" tvg-logo="https://www.thesportsdb.com/images/media/logo/Arena_Sport_5.png" group-title="EX-YU KANALI",SR: Arenasport 5 HD
+http://163.172.57.208:25461/besplatnalista/fKOUBLJpgV/148
+#EXTINF:-1 tvg-id="" tvg-name="EX-YU: ARENA SPORT 1 (SR)" tvg-logo="https://pbs.twimg.com/profile_images/378800000156744469/912f195dd5d03c43d4582ae73803d7a1_400x400.jpeg" group-title="EX-YU KANALI",EX-YU: ARENA SPORT 1 (SR)
+http://163.172.57.208:25461/besplatnalista/fKOUBLJpgV/149
+#EXTINF:-1 tvg-id="" tvg-name="EX-YU: Arena sport 2 HD" tvg-logo="https://marketing.dcassetcdn.com/blog/2019/02/32-pink-logos/Model.jpg" group-title="EX-YU KANALI",EX-YU: Arena sport 2 HD
+http://163.172.57.208:25461/besplatnalista/fKOUBLJpgV/150
+#EXTINF:-1 tvg-id="" tvg-name="EX-YU: ARENA SPORT 2 HD (SR)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8a/Arena_sport_logo.png" group-title="EX-YU KANALI",EX-YU: ARENA SPORT 2 HD (SR)
+http://163.172.57.208:25461/besplatnalista/fKOUBLJpgV/151
+#EXTINF:-1 tvg-id="" tvg-name="EX-YU: ARENA SPORT 3 (SR)" tvg-logo="https://pbs.twimg.com/profile_images/378800000156744469/912f195dd5d03c43d4582ae73803d7a1_400x400.jpeg" group-title="EX-YU KANALI",EX-YU: ARENA SPORT 3 (SR)
+http://163.172.57.208:25461/besplatnalista/fKOUBLJpgV/152
+#EXTINF:-1 tvg-id="" tvg-name="EX-YU: ARENA SPORT 4 HD (SR)" tvg-logo="https://pbs.twimg.com/profile_images/378800000156744469/912f195dd5d03c43d4582ae73803d7a1_400x400.jpeg" group-title="EX-YU KANALI",EX-YU: ARENA SPORT 4 HD (SR)
+http://163.172.57.208:25461/besplatnalista/fKOUBLJpgV/153
 #EXTINF:-1,EXYU| HBO 2
 http://red.ipfox.org:8080/1234/12345678/26400
 #EXTINF:-1,EXYU| HBO 3
