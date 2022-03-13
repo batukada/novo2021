@@ -1,4 +1,10 @@
 #EXTM3U
+#EXTINF:0 tvg-country="" tvg-logo="" group-title="Undefined",HBO 3
+http://stariptv.org:8080/wael2021/123456/102013?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="" tvg-logo="" group-title="Undefined",HBO HD
+http://stariptv.org:8080/wael2021/123456/102010?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="" tvg-logo="" group-title="Undefined",HBO 2
+http://red.ipfox.org:8080/1234/12345678/26400?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="" tvg-logo="" group-title="Undefined",HBO
 http://stariptv.org:8080/wael2021/123456/102009?checkedby:iptvcat.com
 #EXTINF:-1 ,EXYU| HBO 2
