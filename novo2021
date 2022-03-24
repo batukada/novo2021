@@ -1,4 +1,36 @@
 #EXTM3U
+#EXTINF:0 tvg-country="" tvg-logo="" group-title="Undefined",HBO 2 HD
+http://tv.romanija.xyz:8080/22vahid99593/razmjena114352/226?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="" tvg-logo="" group-title="Undefined",HBO 3 HD
+http://tv.romanija.xyz:8080/22vahid99593/razmjena114352/227?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="" tvg-logo="" group-title="Undefined",HBO HD
+http://stariptv.org:8080/wael2021/123456/102010?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="" tvg-logo="" group-title="Undefined",HBO Adria HD
+http://tv.romanija.xyz:8080/22maky/test111/225?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="" tvg-logo="" group-title="Undefined",HBO
+http://stariptv.org:8080/wael2021/123456/102009?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="" tvg-logo="" group-title="Sport",Sport Klub 2 HR
+http://tv.romanija.xyz:8080/22vahid99593/razmjena114352/135?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="" tvg-logo="" group-title="Sport",Sport Klub 10
+http://tv.romanija.xyz:8080/22maky/test111/146?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="" tvg-logo="" group-title="Sport",Sport Klub 1 HR
+http://tv.romanija.xyz:8080/22maky/test111/134?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="" tvg-logo="" group-title="Sport",Sport Klub 1 HR
+http://tv.romanija.xyz:8080/22vahid99593/razmjena114352/134?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="" tvg-logo="" group-title="Sport",Sport Klub 3
+http://tv.romanija.xyz:8080/22maky/test111/139?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="" tvg-logo="" group-title="Sport",Sport Klub 4
+http://tv.romanija.xyz:8080/22vahid99593/razmjena114352/140?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="" tvg-logo="" group-title="Sport",Sport Klub 6
+http://tv.romanija.xyz:8080/22vahid99593/razmjena114352/142?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="" tvg-logo="" group-title="Sport",Sport Klub 7
+http://tv.romanija.xyz:8080/22vahid99593/razmjena114352/143?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="" tvg-logo="" group-title="Sport",Sport Klub 8
+http://tv.romanija.xyz:8080/22vahid99593/razmjena114352/144?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="" tvg-logo="" group-title="Sport",Sport Klub 9
+http://tv.romanija.xyz:8080/22maky/test111/145?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="" tvg-logo="" group-title="Sport",Sport Klub HD
+http://tv.romanija.xyz:8080/22vahid99593/razmjena114352/133?checkedby:iptvcat.com
 #EXTINF:-1 group-title="HRVATSKA" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x64/4/img/kanali-logo/htv1-logo.png",HRT 1
 http://geniuses-line.com:22455/live.ts?channelId=9466&uid=31975&deviceMac=00:1A:79:E1:9C:71
 #EXTINF:-1 group-title="HRVATSKA" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x64/4/img/kanali-logo/htv1-logo.png",HRT 1 (hevc)
