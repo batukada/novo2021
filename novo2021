@@ -1,145 +1,344 @@
 #EXTM3U
-#EXTINF:0 tvg-country="HR" tvg-logo="https://i.imgur.com/W3FBVwT.png" group-title="Undefined",HRT 1 [NO KODI]
-http://195.29.70.67/PLTV/88888888/224/3221226139/03.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="HR" tvg-logo="https://i.imgur.com/7swOkC3.png" group-title="Undefined",HRT 2 [NO KODI]
-http://195.29.70.67/PLTV/88888888/224/3221226140/01.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="HR" tvg-logo="https://i.imgur.com/0hrv92c.png" group-title="Undefined",HRT 3 [NO KODI]
-http://195.29.70.67/PLTV/88888888/224/3221226280/03.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="HR" tvg-logo="https://i.imgur.com/UVFs4zA.png" group-title="Undefined",HRT 4 [NO KODI]
-http://195.29.70.67/PLTV/88888888/224/3221226281/03.m3u8?checkedby:iptvsat.com&checkedby:iptvcat.com
-#EXTINF:0 tvg-country="HR" tvg-logo="https://i.imgur.com/RApnwWl.jpg" group-title="Undefined",MAXtv Promo Kanal [NO KODI]
-http://195.29.70.67/PLTV/88888888/224/3221226027/03.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="HR" tvg-logo="https://i.imgur.com/aJGNyQn.png" group-title="Undefined",RTL [NO KODI]
-http://195.29.70.67/PLTV/88888888/224/3221226195/03.m3u8?checkedby:iptvsat.com&checkedby:iptvcat.com
-#EXTINF:0 tvg-country="RS" tvg-logo="" group-title="Undefined",Djak TV (720p)
-https://srv1.adriatelekom.com/DjakTV/index.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="RS" tvg-logo="" group-title="Undefined",RTV 1 (576p) [Not 24/7]
-mmsh://212.200.255.151/rtv1?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="SI" tvg-logo="" group-title="Sport",EUROSPORT 2
-http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/5602?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="SI" tvg-logo="" group-title="Sport",EUROSPORT 1
-http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/5601?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="" tvg-logo="" group-title="Sport",ARENA SPORT 1 HD (HR)
-http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SD5YeVHnWEm7dfRkporL1dU/ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="" tvg-logo="" group-title="Sport",ARENA SPORT 2 HD (HR)
-http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SC3coHRuanEjN2irkPwGsBU/ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="" tvg-logo="" group-title="Sport",ARENA SPORT 3 HD (HR)
-http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SLkWvBuGE1yOFvt-nrIXnkY/ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="" tvg-logo="" group-title="Sport",ARENA SPORT 3 HD (SR)
-http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SBVHeXZiLggUBN6UVXbPrec/ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="" tvg-logo="" group-title="Sport",ARENA SPORT 4 HD (HR)
-http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SFHrUm0v1AE1etzsLTBTePo/ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="" tvg-logo="" group-title="Sport",ARENA SPORT 5 HD (SR)
-http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SPVsDoRitrsvSxvt1J7Ec2E/ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="" tvg-logo="" group-title="Undefined",Amedia Premium
-http://2otsfwsh.otttv.pw/iptv/S3YKA4S9YGN99U/555/index.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="" tvg-logo="" group-title="Undefined",Disney Channel (+7)
-http://zabava-htlive.cdn.ngenix.net/hls/CH_DISNEY_7/bw2000000/variant.m3u8?version=2&checkedby:iptvcat.com
-#EXTINF:0 tvg-country="" tvg-logo="" group-title="Undefined",Disney Channel (+4)
-http://rt-sib-bul-htlive-lb.cdn.ngenix.net/hls/CH_R02_DISNEYCHANNEL/variant.m3u8?version=2&checkedby:iptvcat.com
-#EXTINF:0 tvg-country="" tvg-logo="" group-title="Undefined",FILM KLUB
-http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SKAXU4XhUL4qzK-SuFneGeA/ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="" tvg-logo="" group-title="Undefined",FilmBox
-http://94.230.240.17:8080/film_box/index.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="" tvg-logo="" group-title="Undefined",KINO HD
-http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SF2E4K7S6sGyyCUlNFjjtd8/ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="" tvg-logo="" group-title="Undefined",KLASIK TV
-http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SA78mjjMYaaIyKr10zY-u1s/ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="" tvg-logo="" group-title="Undefined",Kinoklub
-http://autopilot.catcast.tv/content/39005/index.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="" tvg-logo="https://i.imgur.com/oUwwB9s.png" group-title="Undefined",Kurir TV (360p)
-https://kurir-tv.haste-cdn.net/providus/live2805_lq/index.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="" tvg-logo="" group-title="Music",MUSIC PLUS
-http://79.172.214.45:10190/stream.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="" tvg-logo="" group-title="Undefined",NOVA BH
-http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SJkwAd9OrhnJpUjAQUN3-aY/ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="" tvg-logo="" group-title="Undefined",NOVA HD
-http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SOLuwoeStvFXf9CNHP-ZZVw/ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="" tvg-logo="" group-title="Undefined",OBN
-http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SLCuuQCJJIimgljJ1IGN0ng/ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="" tvg-logo="" group-title="Undefined",PINK 1
-http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SEOXADPogpSlyuMonMU9MXU/ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="" tvg-logo="" group-title="Undefined",PINK 3
-http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SLiK3_XMBWo9_26ZHO2ypsk/ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="" tvg-logo="" group-title="Undefined",PINK ACTION
-http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SN9pv74CvtE71wELzjAUNQc/ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="" tvg-logo="" group-title="Undefined",PINK BH
-http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SN6bjIM_RhXiPNuig9mddIE/ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="" tvg-logo="" group-title="Undefined",PINK CLASSIC
-http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SEdoCbeCEulaIZPjX9HLfHY/ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="" tvg-logo="" group-title="Undefined",PINK COMEDY
-http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SB0jUHmmCNDdP7BRRobddMQ/ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="" tvg-logo="" group-title="Undefined",PINK CRIME & MYSTERY
-http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SEy0mNbA9bBUrof8cno686I/ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="" tvg-logo="" group-title="Undefined",PINK FAMILY
-http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SAN4bkVN5NGtHPSKOXZ2uHQ/ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="" tvg-logo="" group-title="Undefined",PINK FILM
-http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SGkDix_9-J8OYUM484HRA1o/ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="" tvg-logo="" group-title="Undefined",PINK FOLK 1
-http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SABkQ0axlxKb5BX48l9tQeg/ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="" tvg-logo="" group-title="Undefined",PINK HA HA
-http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SBX3ELIH3U2D-MHgRyAe7L8/ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="" tvg-logo="" group-title="Undefined",PINK HORROR
-http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SM8aVD0KzTwwmHHJmVQKrxY/ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="" tvg-logo="" group-title="Undefined",PINK KIDS
-http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SIOBTY3lpUaeRqgZop96REw/ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="" tvg-logo="" group-title="Undefined",PINK KUVAR
-http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SC_lBUzkcBtQpIaFpS-eJzE/ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="" tvg-logo="" group-title="Undefined",PINK LOL
-http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SNUQ-9mhWbYETWiX01cePFU/ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="" tvg-logo="" group-title="Undefined",PINK MOVIES
-http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SOaq5yoBo7yoBgzeiR3EsPE/ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="" tvg-logo="" group-title="Undefined",PINK MUSIC 2
-http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SO15NgLl7yCKZ9OpAP__IgQ/ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="" tvg-logo="" group-title="Undefined",PINK PLUS
-http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SBC73bOtaDKXFg8X6aclJGY/ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="" tvg-logo="" group-title="Undefined",PINK PREMIUM
-http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SI4bhswAmqX0JmF2s-oLyPU/ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="" tvg-logo="" group-title="Undefined",PINK REALITY
-http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SE3xyo3NvX2epUsZcKjhIyY/ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="" tvg-logo="" group-title="Undefined",PINK SERIJE
-http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SBKnsqj7kbOOJQ2pWgIL6sQ/ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="" tvg-logo="" group-title="Undefined",PINK SHOW
-http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SAHWn0wRe2VTFDLcP0kXTo4/ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="" tvg-logo="" group-title="Undefined",PINK THRILLER
-http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SJgVtmVGaY1JMxc22YIbSXM/ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="" tvg-logo="" group-title="Undefined",PINK WESTERN
-http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SGRL6wjlRt8A5CVCfuumLFk/ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="" tvg-logo="" group-title="Undefined",PINK WORLD CINEMA
-http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SGcdW-DpYWX1QDfhy1lTUDs/ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="" tvg-logo="" group-title="Sport",PLANETSPORT 1 HD
-http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SM1ZmnJfnVxLdBHpfI1vCDA/ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="" tvg-logo="" group-title="Sport",PLANETSPORT 2 HD
-http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SDxEvFTVq8RTJ5HwnpKyV7o/ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="" tvg-logo="" group-title="Sport",PLANETSPORT 3 HD
-http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SEn5x7h71sqTmZLZDodXNLc/ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="" tvg-logo="" group-title="Undefined",PRVA PLUS
-http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SLT8cV5WH12f9f1CkLeQ_YY/ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="" tvg-logo="" group-title="Undefined",PRVA WORLD
-http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SOzUgZ1PEiGyh32nQIR-ojA/ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="" tvg-logo="" group-title="Undefined",RTL CRIME
-http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SLms01JWw3GEIKIq1ReshUQ/ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="" tvg-logo="" group-title="Undefined",RTL KOCKICA
-http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SFUdrriu_U_0LWdhhijT1xQ/ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="" tvg-logo="" group-title="Undefined",RTL PASSION
-http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SMG21An1exPlw3nlFtQmUig/ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="" tvg-logo="" group-title="Undefined",RTL TELEVIZIJA
-http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SB6b2-kEwwkpYafSYR4Ta_Q/ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="" tvg-logo="" group-title="Sport",SPORT KLUB 2 HD
-http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SDdm21V8uibPWHvSg8EA-kU/ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="" tvg-logo="" group-title="Sport",SPORT KLUB 1 HD
-http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SF6fGAy4q5Hqtn4XZJXAKOA/ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="" tvg-logo="" group-title="Sport",SPORT KLUB 3 HD
-http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SDK0v6yTmB1FCu5KRqIcjsE/ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="" tvg-logo="" group-title="Sport",SPORT KLUB 4 HD
-http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SOL6LtjWkykjcO8l30SSElw/ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="" tvg-logo="" group-title="Sport",SPORT KLUB 5 HD
-http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SK3zY0IGgBh7OsScQUJ5z4U/ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="" tvg-logo="" group-title="Sport",SPORT KLUB 6 HD
-http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SI95LMEETussMoHjRzDmaWI/ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="" tvg-logo="" group-title="Undefined",STUDIO B
-http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SLnhsGlXlslhFn4zblqcjzE/ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="" tvg-logo="" group-title="Кино",Звезда HD
-https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="" tvg-logo="" group-title="Undefined",Матч! Страна HD
-https://bl.uma.media/live/291661/HLS/4614144_3,2883584_2,1153024_1/1613109268/2fb2de98a984b4b86bc2cdd980da3430/playlist.m3u8?token=AnonymousTV&checkedby:iptvcat.com
+
+#EXTINF:-1,EXYU| PINK HD
+http://premiumott.xyz:80/YVGQFD8SHV/9OOUZAOIBB/10369
+#EXTINF:-1,EXYU| PINK
+http://premiumott.xyz:80/YVGQFD8SHV/9OOUZAOIBB/10368
+#EXTINF:-1,EXYU| PINK 2
+http://premiumott.xyz:80/YVGQFD8SHV/9OOUZAOIBB/10367
+#EXTINF:-1,EXYU| PINK 3 INFO
+http://premiumott.xyz:80/YVGQFD8SHV/9OOUZAOIBB/10366
+#EXTINF:-1,EXYU| PINK ACTION
+http://premiumott.xyz:80/YVGQFD8SHV/9OOUZAOIBB/10365
+#EXTINF:-1,EXYU| PINK BIH
+http://premiumott.xyz:80/YVGQFD8SHV/9OOUZAOIBB/10364
+#EXTINF:-1,EXYU| PINK MEDIA M
+http://premiumott.xyz:80/YVGQFD8SHV/9OOUZAOIBB/10363
+#EXTINF:-1,EXYU| PINK CLASSIC
+http://premiumott.xyz:80/YVGQFD8SHV/9OOUZAOIBB/10362
+#EXTINF:-1,EXYU| PINK HAHA
+http://premiumott.xyz:80/YVGQFD8SHV/9OOUZAOIBB/10361
+#EXTINF:-1,EXYU| PINK LOL
+http://premiumott.xyz:80/YVGQFD8SHV/9OOUZAOIBB/10360
+#EXTINF:-1,EXYU| PINK COMEDY
+http://premiumott.xyz:80/YVGQFD8SHV/9OOUZAOIBB/10359
+#EXTINF:-1,EXYU| PINK PREMIUM
+http://premiumott.xyz:80/YVGQFD8SHV/9OOUZAOIBB/10358
+#EXTINF:-1,EXYU| PINK CRIME &amp; MYSTERY
+http://premiumott.xyz:80/YVGQFD8SHV/9OOUZAOIBB/10357
+#EXTINF:-1,EXYU| PINK EXTRA
+http://premiumott.xyz:80/YVGQFD8SHV/9OOUZAOIBB/10356
+#EXTINF:-1,EXYU| PINK KUVAR
+http://premiumott.xyz:80/YVGQFD8SHV/9OOUZAOIBB/10355
+#EXTINF:-1,EXYU| PINK SOAP
+http://premiumott.xyz:80/YVGQFD8SHV/9OOUZAOIBB/10353
+#EXTINF:-1,EXYU| PINK PEDIA
+http://premiumott.xyz:80/YVGQFD8SHV/9OOUZAOIBB/10352
+#EXTINF:-1,EXYU| PINK SCI-FI-FANTASY
+http://premiumott.xyz:80/YVGQFD8SHV/9OOUZAOIBB/10351
+#EXTINF:-1,EXYU| PINK HORROR
+http://premiumott.xyz:80/YVGQFD8SHV/9OOUZAOIBB/10350
+#EXTINF:-1,EXYU| PINK STYLE
+http://premiumott.xyz:80/YVGQFD8SHV/9OOUZAOIBB/10349
+#EXTINF:-1,EXYU| PINK SHOW
+http://premiumott.xyz:80/YVGQFD8SHV/9OOUZAOIBB/10348
+#EXTINF:-1,EXYU| PINK THRILLER
+http://premiumott.xyz:80/YVGQFD8SHV/9OOUZAOIBB/10347
+#EXTINF:-1,EXYU| PINK WORLD
+http://premiumott.xyz:80/YVGQFD8SHV/9OOUZAOIBB/10346
+#EXTINF:-1,EXYU| PINK ZABAVA
+http://premiumott.xyz:80/YVGQFD8SHV/9OOUZAOIBB/10345
+#EXTINF:-1,EXYU| PINK WESTERN
+http://premiumott.xyz:80/YVGQFD8SHV/9OOUZAOIBB/10343
+#EXTINF:-1,EXYU| PINK SUPER KIDS
+http://premiumott.xyz:80/YVGQFD8SHV/9OOUZAOIBB/10342
+#EXTINF:-1,EXYU| PINK SERIJE
+http://premiumott.xyz:80/YVGQFD8SHV/9OOUZAOIBB/10341
+#EXTINF:-1,EXYU| PINK ROMANCE
+http://premiumott.xyz:80/YVGQFD8SHV/9OOUZAOIBB/10340
+#EXTINF:-1,EXYU| PINK REALITY
+http://premiumott.xyz:80/YVGQFD8SHV/9OOUZAOIBB/10339
+#EXTINF:-1,EXYU| PINK PLUS
+http://premiumott.xyz:80/YVGQFD8SHV/9OOUZAOIBB/10338
+#EXTINF:-1,EXYU| PINK N ROLL
+http://premiumott.xyz:80/YVGQFD8SHV/9OOUZAOIBB/10337
+#EXTINF:-1,EXYU| PINK MUSIC 2
+http://premiumott.xyz:80/YVGQFD8SHV/9OOUZAOIBB/10336
+#EXTINF:-1,EXYU| PINK MUSIC
+http://premiumott.xyz:80/YVGQFD8SHV/9OOUZAOIBB/10335
+#EXTINF:-1,EXYU| PINK KONCERT
+http://premiumott.xyz:80/YVGQFD8SHV/9OOUZAOIBB/10334
+#EXTINF:-1,EXYU| PINK KIDS
+http://premiumott.xyz:80/YVGQFD8SHV/9OOUZAOIBB/10333
+#EXTINF:-1,EXYU| PINK HITS 2
+http://premiumott.xyz:80/YVGQFD8SHV/9OOUZAOIBB/10332
+#EXTINF:-1,EXYU| PINK HITS
+http://premiumott.xyz:80/YVGQFD8SHV/9OOUZAOIBB/10331
+#EXTINF:-1,EXYU| PINK FOLK 2
+http://premiumott.xyz:80/YVGQFD8SHV/9OOUZAOIBB/10330
+#EXTINF:-1,EXYU| PINK FOLK
+http://premiumott.xyz:80/YVGQFD8SHV/9OOUZAOIBB/10329
+#EXTINF:-1,EXYU| HBO HD
+http://premiumott.xyz:80/YVGQFD8SHV/9OOUZAOIBB/10327
+#EXTINF:-1,EXYU| HBO 2 HD
+http://premiumott.xyz:80/YVGQFD8SHV/9OOUZAOIBB/10326
+#EXTINF:-1,EXYU| HBO 3
+http://premiumott.xyz:80/YVGQFD8SHV/9OOUZAOIBB/10325
+#EXTINF:-1,EXYU| EPIC DRAMA HD
+http://premiumott.xyz:80/YVGQFD8SHV/9OOUZAOIBB/10324
+#EXTINF:-1,EXYU| STAR TV
+http://premiumott.xyz:80/YVGQFD8SHV/9OOUZAOIBB/10323
+#EXTINF:-1,EXYU| TV 1000
+http://premiumott.xyz:80/YVGQFD8SHV/9OOUZAOIBB/10322
+#EXTINF:-1,EXYU| SUPER STAR TV TEST
+http://premiumott.xyz:80/YVGQFD8SHV/9OOUZAOIBB/10321
+#EXTINF:-1,EXYU| CINESTAR TV1
+http://premiumott.xyz:80/YVGQFD8SHV/9OOUZAOIBB/10320
+#EXTINF:-1,EXYU| CINESTAR ACTION TV
+http://premiumott.xyz:80/YVGQFD8SHV/9OOUZAOIBB/10319
+#EXTINF:-1,EXYU| CINESTAR FANTASY
+http://premiumott.xyz:80/YVGQFD8SHV/9OOUZAOIBB/10318
+#EXTINF:-1,EXYU| CINESTAR PREMIERE 1
+http://premiumott.xyz:80/YVGQFD8SHV/9OOUZAOIBB/10317
+#EXTINF:-1,EXYU| CINESTAR PREMIERE 2
+http://premiumott.xyz:80/YVGQFD8SHV/9OOUZAOIBB/10316
+#EXTINF:-1,EXYU| CINEMAX 1
+http://premiumott.xyz:80/YVGQFD8SHV/9OOUZAOIBB/10315
+#EXTINF:-1,EXYU| CINEMAX 2
+http://premiumott.xyz:80/YVGQFD8SHV/9OOUZAOIBB/10314
+#EXTINF:-1,EXYU| KLASIK TV
+http://premiumott.xyz:80/YVGQFD8SHV/9OOUZAOIBB/10313
+#EXTINF:-1,EXYU| M1 GOLD
+http://premiumott.xyz:80/YVGQFD8SHV/9OOUZAOIBB/10311
+#EXTINF:-1,EXYU| AXN ADRIA
+http://premiumott.xyz:80/YVGQFD8SHV/9OOUZAOIBB/10310
+#EXTINF:-1,EXYU| KINO TV
+http://premiumott.xyz:80/YVGQFD8SHV/9OOUZAOIBB/10309
+#EXTINF:-1,EXYU| FOX FHD
+http://premiumott.xyz:80/YVGQFD8SHV/9OOUZAOIBB/10308
+#EXTINF:-1,EXYU| FOX LIFE FHD
+http://premiumott.xyz:80/YVGQFD8SHV/9OOUZAOIBB/10307
+#EXTINF:-1,EXYU| FOX CRIME FHD
+http://premiumott.xyz:80/YVGQFD8SHV/9OOUZAOIBB/10306
+#EXTINF:-1,EXYU| FOX MOVIES FHD
+http://premiumott.xyz:80/YVGQFD8SHV/9OOUZAOIBB/10305
+#EXTINF:-1,EXYU| FOX
+http://premiumott.xyz:80/YVGQFD8SHV/9OOUZAOIBB/10304
+#EXTINF:-1,EXYU| FOX LIFE
+http://premiumott.xyz:80/YVGQFD8SHV/9OOUZAOIBB/10303
+#EXTINF:-1,EXYU| FOX CRIME
+http://premiumott.xyz:80/YVGQFD8SHV/9OOUZAOIBB/10302
+#EXTINF:-1,EXYU| FOX MOVIES
+http://premiumott.xyz:80/YVGQFD8SHV/9OOUZAOIBB/10301
+#EXTINF:-1,EXYU| AGRO HD
+http://premiumott.xyz:80/YVGQFD8SHV/9OOUZAOIBB/10299
+#EXTINF:-1,EXYU| ANIMAL PLANET
+http://premiumott.xyz:80/YVGQFD8SHV/9OOUZAOIBB/10298
+#EXTINF:-1,EXYU| ANIMAL PLANET HD
+http://premiumott.xyz:80/YVGQFD8SHV/9OOUZAOIBB/10297
+#EXTINF:-1,EXYU| 24 KITCHEN
+http://premiumott.xyz:80/YVGQFD8SHV/9OOUZAOIBB/10296
+#EXTINF:-1,EXYU| DISCOVERY
+http://premiumott.xyz:80/YVGQFD8SHV/9OOUZAOIBB/10295
+#EXTINF:-1,EXYU| DISCOVERY HD
+http://premiumott.xyz:80/YVGQFD8SHV/9OOUZAOIBB/10294
+#EXTINF:-1,EXYU| DISCOVERY ID
+http://premiumott.xyz:80/YVGQFD8SHV/9OOUZAOIBB/10293
+#EXTINF:-1,EXYU| DISCOVERY ID XTRA  HD
+http://premiumott.xyz:80/YVGQFD8SHV/9OOUZAOIBB/10292
+#EXTINF:-1,EXYU| TRAVEL XP HD
+http://premiumott.xyz:80/YVGQFD8SHV/9OOUZAOIBB/10291
+#EXTINF:-1,EXYU| DA VINCI LEARNING
+http://premiumott.xyz:80/YVGQFD8SHV/9OOUZAOIBB/10290
+#EXTINF:-1,EXYU| CRIME INVESTIGATION
+http://premiumott.xyz:80/YVGQFD8SHV/9OOUZAOIBB/10288
+#EXTINF:-1,EXYU| CBS REALITY
+http://premiumott.xyz:80/YVGQFD8SHV/9OOUZAOIBB/10287
+#EXTINF:-1,EXYU| TLC
+http://premiumott.xyz:80/YVGQFD8SHV/9OOUZAOIBB/10286
+#EXTINF:-1,EXYU| E!
+http://premiumott.xyz:80/YVGQFD8SHV/9OOUZAOIBB/10285
+#EXTINF:-1,EXYU| DOKU TV
+http://premiumott.xyz:80/YVGQFD8SHV/9OOUZAOIBB/10284
+#EXTINF:-1,EXYU| TRAVEL CHANNEL
+http://premiumott.xyz:80/YVGQFD8SHV/9OOUZAOIBB/10283
+#EXTINF:-1,EXYU| DOCUBOX
+http://premiumott.xyz:80/YVGQFD8SHV/9OOUZAOIBB/10281
+#EXTINF:-1,EXYU| VIASAT NATURE
+http://premiumott.xyz:80/YVGQFD8SHV/9OOUZAOIBB/10280
+#EXTINF:-1,EXYU| VIASAT HISTORY
+http://premiumott.xyz:80/YVGQFD8SHV/9OOUZAOIBB/10279
+#EXTINF:-1,EXYU| VIASAT EXPLORER
+http://premiumott.xyz:80/YVGQFD8SHV/9OOUZAOIBB/10278
+#EXTINF:-1,EXYU| NATIONAL GEOGRAPHIC WILD
+http://premiumott.xyz:80/YVGQFD8SHV/9OOUZAOIBB/10277
+#EXTINF:-1,EXYU| NATIONAL GEOGRAPHIC HD
+http://premiumott.xyz:80/YVGQFD8SHV/9OOUZAOIBB/10276
+#EXTINF:-1,EXYU| NATIONAL GEOGRAPHIC
+http://premiumott.xyz:80/YVGQFD8SHV/9OOUZAOIBB/10275
+#EXTINF:-1,EXYU| NAT GEO WILD HD
+http://premiumott.xyz:80/YVGQFD8SHV/9OOUZAOIBB/10274
+#EXTINF:-1,EXYU| LOV I RIBOLOV HD
+http://premiumott.xyz:80/YVGQFD8SHV/9OOUZAOIBB/10273
+#EXTINF:-1,EXYU| HISTORY HD
+http://premiumott.xyz:80/YVGQFD8SHV/9OOUZAOIBB/10272
+#EXTINF:-1,EXYU| HISTORY 2 HD
+http://premiumott.xyz:80/YVGQFD8SHV/9OOUZAOIBB/10271
+#EXTINF:-1,EXYU| HISTORY 2
+http://premiumott.xyz:80/YVGQFD8SHV/9OOUZAOIBB/10270
+#EXTINF:-1,EXYU| HISTORY
+http://premiumott.xyz:80/YVGQFD8SHV/9OOUZAOIBB/10269
+#EXTINF:-1,EXYU| FOOD NETWORK
+http://premiumott.xyz:80/YVGQFD8SHV/9OOUZAOIBB/10268
+#EXTINF:-1,EXYU| IDJ KIDS
+http://premiumott.xyz:80/YVGQFD8SHV/9OOUZAOIBB/10266
+#EXTINF:-1,EXYU| MASA I MEDO
+http://premiumott.xyz:80/YVGQFD8SHV/9OOUZAOIBB/10265
+#EXTINF:-1,EXYU| TOM &amp; JERRY
+http://premiumott.xyz:80/YVGQFD8SHV/9OOUZAOIBB/10264
+#EXTINF:-1,EXYU| HAYATOVCI
+http://premiumott.xyz:80/YVGQFD8SHV/9OOUZAOIBB/10263
+#EXTINF:-1,EXYU| GINX
+http://premiumott.xyz:80/YVGQFD8SHV/9OOUZAOIBB/10262
+#EXTINF:-1,EXYU| TNT KIDS
+http://premiumott.xyz:80/YVGQFD8SHV/9OOUZAOIBB/10261
+#EXTINF:-1,EXYU| RTL KOCKICA
+http://premiumott.xyz:80/YVGQFD8SHV/9OOUZAOIBB/10260
+#EXTINF:-1,EXYU| MINI TV
+http://premiumott.xyz:80/YVGQFD8SHV/9OOUZAOIBB/10259
+#EXTINF:-1,EXYU| MINIMAX
+http://premiumott.xyz:80/YVGQFD8SHV/9OOUZAOIBB/10258
+#EXTINF:-1,EXYU| PIKABOO
+http://premiumott.xyz:80/YVGQFD8SHV/9OOUZAOIBB/10257
+#EXTINF:-1,EXYU| NICKELODEON SR
+http://premiumott.xyz:80/YVGQFD8SHV/9OOUZAOIBB/10256
+#EXTINF:-1,EXYU| NICKELODEON HR
+http://premiumott.xyz:80/YVGQFD8SHV/9OOUZAOIBB/10255
+#EXTINF:-1,EXYU| NICK JR SR
+http://premiumott.xyz:80/YVGQFD8SHV/9OOUZAOIBB/10254
+#EXTINF:-1,EXYU| NICK JR HR
+http://premiumott.xyz:80/YVGQFD8SHV/9OOUZAOIBB/10253
+#EXTINF:-1,EXYU| BABY TV
+http://premiumott.xyz:80/YVGQFD8SHV/9OOUZAOIBB/10252
+#EXTINF:-1,EXYU| HAYAT  MUSIC
+http://premiumott.xyz:80/YVGQFD8SHV/9OOUZAOIBB/10250
+#EXTINF:-1,EXYU| HAYAT  FOLK
+http://premiumott.xyz:80/YVGQFD8SHV/9OOUZAOIBB/10249
+#EXTINF:-1,EXYU| GRAND 2
+http://premiumott.xyz:80/YVGQFD8SHV/9OOUZAOIBB/10248
+#EXTINF:-1,EXYU| GRAND
+http://premiumott.xyz:80/YVGQFD8SHV/9OOUZAOIBB/10247
+#EXTINF:-1,EXYU| BUJRUM TV
+http://premiumott.xyz:80/YVGQFD8SHV/9OOUZAOIBB/10246
+#EXTINF:-1,EXYU| IDJ TV
+http://premiumott.xyz:80/YVGQFD8SHV/9OOUZAOIBB/10245
+#EXTINF:-1,EXYU| IDJ MUSIC
+http://premiumott.xyz:80/YVGQFD8SHV/9OOUZAOIBB/10244
+#EXTINF:-1,EXYU| DM SAT
+http://premiumott.xyz:80/YVGQFD8SHV/9OOUZAOIBB/10243
+#EXTINF:-1,EXYU| BALKANIKA TV
+http://premiumott.xyz:80/YVGQFD8SHV/9OOUZAOIBB/10242
+#EXTINF:-1,EXYU| BN MUSIC
+http://premiumott.xyz:80/YVGQFD8SHV/9OOUZAOIBB/10241
+#EXTINF:-1,EXYU| CMC MUSIC
+http://premiumott.xyz:80/YVGQFD8SHV/9OOUZAOIBB/10240
+#EXTINF:-1,EXYU| JUGOTON
+http://premiumott.xyz:80/YVGQFD8SHV/9OOUZAOIBB/10239
+#EXTINF:-1,EXYU| IZVORNA TV
+http://premiumott.xyz:80/YVGQFD8SHV/9OOUZAOIBB/10238
+#EXTINF:-1,EXYU| SEVDAH TV
+http://premiumott.xyz:80/YVGQFD8SHV/9OOUZAOIBB/10237
+#EXTINF:-1,EXYU| GLAS DRINE
+http://premiumott.xyz:80/YVGQFD8SHV/9OOUZAOIBB/10236
+#EXTINF:-1,EXYU| YU PLANET
+http://premiumott.xyz:80/YVGQFD8SHV/9OOUZAOIBB/10235
+#EXTINF:-1,EXYU| DUGA TV
+http://premiumott.xyz:80/YVGQFD8SHV/9OOUZAOIBB/10234
+#EXTINF:-1,EXYU| MTV
+http://premiumott.xyz:80/YVGQFD8SHV/9OOUZAOIBB/10233
+#EXTINF:-1,EXYU| SOS |SRB|
+http://premiumott.xyz:80/YVGQFD8SHV/9OOUZAOIBB/10232
+#EXTINF:-1,EXYU| TV PARTIZAN HD |SRB|
+http://premiumott.xyz:80/YVGQFD8SHV/9OOUZAOIBB/10231
+#EXTINF:-1,EXYU| HNTV |HR|
+http://premiumott.xyz:80/YVGQFD8SHV/9OOUZAOIBB/10230
+#EXTINF:-1,EXYU| SPORTSKA TV |HR|
+http://premiumott.xyz:80/YVGQFD8SHV/9OOUZAOIBB/10229
+#EXTINF:-1,EXYU| MOJA TV |BH|
+http://premiumott.xyz:80/YVGQFD8SHV/9OOUZAOIBB/10228
+#EXTINF:-1,EXYU| CITY TV |BH|
+http://premiumott.xyz:80/YVGQFD8SHV/9OOUZAOIBB/10227
+#EXTINF:-1,EXYU| NOVA SPORT
+http://premiumott.xyz:80/YVGQFD8SHV/9OOUZAOIBB/10226
+#EXTINF:-1,EXYU| SPORTKLUB HD
+http://premiumott.xyz:80/YVGQFD8SHV/9OOUZAOIBB/10225
+#EXTINF:-1,EXYU| SPORTKLUB 1 HD |SRB|
+http://premiumott.xyz:80/YVGQFD8SHV/9OOUZAOIBB/10224
+#EXTINF:-1,EXYU| SPORTKLUB 2 HD |SRB|
+http://premiumott.xyz:80/YVGQFD8SHV/9OOUZAOIBB/10223
+#EXTINF:-1,EXYU| SPORTKLUB 3 HD |SRB|
+http://premiumott.xyz:80/YVGQFD8SHV/9OOUZAOIBB/10222
+#EXTINF:-1,EXYU| SPORT KLUB 1 |HR|
+http://premiumott.xyz:80/YVGQFD8SHV/9OOUZAOIBB/10221
+#EXTINF:-1,EXYU| SPORT KLUB 2 |HR|
+http://premiumott.xyz:80/YVGQFD8SHV/9OOUZAOIBB/10220
+#EXTINF:-1,EXYU| SPORT KLUB 3 |HR|
+http://premiumott.xyz:80/YVGQFD8SHV/9OOUZAOIBB/10219
+#EXTINF:-1,EXYU| SPORT KLUB 4 |HR|
+http://premiumott.xyz:80/YVGQFD8SHV/9OOUZAOIBB/10218
+#EXTINF:-1,EXYU| SPORT KLUB 5 |HR|
+http://premiumott.xyz:80/YVGQFD8SHV/9OOUZAOIBB/10217
+#EXTINF:-1,EXYU| SPORT KLUB 6 |HR|
+http://premiumott.xyz:80/YVGQFD8SHV/9OOUZAOIBB/10216
+#EXTINF:-1,EXYU| SPORT KLUB 7 |HR|
+http://premiumott.xyz:80/YVGQFD8SHV/9OOUZAOIBB/10215
+#EXTINF:-1,EXYU| SPORT KLUB 8 |HR|
+http://premiumott.xyz:80/YVGQFD8SHV/9OOUZAOIBB/10214
+#EXTINF:-1,EXYU| SPORT KLUB 9 |HR|
+http://premiumott.xyz:80/YVGQFD8SHV/9OOUZAOIBB/10213
+#EXTINF:-1,EXYU| SPORT KLUB 10 |HR|
+http://premiumott.xyz:80/YVGQFD8SHV/9OOUZAOIBB/10212
+#EXTINF:-1,EXYU| ARENA PREMIUM 1
+http://premiumott.xyz:80/YVGQFD8SHV/9OOUZAOIBB/282195
+#EXTINF:-1,EXYU| ARENA PREMIUM 2
+http://premiumott.xyz:80/YVGQFD8SHV/9OOUZAOIBB/282194
+#EXTINF:-1,EXYU| ARENA PREMIUM 3
+http://premiumott.xyz:80/YVGQFD8SHV/9OOUZAOIBB/282193
+#EXTINF:-1,EXYU| ARENA SPORT 1 BIH
+http://premiumott.xyz:80/YVGQFD8SHV/9OOUZAOIBB/10211
+#EXTINF:-1,EXYU| ARENA SPORT 1 HD |SRB|
+http://premiumott.xyz:80/YVGQFD8SHV/9OOUZAOIBB/10210
+#EXTINF:-1,EXYU| ARENA SPORT 2 HD |SRB|
+http://premiumott.xyz:80/YVGQFD8SHV/9OOUZAOIBB/10209
+#EXTINF:-1,EXYU| ARENA SPORT 3 HD |SRB|
+http://premiumott.xyz:80/YVGQFD8SHV/9OOUZAOIBB/10208
+#EXTINF:-1,EXYU| ARENA SPORT 4 HD |SRB|
+http://premiumott.xyz:80/YVGQFD8SHV/9OOUZAOIBB/10207
+#EXTINF:-1,EXYU| ARENA SPORT 1 HD |HR|
+http://premiumott.xyz:80/YVGQFD8SHV/9OOUZAOIBB/10206
+#EXTINF:-1,EXYU| ARENA SPORT 2 HD |HR|
+http://premiumott.xyz:80/YVGQFD8SHV/9OOUZAOIBB/10205
+#EXTINF:-1,EXYU| ARENA SPORT 3 HD |HR|
+http://premiumott.xyz:80/YVGQFD8SHV/9OOUZAOIBB/10204
+#EXTINF:-1,EXYU| ARENA SPORT 4 HD |HR|
+http://premiumott.xyz:80/YVGQFD8SHV/9OOUZAOIBB/10203
+#EXTINF:-1,EXYU| ARENA SPORT 5 HD |HR|
+http://premiumott.xyz:80/YVGQFD8SHV/9OOUZAOIBB/10202
+#EXTINF:-1,EXYU| ARENA SPORT 6 HD |HR|
+http://premiumott.xyz:80/YVGQFD8SHV/9OOUZAOIBB/240016
+#EXTINF:-1,EXYU| ARENA SPORT 7 HD |HR|
+http://premiumott.xyz:80/YVGQFD8SHV/9OOUZAOIBB/240017
+#EXTINF:-1,EXYU| ARENA SPORT 8 HD |HR|
+http://premiumott.xyz:80/YVGQFD8SHV/9OOUZAOIBB/240018
+#EXTINF:-1,EXYU| ARENA SPORT 9 HD |HR|
+http://premiumott.xyz:80/YVGQFD8SHV/9OOUZAOIBB/240019
+#EXTINF:-1,EXYU| ARENA SPORT 10 HD |HR|
+http://premiumott.xyz:80/YVGQFD8SHV/9OOUZAOIBB/240020
+#EXTINF:-1,EXYU| EUROSPORT 1 HD
+http://premiumott.xyz:80/YVGQFD8SHV/9OOUZAOIBB/10201
+#EXTINF:-1,EXYU| EUROSPORT 2 HD
+http://premiumott.xyz:80/YVGQFD8SHV/9OOUZAOIBB/10200
+#EXTINF:-1,EXYU| FIGHT NETWORK
+http://premiumott.xyz:80/YVGQFD8SHV/9OOUZAOIBB/10199
+#EXTINF:-1,EXYU| FIGHTBOX
+http://premiumott.xyz:80/YVGQFD8SHV/9OOUZAOIBB/10198
