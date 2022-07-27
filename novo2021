@@ -1,4 +1,5 @@
-  #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EX-YU: Al Jazeera Balkan" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/Ladyalbania.al_LOGO.jpg" group-title="EX-YU TELEKOM",EX-YU: Al Jazeera Balkan
+#EXTM3U
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EX-YU: Al Jazeera Balkan" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/Ladyalbania.al_LOGO.jpg" group-title="EX-YU TELEKOM",EX-YU: Al Jazeera Balkan
 http://link.comstar.tv:8080/live:geniptvservice/kdksiwjdjkkskkznnbuu/3608
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EX-YU: Alfa" tvg-logo="https://seeklogo.com/images/A/alfa-logo-D2755700B7-seeklogo.com.gif" group-title="EX-YU TELEKOM",EX-YU: Alfa
 http://link.comstar.tv:8080/live:geniptvservice/kdksiwjdjkkskkznnbuu/17537
