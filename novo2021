@@ -1,4 +1,232 @@
 #EXTM3U
+#EXTINF:-1 group-title="Sportski" tvg-logo="/noicon.png",Arena Sport 1 HR - Arena Sport 1 HR
+http://stream2.tvit.ba:80/live?channelId=1&uid=1111&deviceMac=00:1A:79:41:A8:ED
+#EXTINF:-1 group-title="Sportski" tvg-logo="/noicon.png",Arena Sport 2 HR - Arena Sport 2 HR
+http://stream1.tvit.ba:8088/live?channelId=2&uid=1111&deviceMac=00:1A:79:41:A8:ED
+#EXTINF:-1 group-title="Sportski" tvg-logo="/noicon.png",Arena Sport 3 HR - Arena Sport 3 HR
+http://stream4.tvit.ba:8088/live?channelId=3&uid=1111&deviceMac=00:1A:79:41:A8:ED
+#EXTINF:-1 group-title="Sportski" tvg-logo="/noicon.png",Arena Sport 4 HR - Arena Sport 4 HR
+http://stream2.tvit.ba:80/live?channelId=4&uid=1111&deviceMac=00:1A:79:41:A8:ED
+#EXTINF:-1 group-title="Informativni" tvg-logo="/noicon.png",BHT - BHT
+http://stream1.tvit.ba:8088/live?channelId=5&uid=1111&deviceMac=00:1A:79:41:A8:ED
+#EXTINF:-1 group-title="Informativni" tvg-logo="/noicon.png",FTV - FTV
+http://stream2.tvit.ba:80/live?channelId=6&uid=1111&deviceMac=00:1A:79:41:A8:ED
+#EXTINF:-1 group-title="Informativni" tvg-logo="/noicon.png",TVSA - TV Sarajevo
+http://stream2.tvit.ba:80/live?channelId=7&uid=1111&deviceMac=00:1A:79:41:A8:ED
+#EXTINF:-1 group-title="Informativni" tvg-logo="/noicon.png",HAYAT - HAYAT
+http://stream3.tvit.ba:8088/live?channelId=8&uid=1111&deviceMac=00:1A:79:41:A8:ED
+#EXTINF:-1 group-title="Informativni" tvg-logo="/noicon.png",PINK BiH - PINK BiH
+http://stream3.tvit.ba:8088/live?channelId=10&uid=1111&deviceMac=00:1A:79:41:A8:ED
+#EXTINF:-1 group-title="Filmski" tvg-logo="/noicon.png",BHT-backup - BHT-backup
+http://stream2.tvit.ba:80/live?channelId=14&uid=1111&deviceMac=00:1A:79:41:A8:ED
+#EXTINF:-1 group-title="Sportski" tvg-logo="/noicon.png",SPORT KLUB 2 - SPORT KLUB 2
+http://stream1.tvit.ba:8088/live?channelId=22&uid=1111&deviceMac=00:1A:79:41:A8:ED
+#EXTINF:-1 group-title="Dokumentarni" tvg-logo="/noicon.png",LOV I RIBOLOV - LOV I RIBOLOV
+http://stream3.tvit.ba:8088/live?channelId=23&uid=1111&deviceMac=00:1A:79:41:A8:ED
+#EXTINF:-1 group-title="Informativni" tvg-logo="/noicon.png",OBN - OBN
+http://stream2.tvit.ba:80/live?channelId=24&uid=1111&deviceMac=00:1A:79:41:A8:ED
+#EXTINF:-1 group-title="Muzicki" tvg-logo="/noicon.png",DM SAT - DM SAT
+http://stream3.tvit.ba:8088/live?channelId=25&uid=1111&deviceMac=00:1A:79:41:A8:ED
+#EXTINF:-1 group-title="Muzicki" tvg-logo="/noicon.png",BALKANIKA - BALKANIKA
+http://stream3.tvit.ba:8088/live?channelId=27&uid=1111&deviceMac=00:1A:79:41:A8:ED
+#EXTINF:-1 group-title="Muzicki" tvg-logo="/noicon.png",BHT tr - BHT tr
+http://stream2.tvit.ba:80/live?channelId=29&uid=1111&deviceMac=00:1A:79:41:A8:ED
+#EXTINF:-1 group-title="Informativni" tvg-logo="/noicon.png",RTRS - RTRS
+http://cms.tvit.ba:80/live?channelId=30&uid=1111&deviceMac=00:1A:79:41:A8:ED
+#EXTINF:-1 group-title="Dokumentarni" tvg-logo="/noicon.png",NAT GEO - NAT GEO
+http://stream2.tvit.ba:80/live?channelId=32&uid=1111&deviceMac=00:1A:79:41:A8:ED
+#EXTINF:-1 group-title="Dokumentarni" tvg-logo="/noicon.png",NAT GEO Wild - NAT GEO Wild
+http://stream1.tvit.ba:8088/live?channelId=33&uid=1111&deviceMac=00:1A:79:41:A8:ED
+#EXTINF:-1 group-title="Dokumentarni" tvg-logo="/noicon.png",DISCOVERY - DISCOVERY
+http://stream2.tvit.ba:80/live?channelId=37&uid=1111&deviceMac=00:1A:79:41:A8:ED
+#EXTINF:-1 group-title="Sportski" tvg-logo="/noicon.png",EUROSPORT - EUROSPORT
+http://stream3.tvit.ba:8088/live?channelId=38&uid=1111&deviceMac=00:1A:79:41:A8:ED
+#EXTINF:-1 group-title="Informativni" tvg-logo="/noicon.png",NOVA BH-HD - NOVA BH-HD
+http://stream2.tvit.ba:80/live?channelId=40&uid=1111&deviceMac=00:1A:79:41:A8:ED
+#EXTINF:-1 group-title="Dokumentarni" tvg-logo="/noicon.png",ANIMAL PLANET - docs
+http://stream2.tvit.ba:80/live?channelId=42&uid=1111&deviceMac=00:1A:79:41:A8:ED
+#EXTINF:-1 group-title="Filmski" tvg-logo="/noicon.png",FOX LIFE sat - FOX LIFE sat
+http://stream3.tvit.ba:8088/live?channelId=43&uid=1111&deviceMac=00:1A:79:41:A8:ED
+#EXTINF:-1 group-title="German" tvg-logo="/noicon.png",VOX - VOX
+http://stream3.tvit.ba:8088/live?channelId=49&uid=1111&deviceMac=00:1A:79:41:A8:ED
+#EXTINF:-1 group-title="Informativni" tvg-logo="/noicon.png",CNN-BBC - CNN-BBC
+http://stream3.tvit.ba:8088/live?channelId=52&uid=1111&deviceMac=00:1A:79:41:A8:ED
+#EXTINF:-1 group-title="Muzicki" tvg-logo="/noicon.png",GRAND TV - GRAND TV
+http://stream4.tvit.ba:8088/live?channelId=55&uid=1111&deviceMac=00:1A:79:41:A8:ED
+#EXTINF:-1 group-title="Informativni" tvg-logo="/noicon.png",RTV IGMAN - RTV IGMAN
+http://stream2.tvit.ba:80/live?channelId=60&uid=1111&deviceMac=00:1A:79:41:A8:ED
+#EXTINF:-1 group-title="Filmski" tvg-logo="/noicon.png",TV 1000 - TV 1000
+http://stream3.tvit.ba:8088/live?channelId=61&uid=1111&deviceMac=00:1A:79:41:A8:ED
+#EXTINF:-1 group-title="Sportski" tvg-logo="/noicon.png",Nova Sport - Nova Sport
+http://stream1.tvit.ba:8088/live?channelId=64&uid=1111&deviceMac=00:1A:79:41:A8:ED
+#EXTINF:-1 group-title="Informativni" tvg-logo="/noicon.png",RTS HD - RTS HD
+http://stream2.tvit.ba:80/live?channelId=65&uid=1111&deviceMac=00:1A:79:41:A8:ED
+#EXTINF:-1 group-title="Informativni" tvg-logo="/noicon.png",BN Televizija - BN Televizija
+http://stream3.tvit.ba:8088/live?channelId=66&uid=1111&deviceMac=00:1A:79:41:A8:ED
+#EXTINF:-1 group-title="Informativni" tvg-logo="/noicon.png",HRT 1 - HRT 1
+http://stream3.tvit.ba:8088/live?channelId=67&uid=1111&deviceMac=00:1A:79:41:A8:ED
+#EXTINF:-1 group-title="Informativni" tvg-logo="/noicon.png",HRT 2 - HRT 2
+http://stream2.tvit.ba:80/live?channelId=68&uid=1111&deviceMac=00:1A:79:41:A8:ED
+#EXTINF:-1 group-title="Informativni" tvg-logo="/noicon.png",HRT 3 - HRT 3
+http://stream4.tvit.ba:8088/live?channelId=69&uid=1111&deviceMac=00:1A:79:41:A8:ED
+#EXTINF:-1 group-title="Informativni" tvg-logo="/noicon.png",HRT 4 - HRT 4
+http://stream3.tvit.ba:8088/live?channelId=70&uid=1111&deviceMac=00:1A:79:41:A8:ED
+#EXTINF:-1 group-title="Informativni" tvg-logo="/noicon.png",RTL HR - RTL HR
+http://stream1.tvit.ba:8088/live?channelId=71&uid=1111&deviceMac=00:1A:79:41:A8:ED
+#EXTINF:-1 group-title="Informativni" tvg-logo="/noicon.png",RTL 2 HR Sat - RTL 2 HR Sat
+http://stream1.tvit.ba:8088/live?channelId=72&uid=1111&deviceMac=00:1A:79:41:A8:ED
+#EXTINF:-1 group-title="Informativni" tvg-logo="/noicon.png",ALJAZEERA Balkans - ALJAZEERA Balkans
+http://stream4.tvit.ba:8088/live?channelId=73&uid=1111&deviceMac=00:1A:79:41:A8:ED
+#EXTINF:-1 group-title="Djecji" tvg-logo="/noicon.png",BOOMERANG - BOOMERANG
+http://stream3.tvit.ba:8088/live?channelId=75&uid=1111&deviceMac=00:1A:79:41:A8:ED
+#EXTINF:-1 group-title="Informativni" tvg-logo="/noicon.png",FACE TV - FACE TV
+http://stream3.tvit.ba:8088/live?channelId=77&uid=1111&deviceMac=00:1A:79:41:A8:ED
+#EXTINF:-1 group-title="German" tvg-logo="/noicon.png",PRO 7 - PRO 7
+http://stream3.tvit.ba:8088/live?channelId=78&uid=1111&deviceMac=00:1A:79:41:A8:ED
+#EXTINF:-1 group-title="Dokumentarni" tvg-logo="/noicon.png",24 Kitchen Sat - 24 Kitchen Sat
+http://stream3.tvit.ba:8088/live?channelId=82&uid=1111&deviceMac=00:1A:79:41:A8:ED
+#EXTINF:-1 group-title="Filmski" tvg-logo="/noicon.png",HBO 1 - HBO 1
+http://stream2.tvit.ba:80/live?channelId=84&uid=1111&deviceMac=00:1A:79:41:A8:ED
+#EXTINF:-1 group-title="Filmski" tvg-logo="/noicon.png",HBO 2 - HBO 2
+http://stream4.tvit.ba:8088/live?channelId=85&uid=1111&deviceMac=00:1A:79:41:A8:ED
+#EXTINF:-1 group-title="Filmski" tvg-logo="/noicon.png",Cinestar Premiere - Cinestar Premiere
+http://stream3.tvit.ba:8088/live?channelId=86&uid=1111&deviceMac=00:1A:79:41:A8:ED
+#EXTINF:-1 group-title="Filmski" tvg-logo="/noicon.png",Cinestar Premiere 2 - Cinestar Premiere 2
+http://stream3.tvit.ba:8088/live?channelId=87&uid=1111&deviceMac=00:1A:79:41:A8:ED
+#EXTINF:-1 group-title="Muzicki" tvg-logo="/noicon.png",IDJTV - IDJTV
+http://stream2.tvit.ba:80/live?channelId=88&uid=1111&deviceMac=00:1A:79:41:A8:ED
+#EXTINF:-1 group-title="Muzicki" tvg-logo="/noicon.png",MTV - MTV
+http://stream3.tvit.ba:8088/live?channelId=90&uid=1111&deviceMac=00:1A:79:41:A8:ED
+#EXTINF:-1 group-title="Filmski" tvg-logo="/noicon.png",Pink - Pink
+http://stream3.tvit.ba:8088/live?channelId=91&uid=1111&deviceMac=00:1A:79:41:A8:ED
+#EXTINF:-1 group-title="Filmski" tvg-logo="/noicon.png",PINK FILM - PINK FILM
+http://stream2.tvit.ba:80/live?channelId=92&uid=1111&deviceMac=00:1A:79:41:A8:ED
+#EXTINF:-1 group-title="Filmski" tvg-logo="/noicon.png",Pink Premium - Pink Premium
+http://stream3.tvit.ba:8088/live?channelId=93&uid=1111&deviceMac=00:1A:79:41:A8:ED
+#EXTINF:-1 group-title="Filmski" tvg-logo="/noicon.png",Cinemax HD - Cinemax HD
+http://stream3.tvit.ba:8088/live?channelId=94&uid=1111&deviceMac=00:1A:79:41:A8:ED
+#EXTINF:-1 group-title="Filmski" tvg-logo="/noicon.png",Pink Western - Pink Western
+http://stream3.tvit.ba:8088/live?channelId=96&uid=1111&deviceMac=00:1A:79:41:A8:ED
+#EXTINF:-1 group-title="Muzicki" tvg-logo="/noicon.png",Pink Music - Pink Music
+http://stream1.tvit.ba:8088/live?channelId=99&uid=1111&deviceMac=00:1A:79:41:A8:ED
+#EXTINF:-1 group-title="Muzicki" tvg-logo="/noicon.png",Pink Music 2 - Pink Music 2
+http://stream2.tvit.ba:80/live?channelId=100&uid=1111&deviceMac=00:1A:79:41:A8:ED
+#EXTINF:-1 group-title="Muzicki" tvg-logo="/noicon.png",Pink Folk - Pink Folk
+http://stream2.tvit.ba:80/live?channelId=101&uid=1111&deviceMac=00:1A:79:41:A8:ED
+#EXTINF:-1 group-title="Muzicki" tvg-logo="/noicon.png",Pink Folk 2 - Pink Folk 2
+http://stream3.tvit.ba:8088/live?channelId=102&uid=1111&deviceMac=00:1A:79:41:A8:ED
+#EXTINF:-1 group-title="Filmski" tvg-logo="/noicon.png",Pink Family - Pink Family
+http://stream4.tvit.ba:8088/live?channelId=108&uid=1111&deviceMac=00:1A:79:41:A8:ED
+#EXTINF:-1 group-title="Filmski" tvg-logo="/noicon.png",Pink Action - Pink Action
+http://stream2.tvit.ba:80/live?channelId=109&uid=1111&deviceMac=00:1A:79:41:A8:ED
+#EXTINF:-1 group-title="Filmski" tvg-logo="/noicon.png",Pink Movies - Pink Movies
+http://stream2.tvit.ba:80/live?channelId=110&uid=1111&deviceMac=00:1A:79:41:A8:ED
+#EXTINF:-1 group-title="Djecji" tvg-logo="/noicon.png",Nickelodeon srb - Nickelodeon srb
+http://stream3.tvit.ba:8088/live?channelId=111&uid=1111&deviceMac=00:1A:79:41:A8:ED
+#EXTINF:-1 group-title="Filmski" tvg-logo="/noicon.png",Pink World Cinema - Pink World Cinema
+http://stream3.tvit.ba:8088/live?channelId=115&uid=1111&deviceMac=00:1A:79:41:A8:ED
+#EXTINF:-1 group-title="Dokumentarni" tvg-logo="/noicon.png",Pink Kuvar - Pink Kuvar
+http://stream3.tvit.ba:8088/live?channelId=117&uid=1111&deviceMac=00:1A:79:41:A8:ED
+#EXTINF:-1 group-title="Filmski" tvg-logo="/noicon.png",RTL Crime Sat - RTL Crime Sat
+http://stream1.tvit.ba:8088/live?channelId=119&uid=1111&deviceMac=00:1A:79:41:A8:ED
+#EXTINF:-1 group-title="Djecji" tvg-logo="/noicon.png",RTL Kockica - RTL Kockica
+http://stream2.tvit.ba:80/live?channelId=120&uid=1111&deviceMac=00:1A:79:41:A8:ED
+#EXTINF:-1 group-title="Filmski" tvg-logo="/noicon.png",Pink Horor - Pink Horor
+http://stream3.tvit.ba:8088/live?channelId=132&uid=1111&deviceMac=00:1A:79:41:A8:ED
+#EXTINF:-1 group-title="Informativni" tvg-logo="/noicon.png",NOVA BH - NOVA BH
+http://stream3.tvit.ba:8088/live?channelId=135&uid=1111&deviceMac=00:1A:79:41:A8:ED
+#EXTINF:-1 group-title="Sportski" tvg-logo="/noicon.png",eurosport - eurosport
+http://stream2.tvit.ba:80/live?channelId=136&uid=1111&deviceMac=00:1A:79:41:A8:ED
+#EXTINF:-1 group-title="Sportski" tvg-logo="/noicon.png",SPORT KLUB 3 - SPORT KLUB 3
+http://stream2.tvit.ba:80/live?channelId=137&uid=1111&deviceMac=00:1A:79:41:A8:ED
+#EXTINF:-1 group-title="Filmski" tvg-logo="/noicon.png",AXN - AXN
+http://stream3.tvit.ba:8088/live?channelId=138&uid=1111&deviceMac=00:1A:79:41:A8:ED
+#EXTINF:-1 group-title="Dokumentarni" tvg-logo="/noicon.png",HGTV - HGTV
+http://stream4.tvit.ba:8088/live?channelId=140&uid=1111&deviceMac=00:1A:79:41:A8:ED
+#EXTINF:-1 group-title="Dokumentarni" tvg-logo="/noicon.png",Viasat History - Viasat History
+http://stream3.tvit.ba:8088/live?channelId=142&uid=1111&deviceMac=00:1A:79:41:A8:ED
+#EXTINF:-1 group-title="Filmski" tvg-logo="/noicon.png",Cinestar TV Sat - Cinestar TV Sat
+http://stream2.tvit.ba:80/live?channelId=144&uid=1111&deviceMac=00:1A:79:41:A8:ED
+#EXTINF:-1 group-title="Informativni" tvg-logo="/noicon.png",Rtl Passion sat - Rtl Passion Sat
+http://stream4.tvit.ba:8088/live?channelId=147&uid=1111&deviceMac=00:1A:79:41:A8:ED
+#EXTINF:-1 group-title="Djecji" tvg-logo="/noicon.png",Mini TV Sat - Mini TV SAt
+http://stream4.tvit.ba:8088/live?channelId=149&uid=1111&deviceMac=00:1A:79:41:A8:ED
+#EXTINF:-1 group-title="Informativni" tvg-logo="/noicon.png",Doma Sat - Doma Sat
+http://stream3.tvit.ba:8088/live?channelId=150&uid=1111&deviceMac=00:1A:79:41:A8:ED
+#EXTINF:-1 group-title="Informativni" tvg-logo="/noicon.png",Nova TV hr - Nova TV hr
+http://stream4.tvit.ba:8088/live?channelId=152&uid=1111&deviceMac=00:1A:79:41:A8:ED
+#EXTINF:-1 group-title="Filmski" tvg-logo="/noicon.png",Fox Movies Sat - Fox Movies Sat
+http://stream1.tvit.ba:8088/live?channelId=153&uid=1111&deviceMac=00:1A:79:41:A8:ED
+#EXTINF:-1 group-title="Djecji" tvg-logo="/noicon.png",Disney Sat - Disney Sat
+http://stream1.tvit.ba:8088/live?channelId=154&uid=1111&deviceMac=00:1A:79:41:A8:ED
+#EXTINF:-1 group-title="Dokumentarni" tvg-logo="/noicon.png",Discovery Science Sat - Discovery Science Sat
+http://stream2.tvit.ba:80/live?channelId=156&uid=1111&deviceMac=00:1A:79:41:A8:ED
+#EXTINF:-1 group-title="Dokumentarni" tvg-logo="/noicon.png",BBC Earth - BBC Earth
+http://stream4.tvit.ba:8088/live?channelId=158&uid=1111&deviceMac=00:1A:79:41:A8:ED
+#EXTINF:-1 group-title="Dokumentarni" tvg-logo="/noicon.png",Travel Channel - Travel Channel
+http://stream2.tvit.ba:80/live?channelId=160&uid=1111&deviceMac=00:1A:79:41:A8:ED
+#EXTINF:-1 group-title="Dokumentarni" tvg-logo="/noicon.png",History Channel Sat - History Channel Sat
+http://stream2.tvit.ba:80/live?channelId=164&uid=1111&deviceMac=00:1A:79:41:A8:ED
+#EXTINF:-1 group-title="Filmski" tvg-logo="/noicon.png",RTL Living Sat - RTL Living Sat
+http://stream4.tvit.ba:8088/live?channelId=166&uid=1111&deviceMac=00:1A:79:41:A8:ED
+#EXTINF:-1 group-title="Filmski" tvg-logo="/noicon.png",FOX Adria Sat - FOX Adria Sat
+http://stream3.tvit.ba:8088/live?channelId=167&uid=1111&deviceMac=00:1A:79:41:A8:ED
+#EXTINF:-1 group-title="Sportski" tvg-logo="/noicon.png",Arena Sport 1 HD - Arena Sport 1 HD
+http://stream1.tvit.ba:8088/live?channelId=168&uid=1111&deviceMac=00:1A:79:41:A8:ED
+#EXTINF:-1 group-title="Informativni" tvg-logo="/noicon.png",Prva - Prva
+http://stream3.tvit.ba:8088/live?channelId=171&uid=1111&deviceMac=00:1A:79:41:A8:ED
+#EXTINF:-1 group-title="Filmski" tvg-logo="/noicon.png",Prva Plus - Prva Plus
+http://stream3.tvit.ba:8088/live?channelId=172&uid=1111&deviceMac=00:1A:79:41:A8:ED
+#EXTINF:-1 group-title="Dokumentarni" tvg-logo="/noicon.png",Happy TV - Happy TV
+http://stream3.tvit.ba:8088/live?channelId=174&uid=1111&deviceMac=00:1A:79:41:A8:ED
+#EXTINF:-1 group-title="Informativni" tvg-logo="/noicon.png",N1 BiH - N1 BiH
+http://stream2.tvit.ba:80/live?channelId=177&uid=1111&deviceMac=00:1A:79:41:A8:ED
+#EXTINF:-1 group-title="Filmski" tvg-logo="/noicon.png",Hayat Plus - Hayat Plus
+http://stream3.tvit.ba:8088/live?channelId=178&uid=1111&deviceMac=00:1A:79:41:A8:ED
+#EXTINF:-1 group-title="Muzicki" tvg-logo="/noicon.png",Hayat Folk - Hayat Folk
+http://stream2.tvit.ba:80/live?channelId=179&uid=1111&deviceMac=00:1A:79:41:A8:ED
+#EXTINF:-1 group-title="Filmski" tvg-logo="/noicon.png",Pink Comedy - Pink Comedy
+http://stream1.tvit.ba:8088/live?channelId=184&uid=1111&deviceMac=00:1A:79:41:A8:ED
+#EXTINF:-1 group-title="Dokumentarni" tvg-logo="/noicon.png",History II - History II
+http://stream3.tvit.ba:8088/live?channelId=195&uid=1111&deviceMac=00:1A:79:41:A8:ED
+#EXTINF:-1 group-title="Filmski" tvg-logo="/noicon.png",SAT 1 - SAT 1
+http://stream1.tvit.ba:8088/live?channelId=198&uid=1111&deviceMac=00:1A:79:41:A8:ED
+#EXTINF:-1 group-title="Djecji" tvg-logo="/noicon.png",Hayatovci - Hayatovci
+http://stream4.tvit.ba:8088/live?channelId=201&uid=1111&deviceMac=00:1A:79:41:A8:ED
+#EXTINF:-1 group-title="Filmski" tvg-logo="/noicon.png",Pink Thriller - Pink Thriller
+http://stream4.tvit.ba:8088/live?channelId=206&uid=1111&deviceMac=00:1A:79:41:A8:ED
+#EXTINF:-1 group-title="Filmski" tvg-logo="/noicon.png",Pink Crime & Mystery - Pink Crime & Mystery
+http://stream2.tvit.ba:80/live?channelId=207&uid=1111&deviceMac=00:1A:79:41:A8:ED
+#EXTINF:-1 group-title="Filmski" tvg-logo="/noicon.png",Pink Romance - Pink Romance
+http://stream4.tvit.ba:8088/live?channelId=208&uid=1111&deviceMac=00:1A:79:41:A8:ED
+#EXTINF:-1 group-title="Filmski" tvg-logo="/noicon.png",FOX Crime - FOX Crime
+http://stream4.tvit.ba:8088/live?channelId=233&uid=1111&deviceMac=00:1A:79:41:A8:ED
+#EXTINF:-1 group-title="Sportski" tvg-logo="/noicon.png",ARENA 2 SR HD - ARENA 2 SR HD
+http://stream2.tvit.ba:80/live?channelId=235&uid=1111&deviceMac=00:1A:79:41:A8:ED
+#EXTINF:-1 group-title="Sportski" tvg-logo="/noicon.png",ARENA 3 SR HD - ARENA 3 SR HD
+http://stream2.tvit.ba:80/live?channelId=236&uid=1111&deviceMac=00:1A:79:41:A8:ED
+#EXTINF:-1 group-title="Sportski" tvg-logo="/noicon.png",ARENA 4 SR HD - ARENA 4 SR HD
+http://stream4.tvit.ba:8088/live?channelId=237&uid=1111&deviceMac=00:1A:79:41:A8:ED
+#EXTINF:-1 group-title="Sportski" tvg-logo="/noicon.png",ARENA 1 SR HD - ARENA 1 SR HD
+http://stream3.tvit.ba:8088/live?channelId=238&uid=1111&deviceMac=00:1A:79:41:A8:ED
+#EXTINF:-1 group-title="Sportski" tvg-logo="/noicon.png",Eurosport 2 - Eurosport 2
+http://stream3.tvit.ba:8088/live?channelId=239&uid=1111&deviceMac=00:1A:79:41:A8:ED
+#EXTINF:-1 group-title="Sportski" tvg-logo="/noicon.png",Sport Klub 1 HD - Sport Klub 1 HD
+http://stream3.tvit.ba:8088/live?channelId=240&uid=1111&deviceMac=00:1A:79:41:A8:ED
+#EXTINF:-1 group-title="Sportski" tvg-logo="/noicon.png",Sport Klub 3 HD - Sport Klub 3 HD
+http://stream1.tvit.ba:8088/live?channelId=242&uid=1111&deviceMac=00:1A:79:41:A8:ED
+#EXTINF:-1 group-title="Sportski" tvg-logo="/noicon.png",Sport Klub HD - Sport Klub HD
+http://stream2.tvit.ba:80/live?channelId=243&uid=1111&deviceMac=00:1A:79:41:A8:ED
+#EXTINF:-1 group-title="Filmski" tvg-logo="/noicon.png",Cinestar Fantasy - Cinestar Fantasy
+http://stream4.tvit.ba:8088/live?channelId=248&uid=1111&deviceMac=00:1A:79:41:A8:ED
+#EXTINF:-1 group-title="Filmski" tvg-logo="/noicon.png",Cinestar Action - Cinestar Action
+http://stream2.tvit.ba:80/live?channelId=253&uid=1111&deviceMac=00:1A:79:41:A8:ED
+#EXTINF:-1 group-title="Muzicki" tvg-logo="/noicon.png",pink extra - pink extra
+http://stream3.tvit.ba:8088/live?channelId=287&uid=1111&deviceMac=00:1A:79:41:A8:ED
+#EXTINF:-1 group-title="Filmski" tvg-logo="/noicon.png",HBO 3 - HBO 3
+http://stream1.tvit.ba:8088/live?channelId=292&uid=1111&deviceMac=00:1A:79:41:A8:ED
+#EXTINF:-1 group-title="Informativni" tvg-logo="/noicon.png",TV 1 - TV 1
+http://stream3.tvit.ba:8088/live?channelId=12&uid=1111&deviceMac=00:1A:79:41:A8:ED
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EX-YU: Al Jazeera Balkan" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/Ladyalbania.al_LOGO.jpg" group-title="EX-YU TELEKOM",EX-YU: Al Jazeera Balkan
 http://link.comstar.tv:8080/live:geniptvservice/kdksiwjdjkkskkznnbuu/3608
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EX-YU: Alfa" tvg-logo="https://seeklogo.com/images/A/alfa-logo-D2755700B7-seeklogo.com.gif" group-title="EX-YU TELEKOM",EX-YU: Alfa
